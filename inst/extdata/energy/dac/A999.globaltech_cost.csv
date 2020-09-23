@@ -1,0 +1,12 @@
+# File: A999.globaltech_cost.csv
+# Title: Cement default costs (note: CCS cost not included here; calculated in data processing)
+# Units: 1975$/kgC
+# Column types: ccccnn
+# ----------
+supplysector,subsector,technology,minicam.non.energy.input,1971,2100
+ces,dac,dac,non-energy,0.3,0.3
+ces,dac,nodac,non-energy,0,0
+process heat cement,biomass,biomass,non-energy,1,1
+process heat cement,coal,coal,non-energy,1,1
+process heat cement,gas,gas,non-energy,1,1
+process heat cement,refined liquids,refined liquids,non-energy,1,1

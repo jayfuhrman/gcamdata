@@ -1,0 +1,902 @@
+# Data on heat from CHP is read in, aggregated
+fuel,sector,GCAM_region_ID,year,value
+biomass,electricity_heat,11,1971,0
+biomass,electricity_heat,11,1972,0
+biomass,electricity_heat,11,1973,0
+biomass,electricity_heat,11,1974,0
+biomass,electricity_heat,11,1975,0
+biomass,electricity_heat,11,1976,0
+biomass,electricity_heat,11,1977,0
+biomass,electricity_heat,11,1978,0
+biomass,electricity_heat,11,1979,0
+biomass,electricity_heat,11,1980,0
+biomass,electricity_heat,11,1981,0
+biomass,electricity_heat,11,1982,0
+biomass,electricity_heat,11,1983,0
+biomass,electricity_heat,11,1984,0
+biomass,electricity_heat,11,1985,0
+biomass,electricity_heat,11,1986,0
+biomass,electricity_heat,11,1987,0
+biomass,electricity_heat,11,1988,0
+biomass,electricity_heat,11,1989,0
+biomass,electricity_heat,11,1990,0
+biomass,electricity_heat,11,1991,0
+biomass,electricity_heat,11,1992,0
+biomass,electricity_heat,11,1993,0
+biomass,electricity_heat,11,1994,0
+biomass,electricity_heat,11,1995,0
+biomass,electricity_heat,11,1996,0
+biomass,electricity_heat,11,1997,0
+biomass,electricity_heat,11,1998,0
+biomass,electricity_heat,11,1999,0
+biomass,electricity_heat,11,2000,0
+biomass,electricity_heat,11,2001,0
+biomass,electricity_heat,11,2002,0
+biomass,electricity_heat,11,2003,0
+biomass,electricity_heat,11,2004,0
+biomass,electricity_heat,11,2005,0
+biomass,electricity_heat,11,2006,0
+biomass,electricity_heat,11,2007,0
+biomass,electricity_heat,11,2008,0
+biomass,electricity_heat,11,2009,0
+biomass,electricity_heat,11,2010,0
+biomass,electricity_heat,11,2011,0
+biomass,electricity_heat,11,2012,0
+biomass,electricity_heat,11,2013,0
+biomass,electricity_heat,11,2014,0
+biomass,electricity_heat,11,2015,0
+biomass,electricity_heat,12,1971,0
+biomass,electricity_heat,12,1972,0
+biomass,electricity_heat,12,1973,0
+biomass,electricity_heat,12,1974,0
+biomass,electricity_heat,12,1975,0
+biomass,electricity_heat,12,1976,0
+biomass,electricity_heat,12,1977,0
+biomass,electricity_heat,12,1978,0
+biomass,electricity_heat,12,1979,0
+biomass,electricity_heat,12,1980,0
+biomass,electricity_heat,12,1981,0
+biomass,electricity_heat,12,1982,0
+biomass,electricity_heat,12,1983,0
+biomass,electricity_heat,12,1984,3.3488e-4
+biomass,electricity_heat,12,1985,4.1860000000000004e-4
+biomass,electricity_heat,12,1986,4.1860000000000004e-4
+biomass,electricity_heat,12,1987,7.1162e-4
+biomass,electricity_heat,12,1988,3.3488e-4
+biomass,electricity_heat,12,1989,1.6744e-4
+biomass,electricity_heat,12,1990,3.7674000000000003e-4
+biomass,electricity_heat,12,1991,9.627800000000001e-4
+biomass,electricity_heat,12,1992,9.627800000000001e-4
+biomass,electricity_heat,12,1993,0.00133952
+biomass,electricity_heat,12,1994,0.0012558
+biomass,electricity_heat,12,1995,0.0015069600000000001
+biomass,electricity_heat,12,1996,0.00238602
+biomass,electricity_heat,12,1997,0.00288834
+biomass,electricity_heat,12,1998,0.0035581000000000002
+biomass,electricity_heat,12,1999,0.0029302000000000004
+biomass,electricity_heat,12,2000,0.0030139200000000002
+biomass,electricity_heat,12,2001,0.00326508
+biomass,electricity_heat,12,2002,0.0031813600000000003
+biomass,electricity_heat,12,2003,0.007702240000000001
+biomass,electricity_heat,12,2004,0.0077441
+biomass,electricity_heat,12,2005,0.00339066
+biomass,electricity_heat,12,2006,0.00414414
+biomass,electricity_heat,12,2007,0.0060278400000000005
+biomass,electricity_heat,12,2008,0.00799526
+biomass,electricity_heat,12,2009,0.016157960000000002
+biomass,electricity_heat,12,2010,0.02034396
+biomass,electricity_heat,12,2011,0.023525320000000002
+biomass,electricity_heat,12,2012,0.03172988
+biomass,electricity_heat,12,2013,0.03524612
+biomass,electricity_heat,12,2014,0.0385112
+biomass,electricity_heat,12,2015,0.03985072
+biomass,electricity_heat,14,1971,0
+biomass,electricity_heat,14,1972,0
+biomass,electricity_heat,14,1973,0
+biomass,electricity_heat,14,1974,0
+biomass,electricity_heat,14,1975,0
+biomass,electricity_heat,14,1976,0
+biomass,electricity_heat,14,1977,0
+biomass,electricity_heat,14,1978,0
+biomass,electricity_heat,14,1979,0
+biomass,electricity_heat,14,1980,0
+biomass,electricity_heat,14,1981,0
+biomass,electricity_heat,14,1982,0
+biomass,electricity_heat,14,1983,0
+biomass,electricity_heat,14,1984,0
+biomass,electricity_heat,14,1985,0
+biomass,electricity_heat,14,1986,0
+biomass,electricity_heat,14,1987,0
+biomass,electricity_heat,14,1988,0
+biomass,electricity_heat,14,1989,0
+biomass,electricity_heat,14,1990,0
+biomass,electricity_heat,14,1991,0
+biomass,electricity_heat,14,1992,0
+biomass,electricity_heat,14,1993,0
+biomass,electricity_heat,14,1994,0
+biomass,electricity_heat,14,1995,0
+biomass,electricity_heat,14,1996,0
+biomass,electricity_heat,14,1997,0
+biomass,electricity_heat,14,1998,0
+biomass,electricity_heat,14,1999,0
+biomass,electricity_heat,14,2000,0
+biomass,electricity_heat,14,2001,0
+biomass,electricity_heat,14,2002,0
+biomass,electricity_heat,14,2003,0
+biomass,electricity_heat,14,2004,0
+biomass,electricity_heat,14,2005,0
+biomass,electricity_heat,14,2006,5.0232e-4
+biomass,electricity_heat,14,2007,8.790600000000001e-4
+biomass,electricity_heat,14,2008,0.00133952
+biomass,electricity_heat,14,2009,0.0012976600000000002
+biomass,electricity_heat,14,2010,0.00171626
+biomass,electricity_heat,14,2011,0.0019255600000000002
+biomass,electricity_heat,14,2012,0.00200928
+biomass,electricity_heat,14,2013,0.00196742
+biomass,electricity_heat,14,2014,0.00217672
+biomass,electricity_heat,14,2015,0.00205114
+biomass,electricity_heat,15,1971,0
+biomass,electricity_heat,15,1972,0
+biomass,electricity_heat,15,1973,0
+biomass,electricity_heat,15,1974,0
+biomass,electricity_heat,15,1975,0
+biomass,electricity_heat,15,1976,0
+biomass,electricity_heat,15,1977,0
+biomass,electricity_heat,15,1978,0
+biomass,electricity_heat,15,1979,0
+biomass,electricity_heat,15,1980,0
+biomass,electricity_heat,15,1981,0
+biomass,electricity_heat,15,1982,0
+biomass,electricity_heat,15,1983,0
+biomass,electricity_heat,15,1984,0
+biomass,electricity_heat,15,1985,0
+biomass,electricity_heat,15,1986,0
+biomass,electricity_heat,15,1987,0
+biomass,electricity_heat,15,1988,0
+biomass,electricity_heat,15,1989,0
+biomass,electricity_heat,15,1990,0
+biomass,electricity_heat,15,1991,0
+biomass,electricity_heat,15,1992,0
+biomass,electricity_heat,15,1993,0
+biomass,electricity_heat,15,1994,0
+biomass,electricity_heat,15,1995,0
+biomass,electricity_heat,15,1996,0
+biomass,electricity_heat,15,1997,0
+biomass,electricity_heat,15,1998,0
+biomass,electricity_heat,15,1999,0
+biomass,electricity_heat,15,2000,0
+biomass,electricity_heat,15,2001,0
+biomass,electricity_heat,15,2002,0
+biomass,electricity_heat,15,2003,0
+biomass,electricity_heat,15,2004,0
+biomass,electricity_heat,15,2005,0
+biomass,electricity_heat,15,2006,0
+biomass,electricity_heat,15,2007,0
+biomass,electricity_heat,15,2008,0
+biomass,electricity_heat,15,2009,0
+biomass,electricity_heat,15,2010,0
+biomass,electricity_heat,15,2011,4.186e-5
+biomass,electricity_heat,15,2012,8.372e-5
+biomass,electricity_heat,15,2013,3.3488e-4
+biomass,electricity_heat,15,2014,3.3488e-4
+biomass,electricity_heat,15,2015,0.00163254
+biomass,electricity_heat,23,1971,0
+biomass,electricity_heat,23,1972,0
+biomass,electricity_heat,23,1973,0
+biomass,electricity_heat,23,1974,0
+biomass,electricity_heat,23,1975,0
+biomass,electricity_heat,23,1976,0
+biomass,electricity_heat,23,1977,0
+biomass,electricity_heat,23,1978,0
+biomass,electricity_heat,23,1979,0
+biomass,electricity_heat,23,1980,0
+biomass,electricity_heat,23,1981,0
+biomass,electricity_heat,23,1982,0
+biomass,electricity_heat,23,1983,0
+biomass,electricity_heat,23,1984,0
+biomass,electricity_heat,23,1985,0
+biomass,electricity_heat,23,1986,0
+biomass,electricity_heat,23,1987,0
+biomass,electricity_heat,23,1988,0
+biomass,electricity_heat,23,1989,0
+biomass,electricity_heat,23,1990,0
+biomass,electricity_heat,23,1991,0
+biomass,electricity_heat,23,1992,0
+biomass,electricity_heat,23,1993,0
+biomass,electricity_heat,23,1994,0
+biomass,electricity_heat,23,1995,0
+biomass,electricity_heat,23,1996,0
+biomass,electricity_heat,23,1997,0
+biomass,electricity_heat,23,1998,0
+biomass,electricity_heat,23,1999,0
+biomass,electricity_heat,23,2000,0
+biomass,electricity_heat,23,2001,0
+biomass,electricity_heat,23,2002,0
+biomass,electricity_heat,23,2003,0
+biomass,electricity_heat,23,2004,0
+biomass,electricity_heat,23,2005,0
+biomass,electricity_heat,23,2006,0
+biomass,electricity_heat,23,2007,0
+biomass,electricity_heat,23,2008,0
+biomass,electricity_heat,23,2009,0
+biomass,electricity_heat,23,2010,0
+biomass,electricity_heat,23,2011,0
+biomass,electricity_heat,23,2012,0
+biomass,electricity_heat,23,2013,0
+biomass,electricity_heat,23,2014,0
+biomass,electricity_heat,23,2015,0
+coal,electricity_heat,11,1971,0
+coal,electricity_heat,11,1972,0
+coal,electricity_heat,11,1973,0
+coal,electricity_heat,11,1974,0
+coal,electricity_heat,11,1975,0
+coal,electricity_heat,11,1976,0
+coal,electricity_heat,11,1977,0
+coal,electricity_heat,11,1978,0
+coal,electricity_heat,11,1979,0
+coal,electricity_heat,11,1980,0
+coal,electricity_heat,11,1981,0
+coal,electricity_heat,11,1982,0
+coal,electricity_heat,11,1983,0
+coal,electricity_heat,11,1984,0
+coal,electricity_heat,11,1985,0
+coal,electricity_heat,11,1986,0
+coal,electricity_heat,11,1987,0
+coal,electricity_heat,11,1988,0
+coal,electricity_heat,11,1989,0
+coal,electricity_heat,11,1990,0
+coal,electricity_heat,11,1991,0
+coal,electricity_heat,11,1992,0
+coal,electricity_heat,11,1993,0
+coal,electricity_heat,11,1994,0
+coal,electricity_heat,11,1995,0
+coal,electricity_heat,11,1996,0
+coal,electricity_heat,11,1997,0
+coal,electricity_heat,11,1998,0
+coal,electricity_heat,11,1999,0
+coal,electricity_heat,11,2000,0
+coal,electricity_heat,11,2001,0
+coal,electricity_heat,11,2002,0
+coal,electricity_heat,11,2003,0
+coal,electricity_heat,11,2004,0
+coal,electricity_heat,11,2005,2.0475400400000003
+coal,electricity_heat,11,2006,2.13322746
+coal,electricity_heat,11,2007,2.3215137400000003
+coal,electricity_heat,11,2008,2.22335204
+coal,electricity_heat,11,2009,2.24989128
+coal,electricity_heat,11,2010,2.2759282
+coal,electricity_heat,11,2011,2.55676694
+coal,electricity_heat,11,2012,2.77117386
+coal,electricity_heat,11,2013,2.8749448
+coal,electricity_heat,11,2014,2.8553124600000004
+coal,electricity_heat,11,2015,3.06239388
+coal,electricity_heat,12,1971,0.1761226958150685
+coal,electricity_heat,12,1972,0.19613710718138877
+coal,electricity_heat,12,1973,0.21322901084175722
+coal,electricity_heat,12,1974,0.21463280037624
+coal,electricity_heat,12,1975,0.22664103739513464
+coal,electricity_heat,12,1976,0.27446041691733586
+coal,electricity_heat,12,1977,0.2838133413587624
+coal,electricity_heat,12,1978,0.31265699116603685
+coal,electricity_heat,12,1979,0.3330790886792631
+coal,electricity_heat,12,1980,0.38725979616367506
+coal,electricity_heat,12,1981,0.3520125471102976
+coal,electricity_heat,12,1982,0.35364460810297593
+coal,electricity_heat,12,1983,0.3731689366480869
+coal,electricity_heat,12,1984,0.40243426564690604
+coal,electricity_heat,12,1985,0.3751711857697213
+coal,electricity_heat,12,1986,0.3834152735132263
+coal,electricity_heat,12,1987,0.4160800952290978
+coal,electricity_heat,12,1988,0.3760343247433246
+coal,electricity_heat,12,1989,0.45359678953561544
+coal,electricity_heat,12,1990,0.43463238000000004
+coal,electricity_heat,12,1991,0.41993952
+coal,electricity_heat,12,1992,0.38540502000000004
+coal,electricity_heat,12,1993,0.39113984
+coal,electricity_heat,12,1994,0.3681587
+coal,electricity_heat,12,1995,0.38586548000000004
+coal,electricity_heat,12,1996,0.40089322000000005
+coal,electricity_heat,12,1997,0.39067938
+coal,electricity_heat,12,1998,0.36556338
+coal,electricity_heat,12,1999,0.33559162000000003
+coal,electricity_heat,12,2000,0.32910332000000003
+coal,electricity_heat,12,2001,0.35258678000000004
+coal,electricity_heat,12,2002,0.32219642
+coal,electricity_heat,12,2003,0.32772194
+coal,electricity_heat,12,2004,0.3258801
+coal,electricity_heat,12,2005,0.32320106000000004
+coal,electricity_heat,12,2006,0.3179267
+coal,electricity_heat,12,2007,0.31997784
+coal,electricity_heat,12,2008,0.33107074000000003
+coal,electricity_heat,12,2009,0.30813146
+coal,electricity_heat,12,2010,0.3294382
+coal,electricity_heat,12,2011,0.30620590000000003
+coal,electricity_heat,12,2012,0.30331756
+coal,electricity_heat,12,2013,0.30323384000000003
+coal,electricity_heat,12,2014,0.27464346
+coal,electricity_heat,12,2015,0.2779504
+coal,electricity_heat,14,1971,0.11701993104794521
+coal,electricity_heat,14,1972,0.1399990072135097
+coal,electricity_heat,14,1973,0.1631182446783184
+coal,electricity_heat,14,1974,0.1841203088334908
+coal,electricity_heat,14,1975,0.2396979524390647
+coal,electricity_heat,14,1976,0.19802578510061408
+coal,electricity_heat,14,1977,0.20064458832333493
+coal,electricity_heat,14,1978,0.20220849334648086
+coal,electricity_heat,14,1979,0.20363223707038264
+coal,electricity_heat,14,1980,0.23820781652078413
+coal,electricity_heat,14,1981,0.23971270626003777
+coal,electricity_heat,14,1982,0.2419921716003779
+coal,electricity_heat,14,1983,0.24154955697118566
+coal,electricity_heat,14,1984,0.24393229905833727
+coal,electricity_heat,14,1985,0.2459978339945678
+coal,electricity_heat,14,1986,0.25129445572390174
+coal,electricity_heat,14,1987,0.25612633209258384
+coal,electricity_heat,14,1988,0.26216064487057156
+coal,electricity_heat,14,1989,0.2671769440014171
+coal,electricity_heat,14,1990,0.00640458
+coal,electricity_heat,14,1991,0.00514878
+coal,electricity_heat,14,1992,0.00577668
+coal,electricity_heat,14,1993,0.00552552
+coal,electricity_heat,14,1994,0.0043953
+coal,electricity_heat,14,1995,0.004186
+coal,electricity_heat,14,1996,0.0031813600000000003
+coal,electricity_heat,14,1997,0.0033488000000000003
+coal,electricity_heat,14,1998,0.0033488
+coal,electricity_heat,14,1999,0.00305578
+coal,electricity_heat,14,2000,0.0029302
+coal,electricity_heat,14,2001,0.00267904
+coal,electricity_heat,14,2002,0.0028046200000000003
+coal,electricity_heat,14,2003,0.0033488000000000003
+coal,electricity_heat,14,2004,0.0025116
+coal,electricity_heat,14,2005,0.00640458
+coal,electricity_heat,14,2006,0.00740922
+coal,electricity_heat,14,2007,0.01113476
+coal,electricity_heat,14,2008,0.01356264
+coal,electricity_heat,14,2009,0.01536262
+coal,electricity_heat,14,2010,0.01720446
+coal,electricity_heat,14,2011,0.014651
+coal,electricity_heat,14,2012,0.0249067
+coal,electricity_heat,14,2013,0.02118116
+coal,electricity_heat,14,2014,0.0223951
+coal,electricity_heat,14,2015,0.01791608
+coal,electricity_heat,15,1971,0
+coal,electricity_heat,15,1972,0
+coal,electricity_heat,15,1973,0
+coal,electricity_heat,15,1974,0
+coal,electricity_heat,15,1975,0
+coal,electricity_heat,15,1976,0
+coal,electricity_heat,15,1977,0
+coal,electricity_heat,15,1978,0
+coal,electricity_heat,15,1979,0
+coal,electricity_heat,15,1980,0
+coal,electricity_heat,15,1981,0
+coal,electricity_heat,15,1982,0
+coal,electricity_heat,15,1983,0
+coal,electricity_heat,15,1984,0
+coal,electricity_heat,15,1985,0
+coal,electricity_heat,15,1986,0
+coal,electricity_heat,15,1987,0
+coal,electricity_heat,15,1988,0.00513028060422609
+coal,electricity_heat,15,1989,0.004342070376622621
+coal,electricity_heat,15,1990,0
+coal,electricity_heat,15,1991,0
+coal,electricity_heat,15,1992,0
+coal,electricity_heat,15,1993,0
+coal,electricity_heat,15,1994,0
+coal,electricity_heat,15,1995,0
+coal,electricity_heat,15,1996,0
+coal,electricity_heat,15,1997,0
+coal,electricity_heat,15,1998,0
+coal,electricity_heat,15,1999,0
+coal,electricity_heat,15,2000,0
+coal,electricity_heat,15,2001,0
+coal,electricity_heat,15,2002,0
+coal,electricity_heat,15,2003,0
+coal,electricity_heat,15,2004,0
+coal,electricity_heat,15,2005,0.0035581000000000002
+coal,electricity_heat,15,2006,0.0015069600000000001
+coal,electricity_heat,15,2007,0.00171626
+coal,electricity_heat,15,2008,0.00284648
+coal,electricity_heat,15,2009,0.00305578
+coal,electricity_heat,15,2010,0.0031813600000000003
+coal,electricity_heat,15,2011,0.00359996
+coal,electricity_heat,15,2012,0.00359996
+coal,electricity_heat,15,2013,0.00351624
+coal,electricity_heat,15,2014,0.0033069400000000004
+coal,electricity_heat,15,2015,0.0037255400000000003
+coal,electricity_heat,23,1971,0.42613118025684926
+coal,electricity_heat,23,1972,0.5098100951216343
+coal,electricity_heat,23,1973,0.593999411072272
+coal,electricity_heat,23,1974,0.6704789843050306
+coal,electricity_heat,23,1975,0.8728664464531176
+coal,electricity_heat,23,1976,0.7211161446646198
+coal,electricity_heat,23,1977,0.7306525860055504
+coal,electricity_heat,23,1978,0.7363475875950638
+coal,electricity_heat,23,1979,0.7415321880987247
+coal,electricity_heat,23,1980,0.8674400770140528
+coal,electricity_heat,23,1981,0.8729201728832073
+coal,electricity_heat,23,1982,0.8812209063320737
+coal,electricity_heat,23,1983,0.8796091134293812
+coal,electricity_heat,23,1984,0.8882859318888757
+coal,electricity_heat,23,1985,0.8958076321014407
+coal,electricity_heat,23,1986,0.9150954205036608
+coal,electricity_heat,23,1987,0.9326908263580539
+coal,electricity_heat,23,1988,0.9546649362647615
+coal,electricity_heat,23,1989,0.9729319224952763
+coal,electricity_heat,23,1990,0.76926122
+coal,electricity_heat,23,1991,0.78286572
+coal,electricity_heat,23,1992,0.8943389
+coal,electricity_heat,23,1993,0.9861797400000001
+coal,electricity_heat,23,1994,0.97726356
+coal,electricity_heat,23,1995,1.00748648
+coal,electricity_heat,23,1996,0.71178744
+coal,electricity_heat,23,1997,0.69784806
+coal,electricity_heat,23,1998,0.7193641000000001
+coal,electricity_heat,23,1999,0.67838316
+coal,electricity_heat,23,2000,1.0013749200000002
+coal,electricity_heat,23,2001,0.9312594200000001
+coal,electricity_heat,23,2002,0.9099526800000001
+coal,electricity_heat,23,2003,0.8120421400000001
+coal,electricity_heat,23,2004,0.8068515
+coal,electricity_heat,23,2005,0.5772075400000001
+coal,electricity_heat,23,2006,0.59030972
+coal,electricity_heat,23,2007,0.52919412
+coal,electricity_heat,23,2008,0.5826074800000001
+coal,electricity_heat,23,2009,0.50897574
+coal,electricity_heat,23,2010,0.5985142800000001
+coal,electricity_heat,23,2011,0.6050863000000001
+coal,electricity_heat,23,2012,0.61881638
+coal,electricity_heat,23,2013,0.51462684
+coal,electricity_heat,23,2014,0.5091013200000001
+coal,electricity_heat,23,2015,0.5560682400000001
+gas,electricity_heat,11,1971,0
+gas,electricity_heat,11,1972,0
+gas,electricity_heat,11,1973,0
+gas,electricity_heat,11,1974,0
+gas,electricity_heat,11,1975,0
+gas,electricity_heat,11,1976,0
+gas,electricity_heat,11,1977,0
+gas,electricity_heat,11,1978,0
+gas,electricity_heat,11,1979,0
+gas,electricity_heat,11,1980,0
+gas,electricity_heat,11,1981,0
+gas,electricity_heat,11,1982,0
+gas,electricity_heat,11,1983,0
+gas,electricity_heat,11,1984,0
+gas,electricity_heat,11,1985,0
+gas,electricity_heat,11,1986,0
+gas,electricity_heat,11,1987,0
+gas,electricity_heat,11,1988,0
+gas,electricity_heat,11,1989,0
+gas,electricity_heat,11,1990,0
+gas,electricity_heat,11,1991,0
+gas,electricity_heat,11,1992,0
+gas,electricity_heat,11,1993,0
+gas,electricity_heat,11,1994,0
+gas,electricity_heat,11,1995,0
+gas,electricity_heat,11,1996,0
+gas,electricity_heat,11,1997,0
+gas,electricity_heat,11,1998,0
+gas,electricity_heat,11,1999,0
+gas,electricity_heat,11,2000,0
+gas,electricity_heat,11,2001,0
+gas,electricity_heat,11,2002,0
+gas,electricity_heat,11,2003,0
+gas,electricity_heat,11,2004,0
+gas,electricity_heat,11,2005,0.040771640000000005
+gas,electricity_heat,11,2006,0.06513416000000001
+gas,electricity_heat,11,2007,0.07283640000000001
+gas,electricity_heat,11,2008,0.08158514
+gas,electricity_heat,11,2009,0.1146964
+gas,electricity_heat,11,2010,0.2513693
+gas,electricity_heat,11,2011,0.16798418
+gas,electricity_heat,11,2012,0.16986788
+gas,electricity_heat,11,2013,0.2252068
+gas,electricity_heat,11,2014,0.33107074000000003
+gas,electricity_heat,11,2015,0.40524666000000004
+gas,electricity_heat,12,1971,0.11652510548867263
+gas,electricity_heat,12,1972,0.10810988394238047
+gas,electricity_heat,12,1973,0.10285191739595537
+gas,electricity_heat,12,1974,0.10155802125206247
+gas,electricity_heat,12,1975,0.11997586960065787
+gas,electricity_heat,12,1976,0.10434845447829254
+gas,electricity_heat,12,1977,0.09410433159075805
+gas,electricity_heat,12,1978,0.08643560226217673
+gas,electricity_heat,12,1979,0.08314356501062467
+gas,electricity_heat,12,1980,0.10928715974784362
+gas,electricity_heat,12,1981,0.10721989625923123
+gas,electricity_heat,12,1982,0.11504718805078573
+gas,electricity_heat,12,1983,0.11699105077016872
+gas,electricity_heat,12,1984,0.11044389477319572
+gas,electricity_heat,12,1985,0.14293252098172277
+gas,electricity_heat,12,1986,0.14729687686920584
+gas,electricity_heat,12,1987,0.14977446143230078
+gas,electricity_heat,12,1988,0.1624686653008727
+gas,electricity_heat,12,1989,0.20296313226560753
+gas,electricity_heat,12,1990,0.18037474
+gas,electricity_heat,12,1991,0.18707234
+gas,electricity_heat,12,1992,0.19716060000000002
+gas,electricity_heat,12,1993,0.15015182000000002
+gas,electricity_heat,12,1994,0.13139854
+gas,electricity_heat,12,1995,0.14697046
+gas,electricity_heat,12,1996,0.14906346
+gas,electricity_heat,12,1997,0.16107728
+gas,electricity_heat,12,1998,0.16153773999999999
+gas,electricity_heat,12,1999,0.13943566
+gas,electricity_heat,12,2000,0.13524966000000002
+gas,electricity_heat,12,2001,0.14692860000000002
+gas,electricity_heat,12,2002,0.14077518000000003
+gas,electricity_heat,12,2003,0.16392376
+gas,electricity_heat,12,2004,0.17225390000000002
+gas,electricity_heat,12,2005,0.17221204
+gas,electricity_heat,12,2006,0.17346784
+gas,electricity_heat,12,2007,0.16266796
+gas,electricity_heat,12,2008,0.15396108
+gas,electricity_heat,12,2009,0.14952392
+gas,electricity_heat,12,2010,0.16078426
+gas,electricity_heat,12,2011,0.15165878000000002
+gas,electricity_heat,12,2012,0.13855660000000003
+gas,electricity_heat,12,2013,0.13035204
+gas,electricity_heat,12,2014,0.11900798
+gas,electricity_heat,12,2015,0.11691498000000002
+gas,electricity_heat,14,1971,0.2278385546612601
+gas,electricity_heat,14,1972,0.21748153077945534
+gas,electricity_heat,14,1973,0.20028104547382114
+gas,electricity_heat,14,1974,0.18128385209308592
+gas,electricity_heat,14,1975,0.16603978224700622
+gas,electricity_heat,14,1976,0.17402515146967762
+gas,electricity_heat,14,1977,0.1970310002001939
+gas,electricity_heat,14,1978,0.22141033243700967
+gas,electricity_heat,14,1979,0.24663611381142855
+gas,electricity_heat,14,1980,0.23441849890074132
+gas,electricity_heat,14,1981,0.24998996888495056
+gas,electricity_heat,14,1982,0.2717501000167301
+gas,electricity_heat,14,1983,0.3024618300471243
+gas,electricity_heat,14,1984,0.33815643047246535
+gas,electricity_heat,14,1985,0.3806705362139679
+gas,electricity_heat,14,1986,0.4150954629329043
+gas,electricity_heat,14,1987,0.4494804628057273
+gas,electricity_heat,14,1988,0.4835061210635301
+gas,electricity_heat,14,1989,0.5186976432278428
+gas,electricity_heat,14,1990,0.2019745
+gas,electricity_heat,14,1991,0.20570004
+gas,electricity_heat,14,1992,0.2760667
+gas,electricity_heat,14,1993,0.25501112000000004
+gas,electricity_heat,14,1994,0.2111837
+gas,electricity_heat,14,1995,0.19531876000000004
+gas,electricity_heat,14,1996,0.20498842
+gas,electricity_heat,14,1997,0.19000254
+gas,electricity_heat,14,1998,0.17166786
+gas,electricity_heat,14,1999,0.17907708
+gas,electricity_heat,14,2000,0.17350970000000002
+gas,electricity_heat,14,2001,0.18142124
+gas,electricity_heat,14,2002,0.17639804
+gas,electricity_heat,14,2003,0.16430050000000002
+gas,electricity_heat,14,2004,0.17618874
+gas,electricity_heat,14,2005,0.26426218
+gas,electricity_heat,14,2006,0.23504390000000003
+gas,electricity_heat,14,2007,0.21478366000000002
+gas,electricity_heat,14,2008,0.20883954000000002
+gas,electricity_heat,14,2009,0.16191448
+gas,electricity_heat,14,2010,0.22068592
+gas,electricity_heat,14,2011,0.20339774000000002
+gas,electricity_heat,14,2012,0.20754188
+gas,electricity_heat,14,2013,0.19289088000000001
+gas,electricity_heat,14,2014,0.18255146
+gas,electricity_heat,14,2015,0.15768662
+gas,electricity_heat,15,1971,0
+gas,electricity_heat,15,1972,0
+gas,electricity_heat,15,1973,0
+gas,electricity_heat,15,1974,0
+gas,electricity_heat,15,1975,0
+gas,electricity_heat,15,1976,0
+gas,electricity_heat,15,1977,0
+gas,electricity_heat,15,1978,0
+gas,electricity_heat,15,1979,0
+gas,electricity_heat,15,1980,0
+gas,electricity_heat,15,1981,0
+gas,electricity_heat,15,1982,0
+gas,electricity_heat,15,1983,0
+gas,electricity_heat,15,1984,0
+gas,electricity_heat,15,1985,0
+gas,electricity_heat,15,1986,0
+gas,electricity_heat,15,1987,0
+gas,electricity_heat,15,1988,0.00863554261484099
+gas,electricity_heat,15,1989,0.00774095151943463
+gas,electricity_heat,15,1990,0.0081627
+gas,electricity_heat,15,1991,0.00791154
+gas,electricity_heat,15,1992,0.00820456
+gas,electricity_heat,15,1993,0.00874874
+gas,electricity_heat,15,1994,0.0031395000000000004
+gas,electricity_heat,15,1995,0.0012976600000000002
+gas,electricity_heat,15,1996,0.004646460000000001
+gas,electricity_heat,15,1997,0.006279000000000001
+gas,electricity_heat,15,1998,0.0058604
+gas,electricity_heat,15,1999,0.0052743600000000005
+gas,electricity_heat,15,2000,0.006404580000000001
+gas,electricity_heat,15,2001,0.00745108
+gas,electricity_heat,15,2002,0.007576660000000001
+gas,electricity_heat,15,2003,0.00745108
+gas,electricity_heat,15,2004,0.01377194
+gas,electricity_heat,15,2005,0.02105558
+gas,electricity_heat,15,2006,0.02570204
+gas,electricity_heat,15,2007,0.0322322
+gas,electricity_heat,15,2008,0.03059966
+gas,electricity_heat,15,2009,0.03152058
+gas,electricity_heat,15,2010,0.03905538
+gas,electricity_heat,15,2011,0.03826004
+gas,electricity_heat,15,2012,0.03947398
+gas,electricity_heat,15,2013,0.040520480000000005
+gas,electricity_heat,15,2014,0.03574844
+gas,electricity_heat,15,2015,0.0316043
+gas,electricity_heat,23,1971,0.7776534010493875
+gas,electricity_heat,23,1972,0.7423030414124516
+gas,electricity_heat,23,1973,0.6835947340431686
+gas,electricity_heat,23,1974,0.6187539433135846
+gas,electricity_heat,23,1975,0.5667232289366296
+gas,electricity_heat,23,1976,0.593978710537968
+gas,electricity_heat,23,1977,0.672501753031424
+gas,electricity_heat,23,1978,0.75571273836031
+gas,electricity_heat,23,1979,0.8418128047389382
+gas,electricity_heat,23,1980,0.8001119178888904
+gas,electricity_heat,23,1981,0.8532601070115002
+gas,electricity_heat,23,1982,0.9275312943751475
+gas,electricity_heat,23,1983,1.032355876613895
+gas,electricity_heat,23,1984,1.1541878793718776
+gas,electricity_heat,23,1985,1.2992960634174033
+gas,electricity_heat,23,1986,1.4167944446007734
+gas,electricity_heat,23,1987,1.5341565483761364
+gas,electricity_heat,23,1988,1.6502921554794392
+gas,electricity_heat,23,1989,1.7704070628965376
+gas,electricity_heat,23,1990,3.0003155
+gas,electricity_heat,23,1991,2.78628532
+gas,electricity_heat,23,1992,2.97365068
+gas,electricity_heat,23,1993,2.80110376
+gas,electricity_heat,23,1994,2.1147672
+gas,electricity_heat,23,1995,2.0128799600000002
+gas,electricity_heat,23,1996,1.7288180000000002
+gas,electricity_heat,23,1997,1.7060043
+gas,electricity_heat,23,1998,1.5003461200000001
+gas,electricity_heat,23,1999,1.50310888
+gas,electricity_heat,23,2000,1.47761614
+gas,electricity_heat,23,2001,1.53609456
+gas,electricity_heat,23,2002,1.5115646
+gas,electricity_heat,23,2003,1.5881265400000002
+gas,electricity_heat,23,2004,1.5714244000000002
+gas,electricity_heat,23,2005,1.5397363800000001
+gas,electricity_heat,23,2006,1.5527129800000001
+gas,electricity_heat,23,2007,1.5378945400000001
+gas,electricity_heat,23,2008,1.45907216
+gas,electricity_heat,23,2009,1.43123526
+gas,electricity_heat,23,2010,1.55421994
+gas,electricity_heat,23,2011,1.6831068800000002
+gas,electricity_heat,23,2012,1.77302216
+gas,electricity_heat,23,2013,1.8996486600000002
+gas,electricity_heat,23,2014,1.95561548
+gas,electricity_heat,23,2015,1.80487762
+refined liquids,electricity_heat,11,1971,0
+refined liquids,electricity_heat,11,1972,0
+refined liquids,electricity_heat,11,1973,0
+refined liquids,electricity_heat,11,1974,0
+refined liquids,electricity_heat,11,1975,0
+refined liquids,electricity_heat,11,1976,0
+refined liquids,electricity_heat,11,1977,0
+refined liquids,electricity_heat,11,1978,0
+refined liquids,electricity_heat,11,1979,0
+refined liquids,electricity_heat,11,1980,0
+refined liquids,electricity_heat,11,1981,0
+refined liquids,electricity_heat,11,1982,0
+refined liquids,electricity_heat,11,1983,0
+refined liquids,electricity_heat,11,1984,0
+refined liquids,electricity_heat,11,1985,0
+refined liquids,electricity_heat,11,1986,0
+refined liquids,electricity_heat,11,1987,0
+refined liquids,electricity_heat,11,1988,0
+refined liquids,electricity_heat,11,1989,0
+refined liquids,electricity_heat,11,1990,0
+refined liquids,electricity_heat,11,1991,0
+refined liquids,electricity_heat,11,1992,0
+refined liquids,electricity_heat,11,1993,0
+refined liquids,electricity_heat,11,1994,0
+refined liquids,electricity_heat,11,1995,0
+refined liquids,electricity_heat,11,1996,0
+refined liquids,electricity_heat,11,1997,0
+refined liquids,electricity_heat,11,1998,0
+refined liquids,electricity_heat,11,1999,0
+refined liquids,electricity_heat,11,2000,0
+refined liquids,electricity_heat,11,2001,0
+refined liquids,electricity_heat,11,2002,0
+refined liquids,electricity_heat,11,2003,0
+refined liquids,electricity_heat,11,2004,0
+refined liquids,electricity_heat,11,2005,0
+refined liquids,electricity_heat,11,2006,0
+refined liquids,electricity_heat,11,2007,0
+refined liquids,electricity_heat,11,2008,0
+refined liquids,electricity_heat,11,2009,0
+refined liquids,electricity_heat,11,2010,0
+refined liquids,electricity_heat,11,2011,0
+refined liquids,electricity_heat,11,2012,0
+refined liquids,electricity_heat,11,2013,0
+refined liquids,electricity_heat,11,2014,0
+refined liquids,electricity_heat,11,2015,0
+refined liquids,electricity_heat,12,1971,0.024173556329219085
+refined liquids,electricity_heat,12,1972,0.029881064989318775
+refined liquids,electricity_heat,12,1973,0.03520504493709946
+refined liquids,electricity_heat,12,1974,0.042038774392356995
+refined liquids,electricity_heat,12,1975,0.03127820831474009
+refined liquids,electricity_heat,12,1976,0.07452279513054831
+refined liquids,electricity_heat,12,1977,0.09448600847377167
+refined liquids,electricity_heat,12,1978,0.11151491580109187
+refined liquids,electricity_heat,12,1979,0.1048386034939473
+refined liquids,electricity_heat,12,1980,0.07908785019819606
+refined liquids,electricity_heat,12,1981,0.08743251153453596
+refined liquids,electricity_heat,12,1982,0.08049864049964398
+refined liquids,electricity_heat,12,1983,0.08597429463802517
+refined liquids,electricity_heat,12,1984,0.0810094780607643
+refined liquids,electricity_heat,12,1985,0.06871916893543793
+refined liquids,electricity_heat,12,1986,0.07769724967125564
+refined liquids,electricity_heat,12,1987,0.08695013539520532
+refined liquids,electricity_heat,12,1988,0.053880012557559934
+refined liquids,electricity_heat,12,1989,0.08324479013766913
+refined liquids,electricity_heat,12,1990,0.09493848
+refined liquids,electricity_heat,12,1991,0.0789061
+refined liquids,electricity_heat,12,1992,0.09652916
+refined liquids,electricity_heat,12,1993,0.10159422000000001
+refined liquids,electricity_heat,12,1994,0.10439884
+refined liquids,electricity_heat,12,1995,0.09912448
+refined liquids,electricity_heat,12,1996,0.09991982
+refined liquids,electricity_heat,12,1997,0.09682218000000001
+refined liquids,electricity_heat,12,1998,0.07756658000000001
+refined liquids,electricity_heat,12,1999,0.06915272
+refined liquids,electricity_heat,12,2000,0.052324999999999997
+refined liquids,electricity_heat,12,2001,0.06337604000000001
+refined liquids,electricity_heat,12,2002,0.04684134
+refined liquids,electricity_heat,12,2003,0.03779958
+refined liquids,electricity_heat,12,2004,0.024864840000000003
+refined liquids,electricity_heat,12,2005,0.02310672
+refined liquids,electricity_heat,12,2006,0.01670214
+refined liquids,electricity_heat,12,2007,0.00929292
+refined liquids,electricity_heat,12,2008,0.00841386
+refined liquids,electricity_heat,12,2009,0.019423040000000003
+refined liquids,electricity_heat,12,2010,0.02017652
+refined liquids,electricity_heat,12,2011,0.01741376
+refined liquids,electricity_heat,12,2012,0.02034396
+refined liquids,electricity_heat,12,2013,0.01494402
+refined liquids,electricity_heat,12,2014,0.014232400000000001
+refined liquids,electricity_heat,12,2015,0.014190540000000001
+refined liquids,electricity_heat,14,1971,0.30328889737597914
+refined liquids,electricity_heat,14,1972,0.3477405286684074
+refined liquids,electricity_heat,14,1973,0.4157816088250653
+refined liquids,electricity_heat,14,1974,0.5010016559138383
+refined liquids,electricity_heat,14,1975,0.666746353237598
+refined liquids,electricity_heat,14,1976,0.6590706446083552
+refined liquids,electricity_heat,14,1977,0.6749000363968669
+refined liquids,electricity_heat,14,1978,0.6899140598694518
+refined liquids,electricity_heat,14,1979,0.7024538622454308
+refined liquids,electricity_heat,14,1980,0.6678428830417754
+refined liquids,electricity_heat,14,1981,0.7787892063054831
+refined liquids,electricity_heat,14,1982,0.8565584739556137
+refined liquids,electricity_heat,14,1983,0.91315628154047
+refined liquids,electricity_heat,14,1984,0.9330625149086162
+refined liquids,electricity_heat,14,1985,0.9779077722845954
+refined liquids,electricity_heat,14,1986,0.9236998373498696
+refined liquids,electricity_heat,14,1987,0.8741872992689297
+refined liquids,electricity_heat,14,1988,0.8241686705091384
+refined liquids,electricity_heat,14,1989,0.7036347404960837
+refined liquids,electricity_heat,14,1990,0.06701786
+refined liquids,electricity_heat,14,1991,0.08137584
+refined liquids,electricity_heat,14,1992,0.04738552
+refined liquids,electricity_heat,14,1993,0.04441346
+refined liquids,electricity_heat,14,1994,0.03403218
+refined liquids,electricity_heat,14,1995,0.03110198
+refined liquids,electricity_heat,14,1996,0.03252522
+refined liquids,electricity_heat,14,1997,0.02913456
+refined liquids,electricity_heat,14,1998,0.030432220000000003
+refined liquids,electricity_heat,14,1999,0.02063698
+refined liquids,electricity_heat,14,2000,0.0133952
+refined liquids,electricity_heat,14,2001,0.0154882
+refined liquids,electricity_heat,14,2002,0.01393938
+refined liquids,electricity_heat,14,2003,0.01029756
+refined liquids,electricity_heat,14,2004,0.00883246
+refined liquids,electricity_heat,14,2005,0.008497580000000001
+refined liquids,electricity_heat,14,2006,0.010130120000000001
+refined liquids,electricity_heat,14,2007,0.00326508
+refined liquids,electricity_heat,14,2008,0.006488300000000001
+refined liquids,electricity_heat,14,2009,0.04851574
+refined liquids,electricity_heat,14,2010,0.00406042
+refined liquids,electricity_heat,14,2011,0.00213486
+refined liquids,electricity_heat,14,2012,0.00380926
+refined liquids,electricity_heat,14,2013,0.0011302200000000001
+refined liquids,electricity_heat,14,2014,0.0012139400000000002
+refined liquids,electricity_heat,14,2015,0.0027627600000000004
+refined liquids,electricity_heat,15,1971,0
+refined liquids,electricity_heat,15,1972,0
+refined liquids,electricity_heat,15,1973,0
+refined liquids,electricity_heat,15,1974,0
+refined liquids,electricity_heat,15,1975,0
+refined liquids,electricity_heat,15,1976,0
+refined liquids,electricity_heat,15,1977,0
+refined liquids,electricity_heat,15,1978,0
+refined liquids,electricity_heat,15,1979,0
+refined liquids,electricity_heat,15,1980,0
+refined liquids,electricity_heat,15,1981,0.081627
+refined liquids,electricity_heat,15,1982,0.09050132000000001
+refined liquids,electricity_heat,15,1983,0.11285456
+refined liquids,electricity_heat,15,1984,0.10146864000000001
+refined liquids,electricity_heat,15,1985,0.08849204000000001
+refined liquids,electricity_heat,15,1986,0.0937664
+refined liquids,electricity_heat,15,1987,0.08845018
+refined liquids,electricity_heat,15,1988,0.04299022
+refined liquids,electricity_heat,15,1989,0.04286464
+refined liquids,electricity_heat,15,1990,0.0038929800000000003
+refined liquids,electricity_heat,15,1991,0.00385112
+refined liquids,electricity_heat,15,1992,0.0027209000000000005
+refined liquids,electricity_heat,15,1993,0.0027627600000000004
+refined liquids,electricity_heat,15,1994,0.007492940000000001
+refined liquids,electricity_heat,15,1995,0.00950222
+refined liquids,electricity_heat,15,1996,0.006613880000000001
+refined liquids,electricity_heat,15,1997,0.00456274
+refined liquids,electricity_heat,15,1998,0.00473018
+refined liquids,electricity_heat,15,1999,0.00485576
+refined liquids,electricity_heat,15,2000,0.00267904
+refined liquids,electricity_heat,15,2001,0.0022185800000000004
+refined liquids,electricity_heat,15,2002,0.0017581200000000002
+refined liquids,electricity_heat,15,2003,0.00267904
+refined liquids,electricity_heat,15,2004,0.00192556
+refined liquids,electricity_heat,15,2005,0.0035581000000000002
+refined liquids,electricity_heat,15,2006,0.00368368
+refined liquids,electricity_heat,15,2007,0.00217672
+refined liquids,electricity_heat,15,2008,0.0023023
+refined liquids,electricity_heat,15,2009,0.00339066
+refined liquids,electricity_heat,15,2010,0.00200928
+refined liquids,electricity_heat,15,2011,0.0014651
+refined liquids,electricity_heat,15,2012,7.953400000000001e-4
+refined liquids,electricity_heat,15,2013,4.6046000000000005e-4
+refined liquids,electricity_heat,15,2014,5.8604e-4
+refined liquids,electricity_heat,15,2015,7.953400000000001e-4
+refined liquids,electricity_heat,23,1971,0.017496921104913365
+refined liquids,electricity_heat,23,1972,0.020061362772371232
+refined liquids,electricity_heat,23,1973,0.023986694103963924
+refined liquids,electricity_heat,23,1974,0.02890309049489675
+refined liquids,electricity_heat,23,1975,0.03846500297412771
+refined liquids,electricity_heat,23,1976,0.03802218667101828
+refined liquids,electricity_heat,23,1977,0.0389353939188227
+refined liquids,electricity_heat,23,1978,0.03980156207215761
+refined liquids,electricity_heat,23,1979,0.04052499090434371
+refined liquids,electricity_heat,23,1980,0.03852826244600048
+refined liquids,electricity_heat,23,1981,0.04492882336933302
+refined liquids,electricity_heat,23,1982,0.04941537975907905
+refined liquids,electricity_heat,23,1983,0.05268054173035842
+refined liquids,electricity_heat,23,1984,0.05382894445051033
+refined liquids,electricity_heat,23,1985,0.05641609464633279
+refined liquids,electricity_heat,23,1986,0.05328880588298126
+refined liquids,electricity_heat,23,1987,0.05043239742226443
+refined liquids,electricity_heat,23,1988,0.0475467922822217
+refined liquids,electricity_heat,23,1989,0.04059311648943746
+refined liquids,electricity_heat,23,1990,0.75477766
+refined liquids,electricity_heat,23,1991,0.7751634800000001
+refined liquids,electricity_heat,23,1992,0.83368376
+refined liquids,electricity_heat,23,1993,0.30834076000000005
+refined liquids,electricity_heat,23,1994,0.26752726000000004
+refined liquids,electricity_heat,23,1995,0.25840178
+refined liquids,electricity_heat,23,1996,0.24006710000000003
+refined liquids,electricity_heat,23,1997,0.21407204000000002
+refined liquids,electricity_heat,23,1998,0.2080442
+refined liquids,electricity_heat,23,1999,0.15689128000000002
+refined liquids,electricity_heat,23,2000,0.11888240000000001
+refined liquids,electricity_heat,23,2001,0.10958948
+refined liquids,electricity_heat,23,2002,0.09447802000000001
+refined liquids,electricity_heat,23,2003,0.09142224
+refined liquids,electricity_heat,23,2004,0.07312942
+refined liquids,electricity_heat,23,2005,0.06299930000000001
+refined liquids,electricity_heat,23,2006,0.07036666
+refined liquids,electricity_heat,23,2007,0.042194880000000004
+refined liquids,electricity_heat,23,2008,0.036794940000000005
+refined liquids,electricity_heat,23,2009,0.03813446
+refined liquids,electricity_heat,23,2010,0.0171626
+refined liquids,electricity_heat,23,2011,0.05889702
+refined liquids,electricity_heat,23,2012,0.06040398
+refined liquids,electricity_heat,23,2013,0.01306032
+refined liquids,electricity_heat,23,2014,0.0154882
+refined liquids,electricity_heat,23,2015,0.01167894

@@ -1,0 +1,482 @@
+# Coefficients are calculated using L1321.IO_GJkg_R_cement_F_Yh
+region,supplysector,subsector,stub.technology,year,minicam.energy.input,coefficient,market.name
+USA,cement,cement,cement,2010,elect_td_ind,5.148e-4,USA
+USA,cement,cement,cement,2015,elect_td_ind,5.148e-4,USA
+Africa_Eastern,cement,cement,cement,2010,elect_td_ind,4.068e-4,Africa_Eastern
+Africa_Eastern,cement,cement,cement,2015,elect_td_ind,4.068e-4,Africa_Eastern
+Africa_Northern,cement,cement,cement,2010,elect_td_ind,4.068e-4,Africa_Northern
+Africa_Northern,cement,cement,cement,2015,elect_td_ind,4.068e-4,Africa_Northern
+Africa_Southern,cement,cement,cement,2010,elect_td_ind,4.068e-4,Africa_Southern
+Africa_Southern,cement,cement,cement,2015,elect_td_ind,4.068e-4,Africa_Southern
+Africa_Western,cement,cement,cement,2010,elect_td_ind,4.068e-4,Africa_Western
+Africa_Western,cement,cement,cement,2015,elect_td_ind,4.068e-4,Africa_Western
+Australia_NZ,cement,cement,cement,2010,elect_td_ind,4.068e-4,Australia_NZ
+Australia_NZ,cement,cement,cement,2015,elect_td_ind,4.068e-4,Australia_NZ
+Brazil,cement,cement,cement,2010,elect_td_ind,3.96e-4,Brazil
+Brazil,cement,cement,cement,2015,elect_td_ind,3.96e-4,Brazil
+Canada,cement,cement,cement,2010,elect_td_ind,5.076e-4,Canada
+Canada,cement,cement,cement,2015,elect_td_ind,5.076e-4,Canada
+Central America and Caribbean,cement,cement,cement,2010,elect_td_ind,4.068e-4,Central America and Caribbean
+Central America and Caribbean,cement,cement,cement,2015,elect_td_ind,4.068e-4,Central America and Caribbean
+Central Asia,cement,cement,cement,2010,elect_td_ind,4.068e-4,Central Asia
+Central Asia,cement,cement,cement,2015,elect_td_ind,4.068e-4,Central Asia
+China,cement,cement,cement,2010,elect_td_ind,4.212e-4,China
+China,cement,cement,cement,2015,elect_td_ind,4.212e-4,China
+EU-12,cement,cement,cement,2010,elect_td_ind,4.068e-4,EU-12
+EU-12,cement,cement,cement,2015,elect_td_ind,4.068e-4,EU-12
+EU-15,cement,cement,cement,2010,elect_td_ind,3.84e-4,EU-15
+EU-15,cement,cement,cement,2015,elect_td_ind,3.84e-4,EU-15
+Europe_Eastern,cement,cement,cement,2010,elect_td_ind,4.068e-4,Europe_Eastern
+Europe_Eastern,cement,cement,cement,2015,elect_td_ind,4.068e-4,Europe_Eastern
+Europe_Non_EU,cement,cement,cement,2010,elect_td_ind,4.068e-4,Europe_Non_EU
+Europe_Non_EU,cement,cement,cement,2015,elect_td_ind,4.068e-4,Europe_Non_EU
+European Free Trade Association,cement,cement,cement,2010,elect_td_ind,4.068e-4,European Free Trade Association
+European Free Trade Association,cement,cement,cement,2015,elect_td_ind,4.068e-4,European Free Trade Association
+India,cement,cement,cement,2010,elect_td_ind,3.24e-4,India
+India,cement,cement,cement,2015,elect_td_ind,3.24e-4,India
+Indonesia,cement,cement,cement,2010,elect_td_ind,4.068e-4,Indonesia
+Indonesia,cement,cement,cement,2015,elect_td_ind,4.068e-4,Indonesia
+Japan,cement,cement,cement,2010,elect_td_ind,3.636e-4,Japan
+Japan,cement,cement,cement,2015,elect_td_ind,3.636e-4,Japan
+Mexico,cement,cement,cement,2010,elect_td_ind,4.248e-4,Mexico
+Mexico,cement,cement,cement,2015,elect_td_ind,4.248e-4,Mexico
+Middle East,cement,cement,cement,2010,elect_td_ind,4.068e-4,Middle East
+Middle East,cement,cement,cement,2015,elect_td_ind,4.068e-4,Middle East
+Pakistan,cement,cement,cement,2010,elect_td_ind,4.068e-4,Pakistan
+Pakistan,cement,cement,cement,2015,elect_td_ind,4.068e-4,Pakistan
+Russia,cement,cement,cement,2010,elect_td_ind,4.068e-4,Russia
+Russia,cement,cement,cement,2015,elect_td_ind,4.068e-4,Russia
+South Africa,cement,cement,cement,2010,elect_td_ind,4.068e-4,South Africa
+South Africa,cement,cement,cement,2015,elect_td_ind,4.068e-4,South Africa
+South America_Northern,cement,cement,cement,2010,elect_td_ind,4.068e-4,South America_Northern
+South America_Northern,cement,cement,cement,2015,elect_td_ind,4.068e-4,South America_Northern
+South America_Southern,cement,cement,cement,2010,elect_td_ind,4.068e-4,South America_Southern
+South America_Southern,cement,cement,cement,2015,elect_td_ind,4.068e-4,South America_Southern
+South Asia,cement,cement,cement,2010,elect_td_ind,4.068e-4,South Asia
+South Asia,cement,cement,cement,2015,elect_td_ind,4.068e-4,South Asia
+South Korea,cement,cement,cement,2010,elect_td_ind,3.744e-4,South Korea
+South Korea,cement,cement,cement,2015,elect_td_ind,3.744e-4,South Korea
+Southeast Asia,cement,cement,cement,2010,elect_td_ind,4.068e-4,Southeast Asia
+Southeast Asia,cement,cement,cement,2015,elect_td_ind,4.068e-4,Southeast Asia
+Taiwan,cement,cement,cement,2010,elect_td_ind,4.212e-4,Taiwan
+Taiwan,cement,cement,cement,2015,elect_td_ind,4.212e-4,Taiwan
+Argentina,cement,cement,cement,2010,elect_td_ind,4.068e-4,Argentina
+Argentina,cement,cement,cement,2015,elect_td_ind,4.068e-4,Argentina
+Colombia,cement,cement,cement,2010,elect_td_ind,4.068e-4,Colombia
+Colombia,cement,cement,cement,2015,elect_td_ind,4.068e-4,Colombia
+USA,cement,cement,cement,1975,elect_td_ind,5.292e-4,USA
+USA,cement,cement,cement,1990,elect_td_ind,5.292e-4,USA
+USA,cement,cement,cement,2005,elect_td_ind,5.148e-4,USA
+Africa_Eastern,cement,cement,cement,1975,elect_td_ind,4.248e-4,Africa_Eastern
+Africa_Eastern,cement,cement,cement,1990,elect_td_ind,4.248e-4,Africa_Eastern
+Africa_Eastern,cement,cement,cement,2005,elect_td_ind,4.068e-4,Africa_Eastern
+Africa_Northern,cement,cement,cement,1975,elect_td_ind,4.248e-4,Africa_Northern
+Africa_Northern,cement,cement,cement,1990,elect_td_ind,4.248e-4,Africa_Northern
+Africa_Northern,cement,cement,cement,2005,elect_td_ind,4.068e-4,Africa_Northern
+Africa_Southern,cement,cement,cement,1975,elect_td_ind,4.248e-4,Africa_Southern
+Africa_Southern,cement,cement,cement,1990,elect_td_ind,4.248e-4,Africa_Southern
+Africa_Southern,cement,cement,cement,2005,elect_td_ind,4.068e-4,Africa_Southern
+Africa_Western,cement,cement,cement,1975,elect_td_ind,4.248e-4,Africa_Western
+Africa_Western,cement,cement,cement,1990,elect_td_ind,4.248e-4,Africa_Western
+Africa_Western,cement,cement,cement,2005,elect_td_ind,4.068e-4,Africa_Western
+Australia_NZ,cement,cement,cement,1975,elect_td_ind,4.248e-4,Australia_NZ
+Australia_NZ,cement,cement,cement,1990,elect_td_ind,4.248e-4,Australia_NZ
+Australia_NZ,cement,cement,cement,2005,elect_td_ind,4.068e-4,Australia_NZ
+Brazil,cement,cement,cement,1975,elect_td_ind,4.14e-4,Brazil
+Brazil,cement,cement,cement,1990,elect_td_ind,4.14e-4,Brazil
+Brazil,cement,cement,cement,2005,elect_td_ind,3.96e-4,Brazil
+Canada,cement,cement,cement,1975,elect_td_ind,5.652e-4,Canada
+Canada,cement,cement,cement,1990,elect_td_ind,5.652e-4,Canada
+Canada,cement,cement,cement,2005,elect_td_ind,5.076e-4,Canada
+Central America and Caribbean,cement,cement,cement,1975,elect_td_ind,4.248e-4,Central America and Caribbean
+Central America and Caribbean,cement,cement,cement,1990,elect_td_ind,4.248e-4,Central America and Caribbean
+Central America and Caribbean,cement,cement,cement,2005,elect_td_ind,4.068e-4,Central America and Caribbean
+Central Asia,cement,cement,cement,1975,elect_td_ind,4.248e-4,Central Asia
+Central Asia,cement,cement,cement,1990,elect_td_ind,4.248e-4,Central Asia
+Central Asia,cement,cement,cement,2005,elect_td_ind,4.068e-4,Central Asia
+China,cement,cement,cement,1975,elect_td_ind,4.32e-4,China
+China,cement,cement,cement,1990,elect_td_ind,4.32e-4,China
+China,cement,cement,cement,2005,elect_td_ind,4.212e-4,China
+EU-12,cement,cement,cement,1975,elect_td_ind,4.248e-4,EU-12
+EU-12,cement,cement,cement,1990,elect_td_ind,4.248e-4,EU-12
+EU-12,cement,cement,cement,2005,elect_td_ind,4.068e-4,EU-12
+EU-15,cement,cement,cement,1975,elect_td_ind,4.185e-4,EU-15
+EU-15,cement,cement,cement,1990,elect_td_ind,4.203e-4,EU-15
+EU-15,cement,cement,cement,2005,elect_td_ind,3.791e-4,EU-15
+Europe_Eastern,cement,cement,cement,1975,elect_td_ind,4.248e-4,Europe_Eastern
+Europe_Eastern,cement,cement,cement,1990,elect_td_ind,4.248e-4,Europe_Eastern
+Europe_Eastern,cement,cement,cement,2005,elect_td_ind,4.068e-4,Europe_Eastern
+Europe_Non_EU,cement,cement,cement,1975,elect_td_ind,4.248e-4,Europe_Non_EU
+Europe_Non_EU,cement,cement,cement,1990,elect_td_ind,4.248e-4,Europe_Non_EU
+Europe_Non_EU,cement,cement,cement,2005,elect_td_ind,4.068e-4,Europe_Non_EU
+European Free Trade Association,cement,cement,cement,1975,elect_td_ind,4.248e-4,European Free Trade Association
+European Free Trade Association,cement,cement,cement,1990,elect_td_ind,4.248e-4,European Free Trade Association
+European Free Trade Association,cement,cement,cement,2005,elect_td_ind,4.068e-4,European Free Trade Association
+India,cement,cement,cement,1975,elect_td_ind,4.32e-4,India
+India,cement,cement,cement,1990,elect_td_ind,4.32e-4,India
+India,cement,cement,cement,2005,elect_td_ind,3.24e-4,India
+Indonesia,cement,cement,cement,1975,elect_td_ind,4.248e-4,Indonesia
+Indonesia,cement,cement,cement,1990,elect_td_ind,4.248e-4,Indonesia
+Indonesia,cement,cement,cement,2005,elect_td_ind,4.068e-4,Indonesia
+Japan,cement,cement,cement,1975,elect_td_ind,3.42e-4,Japan
+Japan,cement,cement,cement,1990,elect_td_ind,3.42e-4,Japan
+Japan,cement,cement,cement,2005,elect_td_ind,3.636e-4,Japan
+Mexico,cement,cement,cement,1975,elect_td_ind,3.96e-4,Mexico
+Mexico,cement,cement,cement,1990,elect_td_ind,3.96e-4,Mexico
+Mexico,cement,cement,cement,2005,elect_td_ind,4.248e-4,Mexico
+Middle East,cement,cement,cement,1975,elect_td_ind,4.248e-4,Middle East
+Middle East,cement,cement,cement,1990,elect_td_ind,4.248e-4,Middle East
+Middle East,cement,cement,cement,2005,elect_td_ind,4.068e-4,Middle East
+Pakistan,cement,cement,cement,1975,elect_td_ind,4.248e-4,Pakistan
+Pakistan,cement,cement,cement,1990,elect_td_ind,4.248e-4,Pakistan
+Pakistan,cement,cement,cement,2005,elect_td_ind,4.068e-4,Pakistan
+Russia,cement,cement,cement,1975,elect_td_ind,4.248e-4,Russia
+Russia,cement,cement,cement,1990,elect_td_ind,4.248e-4,Russia
+Russia,cement,cement,cement,2005,elect_td_ind,4.068e-4,Russia
+South Africa,cement,cement,cement,1975,elect_td_ind,4.248e-4,South Africa
+South Africa,cement,cement,cement,1990,elect_td_ind,4.248e-4,South Africa
+South Africa,cement,cement,cement,2005,elect_td_ind,4.068e-4,South Africa
+South America_Northern,cement,cement,cement,1975,elect_td_ind,4.248e-4,South America_Northern
+South America_Northern,cement,cement,cement,1990,elect_td_ind,4.248e-4,South America_Northern
+South America_Northern,cement,cement,cement,2005,elect_td_ind,4.068e-4,South America_Northern
+South America_Southern,cement,cement,cement,1975,elect_td_ind,4.248e-4,South America_Southern
+South America_Southern,cement,cement,cement,1990,elect_td_ind,4.248e-4,South America_Southern
+South America_Southern,cement,cement,cement,2005,elect_td_ind,4.068e-4,South America_Southern
+South Asia,cement,cement,cement,1975,elect_td_ind,4.248e-4,South Asia
+South Asia,cement,cement,cement,1990,elect_td_ind,4.248e-4,South Asia
+South Asia,cement,cement,cement,2005,elect_td_ind,4.068e-4,South Asia
+South Korea,cement,cement,cement,1975,elect_td_ind,3.96e-4,South Korea
+South Korea,cement,cement,cement,1990,elect_td_ind,3.96e-4,South Korea
+South Korea,cement,cement,cement,2005,elect_td_ind,3.744e-4,South Korea
+Southeast Asia,cement,cement,cement,1975,elect_td_ind,4.248e-4,Southeast Asia
+Southeast Asia,cement,cement,cement,1990,elect_td_ind,4.248e-4,Southeast Asia
+Southeast Asia,cement,cement,cement,2005,elect_td_ind,4.068e-4,Southeast Asia
+Taiwan,cement,cement,cement,1975,elect_td_ind,4.32e-4,Taiwan
+Taiwan,cement,cement,cement,1990,elect_td_ind,4.32e-4,Taiwan
+Taiwan,cement,cement,cement,2005,elect_td_ind,4.212e-4,Taiwan
+Argentina,cement,cement,cement,1975,elect_td_ind,4.248e-4,Argentina
+Argentina,cement,cement,cement,1990,elect_td_ind,4.248e-4,Argentina
+Argentina,cement,cement,cement,2005,elect_td_ind,4.068e-4,Argentina
+Colombia,cement,cement,cement,1975,elect_td_ind,4.248e-4,Colombia
+Colombia,cement,cement,cement,1990,elect_td_ind,4.248e-4,Colombia
+Colombia,cement,cement,cement,2005,elect_td_ind,4.068e-4,Colombia
+USA,cement,cement,cement,2010,process heat cement,0.0039846,USA
+USA,cement,cement,cement,2015,process heat cement,0.0039846,USA
+Africa_Eastern,cement,cement,cement,2010,process heat cement,0.003073,Africa_Eastern
+Africa_Eastern,cement,cement,cement,2015,process heat cement,0.003073,Africa_Eastern
+Africa_Northern,cement,cement,cement,2010,process heat cement,0.0033344,Africa_Northern
+Africa_Northern,cement,cement,cement,2015,process heat cement,0.0033344,Africa_Northern
+Africa_Southern,cement,cement,cement,2010,process heat cement,0.0027728,Africa_Southern
+Africa_Southern,cement,cement,cement,2015,process heat cement,0.0027728,Africa_Southern
+Africa_Western,cement,cement,cement,2010,process heat cement,0.0032804,Africa_Western
+Africa_Western,cement,cement,cement,2015,process heat cement,0.0032804,Africa_Western
+Australia_NZ,cement,cement,cement,2010,process heat cement,0.0032094,Australia_NZ
+Australia_NZ,cement,cement,cement,2015,process heat cement,0.0032094,Australia_NZ
+Brazil,cement,cement,cement,2010,process heat cement,0.0023088,Brazil
+Brazil,cement,cement,cement,2015,process heat cement,0.0023088,Brazil
+Canada,cement,cement,cement,2010,process heat cement,0.0033624,Canada
+Canada,cement,cement,cement,2015,process heat cement,0.0033624,Canada
+Central America and Caribbean,cement,cement,cement,2010,process heat cement,0.0033829,Central America and Caribbean
+Central America and Caribbean,cement,cement,cement,2015,process heat cement,0.0033829,Central America and Caribbean
+Central Asia,cement,cement,cement,2010,process heat cement,0.0029573,Central Asia
+Central Asia,cement,cement,cement,2015,process heat cement,0.0029573,Central Asia
+China,cement,cement,cement,2010,process heat cement,0.0030318,China
+China,cement,cement,cement,2015,process heat cement,0.0030318,China
+EU-12,cement,cement,cement,2010,process heat cement,0.0031203,EU-12
+EU-12,cement,cement,cement,2015,process heat cement,0.0031203,EU-12
+EU-15,cement,cement,cement,2010,process heat cement,0.002939,EU-15
+EU-15,cement,cement,cement,2015,process heat cement,0.002939,EU-15
+Europe_Eastern,cement,cement,cement,2010,process heat cement,0.0030657,Europe_Eastern
+Europe_Eastern,cement,cement,cement,2015,process heat cement,0.0030657,Europe_Eastern
+Europe_Non_EU,cement,cement,cement,2010,process heat cement,0.0033805,Europe_Non_EU
+Europe_Non_EU,cement,cement,cement,2015,process heat cement,0.0033805,Europe_Non_EU
+European Free Trade Association,cement,cement,cement,2010,process heat cement,0.0035808,European Free Trade Association
+European Free Trade Association,cement,cement,cement,2015,process heat cement,0.0035808,European Free Trade Association
+India,cement,cement,cement,2010,process heat cement,0.0027684,India
+India,cement,cement,cement,2015,process heat cement,0.0027684,India
+Indonesia,cement,cement,cement,2010,process heat cement,0.0031851,Indonesia
+Indonesia,cement,cement,cement,2015,process heat cement,0.0031851,Indonesia
+Japan,cement,cement,cement,2010,process heat cement,0.0025261,Japan
+Japan,cement,cement,cement,2015,process heat cement,0.0025261,Japan
+Mexico,cement,cement,cement,2010,process heat cement,0.002844,Mexico
+Mexico,cement,cement,cement,2015,process heat cement,0.002844,Mexico
+Middle East,cement,cement,cement,2010,process heat cement,0.0031497,Middle East
+Middle East,cement,cement,cement,2015,process heat cement,0.0031497,Middle East
+Pakistan,cement,cement,cement,2010,process heat cement,0.0032663,Pakistan
+Pakistan,cement,cement,cement,2015,process heat cement,0.0032663,Pakistan
+Russia,cement,cement,cement,2010,process heat cement,0.0029918,Russia
+Russia,cement,cement,cement,2015,process heat cement,0.0029918,Russia
+South Africa,cement,cement,cement,2010,process heat cement,0.0032269,South Africa
+South Africa,cement,cement,cement,2015,process heat cement,0.0032269,South Africa
+South America_Northern,cement,cement,cement,2010,process heat cement,0.0033112,South America_Northern
+South America_Northern,cement,cement,cement,2015,process heat cement,0.0033112,South America_Northern
+South America_Southern,cement,cement,cement,2010,process heat cement,0.0033167,South America_Southern
+South America_Southern,cement,cement,cement,2015,process heat cement,0.0033167,South America_Southern
+South Asia,cement,cement,cement,2010,process heat cement,0.0032633,South Asia
+South Asia,cement,cement,cement,2015,process heat cement,0.0032633,South Asia
+South Korea,cement,cement,cement,2010,process heat cement,0.0033444,South Korea
+South Korea,cement,cement,cement,2015,process heat cement,0.0033444,South Korea
+Southeast Asia,cement,cement,cement,2010,process heat cement,0.0033865,Southeast Asia
+Southeast Asia,cement,cement,cement,2015,process heat cement,0.0033865,Southeast Asia
+Taiwan,cement,cement,cement,2010,process heat cement,0.0032061,Taiwan
+Taiwan,cement,cement,cement,2015,process heat cement,0.0032061,Taiwan
+Argentina,cement,cement,cement,2010,process heat cement,0.0033607,Argentina
+Argentina,cement,cement,cement,2015,process heat cement,0.0033607,Argentina
+Colombia,cement,cement,cement,2010,process heat cement,0.0033393,Colombia
+Colombia,cement,cement,cement,2015,process heat cement,0.0033393,Colombia
+USA,cement,cement,cement,1975,process heat cement,0.0042705,USA
+USA,cement,cement,cement,1990,process heat cement,0.0039061,USA
+USA,cement,cement,cement,2005,process heat cement,0.0039472,USA
+Africa_Eastern,cement,cement,cement,1975,process heat cement,0.0044303,Africa_Eastern
+Africa_Eastern,cement,cement,cement,1990,process heat cement,0.0033383,Africa_Eastern
+Africa_Eastern,cement,cement,cement,2005,process heat cement,0.0030742,Africa_Eastern
+Africa_Northern,cement,cement,cement,1975,process heat cement,0.0036835,Africa_Northern
+Africa_Northern,cement,cement,cement,1990,process heat cement,0.0035497,Africa_Northern
+Africa_Northern,cement,cement,cement,2005,process heat cement,0.0032738,Africa_Northern
+Africa_Southern,cement,cement,cement,1975,process heat cement,0.0036364,Africa_Southern
+Africa_Southern,cement,cement,cement,1990,process heat cement,0.0031008,Africa_Southern
+Africa_Southern,cement,cement,cement,2005,process heat cement,0.0028157,Africa_Southern
+Africa_Western,cement,cement,cement,1975,process heat cement,0.0037471,Africa_Western
+Africa_Western,cement,cement,cement,1990,process heat cement,0.0034949,Africa_Western
+Africa_Western,cement,cement,cement,2005,process heat cement,0.0032595,Africa_Western
+Australia_NZ,cement,cement,cement,1975,process heat cement,0.0036918,Australia_NZ
+Australia_NZ,cement,cement,cement,1990,process heat cement,0.0036225,Australia_NZ
+Australia_NZ,cement,cement,cement,2005,process heat cement,0.0032356,Australia_NZ
+Brazil,cement,cement,cement,1975,process heat cement,0.0023976,Brazil
+Brazil,cement,cement,cement,1990,process heat cement,0.0019471,Brazil
+Brazil,cement,cement,cement,2005,process heat cement,0.0022466,Brazil
+Canada,cement,cement,cement,1975,process heat cement,0.0044042,Canada
+Canada,cement,cement,cement,1990,process heat cement,0.0040463,Canada
+Canada,cement,cement,cement,2005,process heat cement,0.0034196,Canada
+Central America and Caribbean,cement,cement,cement,1975,process heat cement,0.0039246,Central America and Caribbean
+Central America and Caribbean,cement,cement,cement,1990,process heat cement,0.003695,Central America and Caribbean
+Central America and Caribbean,cement,cement,cement,2005,process heat cement,0.0034003,Central America and Caribbean
+Central Asia,cement,cement,cement,1975,process heat cement,0.0039179,Central Asia
+Central Asia,cement,cement,cement,1990,process heat cement,0.0031115,Central Asia
+Central Asia,cement,cement,cement,2005,process heat cement,0.0028153,Central Asia
+China,cement,cement,cement,1975,process heat cement,0.0041032,China
+China,cement,cement,cement,1990,process heat cement,0.0037517,China
+China,cement,cement,cement,2005,process heat cement,0.0029151,China
+EU-12,cement,cement,cement,1975,process heat cement,0.0035852,EU-12
+EU-12,cement,cement,cement,1990,process heat cement,0.003222,EU-12
+EU-12,cement,cement,cement,2005,process heat cement,0.0031098,EU-12
+EU-15,cement,cement,cement,1975,process heat cement,0.0034541,EU-15
+EU-15,cement,cement,cement,1990,process heat cement,0.0031599,EU-15
+EU-15,cement,cement,cement,2005,process heat cement,0.0028828,EU-15
+Europe_Eastern,cement,cement,cement,1975,process heat cement,0.0041326,Europe_Eastern
+Europe_Eastern,cement,cement,cement,1990,process heat cement,0.0034016,Europe_Eastern
+Europe_Eastern,cement,cement,cement,2005,process heat cement,0.0030286,Europe_Eastern
+Europe_Non_EU,cement,cement,cement,1975,process heat cement,0.0041903,Europe_Non_EU
+Europe_Non_EU,cement,cement,cement,1990,process heat cement,0.0035047,Europe_Non_EU
+Europe_Non_EU,cement,cement,cement,2005,process heat cement,0.0033682,Europe_Non_EU
+European Free Trade Association,cement,cement,cement,1975,process heat cement,0.004035,European Free Trade Association
+European Free Trade Association,cement,cement,cement,1990,process heat cement,0.0031008,European Free Trade Association
+European Free Trade Association,cement,cement,cement,2005,process heat cement,0.0029958,European Free Trade Association
+India,cement,cement,cement,1975,process heat cement,0.0048497,India
+India,cement,cement,cement,1990,process heat cement,0.0044214,India
+India,cement,cement,cement,2005,process heat cement,0.0028218,India
+Indonesia,cement,cement,cement,1975,process heat cement,0.0034797,Indonesia
+Indonesia,cement,cement,cement,1990,process heat cement,0.0035576,Indonesia
+Indonesia,cement,cement,cement,2005,process heat cement,0.003246,Indonesia
+Japan,cement,cement,cement,1975,process heat cement,0.0027123,Japan
+Japan,cement,cement,cement,1990,process heat cement,0.0025626,Japan
+Japan,cement,cement,cement,2005,process heat cement,0.0025099,Japan
+Mexico,cement,cement,cement,1975,process heat cement,0.0038357,Mexico
+Mexico,cement,cement,cement,1990,process heat cement,0.0036425,Mexico
+Mexico,cement,cement,cement,2005,process heat cement,0.0028043,Mexico
+Middle East,cement,cement,cement,1975,process heat cement,0.0036595,Middle East
+Middle East,cement,cement,cement,1990,process heat cement,0.0033965,Middle East
+Middle East,cement,cement,cement,2005,process heat cement,0.0031288,Middle East
+Pakistan,cement,cement,cement,1975,process heat cement,0.0037111,Pakistan
+Pakistan,cement,cement,cement,1990,process heat cement,0.0034042,Pakistan
+Pakistan,cement,cement,cement,2005,process heat cement,0.0033272,Pakistan
+Russia,cement,cement,cement,1975,process heat cement,0.0034797,Russia
+Russia,cement,cement,cement,1990,process heat cement,0.0031045,Russia
+Russia,cement,cement,cement,2005,process heat cement,0.002897,Russia
+South Africa,cement,cement,cement,1975,process heat cement,0.0035532,South Africa
+South Africa,cement,cement,cement,1990,process heat cement,0.0036546,South Africa
+South Africa,cement,cement,cement,2005,process heat cement,0.003303,South Africa
+South America_Northern,cement,cement,cement,1975,process heat cement,0.0038769,South America_Northern
+South America_Northern,cement,cement,cement,1990,process heat cement,0.003606,South America_Northern
+South America_Northern,cement,cement,cement,2005,process heat cement,0.0033157,South America_Northern
+South America_Southern,cement,cement,cement,1975,process heat cement,0.0036396,South America_Southern
+South America_Southern,cement,cement,cement,1990,process heat cement,0.0034881,South America_Southern
+South America_Southern,cement,cement,cement,2005,process heat cement,0.0032354,South America_Southern
+South Asia,cement,cement,cement,1975,process heat cement,0.0042433,South Asia
+South Asia,cement,cement,cement,1990,process heat cement,0.003524,South Asia
+South Asia,cement,cement,cement,2005,process heat cement,0.0032559,South Asia
+South Korea,cement,cement,cement,1975,process heat cement,0.00428,South Korea
+South Korea,cement,cement,cement,1990,process heat cement,0.0039514,South Korea
+South Korea,cement,cement,cement,2005,process heat cement,0.0033269,South Korea
+Southeast Asia,cement,cement,cement,1975,process heat cement,0.0039263,Southeast Asia
+Southeast Asia,cement,cement,cement,1990,process heat cement,0.0035119,Southeast Asia
+Southeast Asia,cement,cement,cement,2005,process heat cement,0.0033327,Southeast Asia
+Taiwan,cement,cement,cement,1975,process heat cement,0.0045091,Taiwan
+Taiwan,cement,cement,cement,1990,process heat cement,0.0040507,Taiwan
+Taiwan,cement,cement,cement,2005,process heat cement,0.0031966,Taiwan
+Argentina,cement,cement,cement,1975,process heat cement,0.0034797,Argentina
+Argentina,cement,cement,cement,1990,process heat cement,0.0033728,Argentina
+Argentina,cement,cement,cement,2005,process heat cement,0.0034267,Argentina
+Colombia,cement,cement,cement,1975,process heat cement,0.003827,Colombia
+Colombia,cement,cement,cement,1990,process heat cement,0.0034302,Colombia
+Colombia,cement,cement,cement,2005,process heat cement,0.0033132,Colombia
+USA,cement,cement,cement,2010,limestone,1.4922978,USA
+USA,cement,cement,cement,2015,limestone,1.4922978,USA
+Africa_Eastern,cement,cement,cement,2010,limestone,1.4925373,Africa_Eastern
+Africa_Eastern,cement,cement,cement,2015,limestone,1.4925373,Africa_Eastern
+Africa_Northern,cement,cement,cement,2010,limestone,1.5694739,Africa_Northern
+Africa_Northern,cement,cement,cement,2015,limestone,1.5694739,Africa_Northern
+Africa_Southern,cement,cement,cement,2010,limestone,1.4925373,Africa_Southern
+Africa_Southern,cement,cement,cement,2015,limestone,1.4925373,Africa_Southern
+Africa_Western,cement,cement,cement,2010,limestone,1.4925373,Africa_Western
+Africa_Western,cement,cement,cement,2015,limestone,1.4925373,Africa_Western
+Australia_NZ,cement,cement,cement,2010,limestone,1.40625,Australia_NZ
+Australia_NZ,cement,cement,cement,2015,limestone,1.40625,Australia_NZ
+Brazil,cement,cement,cement,2010,limestone,1.2896825,Brazil
+Brazil,cement,cement,cement,2015,limestone,1.2896825,Brazil
+Canada,cement,cement,cement,2010,limestone,1.547619,Canada
+Canada,cement,cement,cement,2015,limestone,1.547619,Canada
+Central America and Caribbean,cement,cement,cement,2010,limestone,1.4837912,Central America and Caribbean
+Central America and Caribbean,cement,cement,cement,2015,limestone,1.4837912,Central America and Caribbean
+Central Asia,cement,cement,cement,2010,limestone,1.4823789,Central Asia
+Central Asia,cement,cement,cement,2015,limestone,1.4823789,Central Asia
+China,cement,cement,cement,2010,limestone,1.4095745,China
+China,cement,cement,cement,2015,limestone,1.4095745,China
+EU-12,cement,cement,cement,2010,limestone,1.4589418,EU-12
+EU-12,cement,cement,cement,2015,limestone,1.4589418,EU-12
+EU-15,cement,cement,cement,2010,limestone,1.3649447,EU-15
+EU-15,cement,cement,cement,2015,limestone,1.3649447,EU-15
+Europe_Eastern,cement,cement,cement,2010,limestone,1.4322594,Europe_Eastern
+Europe_Eastern,cement,cement,cement,2015,limestone,1.4322594,Europe_Eastern
+Europe_Non_EU,cement,cement,cement,2010,limestone,1.5224822,Europe_Non_EU
+Europe_Non_EU,cement,cement,cement,2015,limestone,1.5224822,Europe_Non_EU
+European Free Trade Association,cement,cement,cement,2010,limestone,1.4296754,European Free Trade Association
+European Free Trade Association,cement,cement,cement,2015,limestone,1.4296754,European Free Trade Association
+India,cement,cement,cement,2010,limestone,1.5224359,India
+India,cement,cement,cement,2015,limestone,1.5224359,India
+Indonesia,cement,cement,cement,2010,limestone,1.6552511,Indonesia
+Indonesia,cement,cement,cement,2015,limestone,1.6552511,Indonesia
+Japan,cement,cement,cement,2010,limestone,1.3509825,Japan
+Japan,cement,cement,cement,2015,limestone,1.3509825,Japan
+Mexico,cement,cement,cement,2010,limestone,1.5100671,Mexico
+Mexico,cement,cement,cement,2015,limestone,1.5100671,Mexico
+Middle East,cement,cement,cement,2010,limestone,1.5205371,Middle East
+Middle East,cement,cement,cement,2015,limestone,1.5205371,Middle East
+Pakistan,cement,cement,cement,2010,limestone,1.4705882,Pakistan
+Pakistan,cement,cement,cement,2015,limestone,1.4705882,Pakistan
+Russia,cement,cement,cement,2010,limestone,1.3776882,Russia
+Russia,cement,cement,cement,2015,limestone,1.3776882,Russia
+South Africa,cement,cement,cement,2010,limestone,1.5822785,South Africa
+South Africa,cement,cement,cement,2015,limestone,1.5822785,South Africa
+South America_Northern,cement,cement,cement,2010,limestone,1.4997993,South America_Northern
+South America_Northern,cement,cement,cement,2015,limestone,1.4997993,South America_Northern
+South America_Southern,cement,cement,cement,2010,limestone,1.4851485,South America_Southern
+South America_Southern,cement,cement,cement,2015,limestone,1.4851485,South America_Southern
+South Asia,cement,cement,cement,2010,limestone,1.4705882,South Asia
+South Asia,cement,cement,cement,2015,limestone,1.4705882,South Asia
+South Korea,cement,cement,cement,2010,limestone,1.623062,South Korea
+South Korea,cement,cement,cement,2015,limestone,1.623062,South Korea
+Southeast Asia,cement,cement,cement,2010,limestone,1.4957651,Southeast Asia
+Southeast Asia,cement,cement,cement,2015,limestone,1.4957651,Southeast Asia
+Taiwan,cement,cement,cement,2010,limestone,1.6163793,Taiwan
+Taiwan,cement,cement,cement,2015,limestone,1.6163793,Taiwan
+Argentina,cement,cement,cement,2010,limestone,1.5873016,Argentina
+Argentina,cement,cement,cement,2015,limestone,1.5873016,Argentina
+Colombia,cement,cement,cement,2010,limestone,1.3554217,Colombia
+Colombia,cement,cement,cement,2015,limestone,1.3554217,Colombia
+USA,cement,cement,cement,1975,limestone,1.4922978,USA
+USA,cement,cement,cement,1990,limestone,1.4922978,USA
+USA,cement,cement,cement,2005,limestone,1.4922978,USA
+Africa_Eastern,cement,cement,cement,1975,limestone,1.4925373,Africa_Eastern
+Africa_Eastern,cement,cement,cement,1990,limestone,1.4925373,Africa_Eastern
+Africa_Eastern,cement,cement,cement,2005,limestone,1.4925373,Africa_Eastern
+Africa_Northern,cement,cement,cement,1975,limestone,1.5694739,Africa_Northern
+Africa_Northern,cement,cement,cement,1990,limestone,1.5694739,Africa_Northern
+Africa_Northern,cement,cement,cement,2005,limestone,1.5694739,Africa_Northern
+Africa_Southern,cement,cement,cement,1975,limestone,1.4925373,Africa_Southern
+Africa_Southern,cement,cement,cement,1990,limestone,1.4925373,Africa_Southern
+Africa_Southern,cement,cement,cement,2005,limestone,1.4925373,Africa_Southern
+Africa_Western,cement,cement,cement,1975,limestone,1.4925373,Africa_Western
+Africa_Western,cement,cement,cement,1990,limestone,1.4925373,Africa_Western
+Africa_Western,cement,cement,cement,2005,limestone,1.4925373,Africa_Western
+Australia_NZ,cement,cement,cement,1975,limestone,1.40625,Australia_NZ
+Australia_NZ,cement,cement,cement,1990,limestone,1.40625,Australia_NZ
+Australia_NZ,cement,cement,cement,2005,limestone,1.40625,Australia_NZ
+Brazil,cement,cement,cement,1975,limestone,1.2896825,Brazil
+Brazil,cement,cement,cement,1990,limestone,1.2896825,Brazil
+Brazil,cement,cement,cement,2005,limestone,1.2896825,Brazil
+Canada,cement,cement,cement,1975,limestone,1.547619,Canada
+Canada,cement,cement,cement,1990,limestone,1.547619,Canada
+Canada,cement,cement,cement,2005,limestone,1.547619,Canada
+Central America and Caribbean,cement,cement,cement,1975,limestone,1.4837912,Central America and Caribbean
+Central America and Caribbean,cement,cement,cement,1990,limestone,1.4837912,Central America and Caribbean
+Central America and Caribbean,cement,cement,cement,2005,limestone,1.4837912,Central America and Caribbean
+Central Asia,cement,cement,cement,1975,limestone,1.4823789,Central Asia
+Central Asia,cement,cement,cement,1990,limestone,1.4823789,Central Asia
+Central Asia,cement,cement,cement,2005,limestone,1.4823789,Central Asia
+China,cement,cement,cement,1975,limestone,1.4095745,China
+China,cement,cement,cement,1990,limestone,1.4095745,China
+China,cement,cement,cement,2005,limestone,1.4095745,China
+EU-12,cement,cement,cement,1975,limestone,1.4589418,EU-12
+EU-12,cement,cement,cement,1990,limestone,1.4589418,EU-12
+EU-12,cement,cement,cement,2005,limestone,1.4589418,EU-12
+EU-15,cement,cement,cement,1975,limestone,1.3649447,EU-15
+EU-15,cement,cement,cement,1990,limestone,1.3649447,EU-15
+EU-15,cement,cement,cement,2005,limestone,1.3649447,EU-15
+Europe_Eastern,cement,cement,cement,1975,limestone,1.4322594,Europe_Eastern
+Europe_Eastern,cement,cement,cement,1990,limestone,1.4322594,Europe_Eastern
+Europe_Eastern,cement,cement,cement,2005,limestone,1.4322594,Europe_Eastern
+Europe_Non_EU,cement,cement,cement,1975,limestone,1.5224822,Europe_Non_EU
+Europe_Non_EU,cement,cement,cement,1990,limestone,1.5224822,Europe_Non_EU
+Europe_Non_EU,cement,cement,cement,2005,limestone,1.5224822,Europe_Non_EU
+European Free Trade Association,cement,cement,cement,1975,limestone,1.4296754,European Free Trade Association
+European Free Trade Association,cement,cement,cement,1990,limestone,1.4296754,European Free Trade Association
+European Free Trade Association,cement,cement,cement,2005,limestone,1.4296754,European Free Trade Association
+India,cement,cement,cement,1975,limestone,1.5224359,India
+India,cement,cement,cement,1990,limestone,1.5224359,India
+India,cement,cement,cement,2005,limestone,1.5224359,India
+Indonesia,cement,cement,cement,1975,limestone,1.6552511,Indonesia
+Indonesia,cement,cement,cement,1990,limestone,1.6552511,Indonesia
+Indonesia,cement,cement,cement,2005,limestone,1.6552511,Indonesia
+Japan,cement,cement,cement,1975,limestone,1.3509825,Japan
+Japan,cement,cement,cement,1990,limestone,1.3509825,Japan
+Japan,cement,cement,cement,2005,limestone,1.3509825,Japan
+Mexico,cement,cement,cement,1975,limestone,1.5100671,Mexico
+Mexico,cement,cement,cement,1990,limestone,1.5100671,Mexico
+Mexico,cement,cement,cement,2005,limestone,1.5100671,Mexico
+Middle East,cement,cement,cement,1975,limestone,1.5205371,Middle East
+Middle East,cement,cement,cement,1990,limestone,1.5205371,Middle East
+Middle East,cement,cement,cement,2005,limestone,1.5205371,Middle East
+Pakistan,cement,cement,cement,1975,limestone,1.4705882,Pakistan
+Pakistan,cement,cement,cement,1990,limestone,1.4705882,Pakistan
+Pakistan,cement,cement,cement,2005,limestone,1.4705882,Pakistan
+Russia,cement,cement,cement,1975,limestone,1.3776882,Russia
+Russia,cement,cement,cement,1990,limestone,1.3776882,Russia
+Russia,cement,cement,cement,2005,limestone,1.3776882,Russia
+South Africa,cement,cement,cement,1975,limestone,1.5822785,South Africa
+South Africa,cement,cement,cement,1990,limestone,1.5822785,South Africa
+South Africa,cement,cement,cement,2005,limestone,1.5822785,South Africa
+South America_Northern,cement,cement,cement,1975,limestone,1.4997993,South America_Northern
+South America_Northern,cement,cement,cement,1990,limestone,1.4997993,South America_Northern
+South America_Northern,cement,cement,cement,2005,limestone,1.4997993,South America_Northern
+South America_Southern,cement,cement,cement,1975,limestone,1.4851485,South America_Southern
+South America_Southern,cement,cement,cement,1990,limestone,1.4851485,South America_Southern
+South America_Southern,cement,cement,cement,2005,limestone,1.4851485,South America_Southern
+South Asia,cement,cement,cement,1975,limestone,1.4705882,South Asia
+South Asia,cement,cement,cement,1990,limestone,1.4705882,South Asia
+South Asia,cement,cement,cement,2005,limestone,1.4705882,South Asia
+South Korea,cement,cement,cement,1975,limestone,1.623062,South Korea
+South Korea,cement,cement,cement,1990,limestone,1.623062,South Korea
+South Korea,cement,cement,cement,2005,limestone,1.623062,South Korea
+Southeast Asia,cement,cement,cement,1975,limestone,1.4957651,Southeast Asia
+Southeast Asia,cement,cement,cement,1990,limestone,1.4957651,Southeast Asia
+Southeast Asia,cement,cement,cement,2005,limestone,1.4957651,Southeast Asia
+Taiwan,cement,cement,cement,1975,limestone,1.6163793,Taiwan
+Taiwan,cement,cement,cement,1990,limestone,1.6163793,Taiwan
+Taiwan,cement,cement,cement,2005,limestone,1.6163793,Taiwan
+Argentina,cement,cement,cement,1975,limestone,1.5873016,Argentina
+Argentina,cement,cement,cement,1990,limestone,1.5873016,Argentina
+Argentina,cement,cement,cement,2005,limestone,1.5873016,Argentina
+Colombia,cement,cement,cement,1975,limestone,1.3554217,Colombia
+Colombia,cement,cement,cement,1990,limestone,1.3554217,Colombia
+Colombia,cement,cement,cement,2005,limestone,1.3554217,Colombia

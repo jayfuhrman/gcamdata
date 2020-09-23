@@ -1,0 +1,9 @@
+# File: A999.subsector_logit.csv
+# Title: dac default subsector logit exponents
+# Units: Unitless
+# Column types: ccic 
+# ----------
+supplysector,subsector,logit.exponent,logit.type
+airCO2,airCO2,-6,
+process heat dac,gas,-6,
+ces,dac,-6,

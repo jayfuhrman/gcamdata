@@ -1,0 +1,547 @@
+# First calculate cement output as the base-year cement output times the GDP ratio raised to the income elasticity
+# Then back out the appropriate income elasticities from cement output
+region,energy.final.demand,year,income.elasticity
+USA,cement,2100,0.528
+Africa_Eastern,cement,2100,0.781
+Africa_Northern,cement,2100,0.017
+Africa_Southern,cement,2100,1.109
+Africa_Western,cement,2100,0.952
+Australia_NZ,cement,2100,0.17
+Brazil,cement,2100,0.404
+Canada,cement,2100,0.219
+Central America and Caribbean,cement,2100,0.32
+Central Asia,cement,2100,0.279
+China,cement,2100,-0.252
+EU-12,cement,2100,0.077
+EU-15,cement,2100,0.022
+Europe_Eastern,cement,2100,0.182
+Europe_Non_EU,cement,2100,-0.038
+European Free Trade Association,cement,2100,0.082
+India,cement,2100,0.273
+Indonesia,cement,2100,0.304
+Japan,cement,2100,0.039
+Mexico,cement,2100,0.3
+Middle East,cement,2100,-0.041
+Pakistan,cement,2100,0.284
+Russia,cement,2100,0.19
+South Africa,cement,2100,0.375
+South America_Northern,cement,2100,0.384
+South America_Southern,cement,2100,0.296
+South Asia,cement,2100,0.978
+South Korea,cement,2100,-0.252
+Southeast Asia,cement,2100,0.163
+Taiwan,cement,2100,-0.038
+Argentina,cement,2100,0.443
+Colombia,cement,2100,0.304
+USA,cement,2095,0.534
+Africa_Eastern,cement,2095,0.895
+Africa_Northern,cement,2095,0.018
+Africa_Southern,cement,2095,1.107
+Africa_Western,cement,2095,1.059
+Australia_NZ,cement,2095,0.177
+Brazil,cement,2095,0.402
+Canada,cement,2095,0.228
+Central America and Caribbean,cement,2095,0.332
+Central Asia,cement,2095,0.288
+China,cement,2095,-0.252
+EU-12,cement,2095,0.079
+EU-15,cement,2095,0.023
+Europe_Eastern,cement,2095,0.189
+Europe_Non_EU,cement,2095,-0.038
+European Free Trade Association,cement,2095,0.086
+India,cement,2095,0.279
+Indonesia,cement,2095,0.311
+Japan,cement,2095,0.041
+Mexico,cement,2095,0.304
+Middle East,cement,2095,-0.041
+Pakistan,cement,2095,0.299
+Russia,cement,2095,0.193
+South Africa,cement,2095,0.387
+South America_Northern,cement,2095,0.394
+South America_Southern,cement,2095,0.306
+South Asia,cement,2095,1.063
+South Korea,cement,2095,-0.252
+Southeast Asia,cement,2095,0.173
+Taiwan,cement,2095,-0.038
+Argentina,cement,2095,0.452
+Colombia,cement,2095,0.314
+USA,cement,2090,0.54
+Africa_Eastern,cement,2090,1.017
+Africa_Northern,cement,2090,0.019
+Africa_Southern,cement,2090,1.105
+Africa_Western,cement,2090,1.108
+Australia_NZ,cement,2090,0.184
+Brazil,cement,2090,0.4
+Canada,cement,2090,0.236
+Central America and Caribbean,cement,2090,0.351
+Central Asia,cement,2090,0.297
+China,cement,2090,-0.252
+EU-12,cement,2090,0.082
+EU-15,cement,2090,0.024
+Europe_Eastern,cement,2090,0.197
+Europe_Non_EU,cement,2090,-0.038
+European Free Trade Association,cement,2090,0.09
+India,cement,2090,0.285
+Indonesia,cement,2090,0.317
+Japan,cement,2090,0.043
+Mexico,cement,2090,0.309
+Middle East,cement,2090,-0.041
+Pakistan,cement,2090,0.314
+Russia,cement,2090,0.196
+South Africa,cement,2090,0.4
+South America_Northern,cement,2090,0.404
+South America_Southern,cement,2090,0.316
+South Asia,cement,2090,1.108
+South Korea,cement,2090,-0.252
+Southeast Asia,cement,2090,0.182
+Taiwan,cement,2090,-0.039
+Argentina,cement,2090,0.462
+Colombia,cement,2090,0.324
+USA,cement,2085,0.546
+Africa_Eastern,cement,2085,1.108
+Africa_Northern,cement,2085,0.02
+Africa_Southern,cement,2085,1.104
+Africa_Western,cement,2085,1.106
+Australia_NZ,cement,2085,0.189
+Brazil,cement,2085,0.399
+Canada,cement,2085,0.245
+Central America and Caribbean,cement,2085,0.374
+Central Asia,cement,2085,0.306
+China,cement,2085,-0.252
+EU-12,cement,2085,0.085
+EU-15,cement,2085,0.025
+Europe_Eastern,cement,2085,0.206
+Europe_Non_EU,cement,2085,-0.038
+European Free Trade Association,cement,2085,0.094
+India,cement,2085,0.291
+Indonesia,cement,2085,0.324
+Japan,cement,2085,0.046
+Mexico,cement,2085,0.314
+Middle East,cement,2085,-0.043
+Pakistan,cement,2085,0.33
+Russia,cement,2085,0.2
+South Africa,cement,2085,0.414
+South America_Northern,cement,2085,0.415
+South America_Southern,cement,2085,0.326
+South Asia,cement,2085,1.107
+South Korea,cement,2085,-0.252
+Southeast Asia,cement,2085,0.191
+Taiwan,cement,2085,-0.039
+Argentina,cement,2085,0.473
+Colombia,cement,2085,0.335
+USA,cement,2080,0.552
+Africa_Eastern,cement,2080,1.106
+Africa_Northern,cement,2080,0.022
+Africa_Southern,cement,2080,1.103
+Africa_Western,cement,2080,1.105
+Australia_NZ,cement,2080,0.194
+Brazil,cement,2080,0.4
+Canada,cement,2080,0.253
+Central America and Caribbean,cement,2080,0.399
+Central Asia,cement,2080,0.315
+China,cement,2080,-0.252
+EU-12,cement,2080,0.088
+EU-15,cement,2080,0.026
+Europe_Eastern,cement,2080,0.214
+Europe_Non_EU,cement,2080,-0.038
+European Free Trade Association,cement,2080,0.098
+India,cement,2080,0.298
+Indonesia,cement,2080,0.332
+Japan,cement,2080,0.048
+Mexico,cement,2080,0.32
+Middle East,cement,2080,-0.044
+Pakistan,cement,2080,0.354
+Russia,cement,2080,0.203
+South Africa,cement,2080,0.428
+South America_Northern,cement,2080,0.428
+South America_Southern,cement,2080,0.336
+South Asia,cement,2080,1.106
+South Korea,cement,2080,-0.252
+Southeast Asia,cement,2080,0.2
+Taiwan,cement,2080,-0.039
+Argentina,cement,2080,0.486
+Colombia,cement,2080,0.355
+USA,cement,2075,0.558
+Africa_Eastern,cement,2075,1.105
+Africa_Northern,cement,2075,0.023
+Africa_Southern,cement,2075,1.101
+Africa_Western,cement,2075,1.103
+Australia_NZ,cement,2075,0.199
+Brazil,cement,2075,0.401
+Canada,cement,2075,0.261
+Central America and Caribbean,cement,2075,0.425
+Central Asia,cement,2075,0.325
+China,cement,2075,-0.252
+EU-12,cement,2075,0.093
+EU-15,cement,2075,0.027
+Europe_Eastern,cement,2075,0.224
+Europe_Non_EU,cement,2075,-0.038
+European Free Trade Association,cement,2075,0.102
+India,cement,2075,0.305
+Indonesia,cement,2075,0.343
+Japan,cement,2075,0.05
+Mexico,cement,2075,0.326
+Middle East,cement,2075,-0.045
+Pakistan,cement,2075,0.385
+Russia,cement,2075,0.208
+South Africa,cement,2075,0.445
+South America_Northern,cement,2075,0.442
+South America_Southern,cement,2075,0.356
+South Asia,cement,2075,1.105
+South Korea,cement,2075,-0.252
+Southeast Asia,cement,2075,0.209
+Taiwan,cement,2075,-0.039
+Argentina,cement,2075,0.5
+Colombia,cement,2075,0.376
+USA,cement,2070,0.564
+Africa_Eastern,cement,2070,1.103
+Africa_Northern,cement,2070,0.025
+Africa_Southern,cement,2070,1.1
+Africa_Western,cement,2070,1.102
+Australia_NZ,cement,2070,0.204
+Brazil,cement,2070,0.405
+Canada,cement,2070,0.27
+Central America and Caribbean,cement,2070,0.452
+Central Asia,cement,2070,0.335
+China,cement,2070,-0.252
+EU-12,cement,2070,0.098
+EU-15,cement,2070,0.029
+Europe_Eastern,cement,2070,0.235
+Europe_Non_EU,cement,2070,-0.038
+European Free Trade Association,cement,2070,0.107
+India,cement,2070,0.313
+Indonesia,cement,2070,0.359
+Japan,cement,2070,0.052
+Mexico,cement,2070,0.333
+Middle East,cement,2070,-0.046
+Pakistan,cement,2070,0.421
+Russia,cement,2070,0.214
+South Africa,cement,2070,0.463
+South America_Northern,cement,2070,0.46
+South America_Southern,cement,2070,0.376
+South Asia,cement,2070,1.103
+South Korea,cement,2070,-0.252
+Southeast Asia,cement,2070,0.22
+Taiwan,cement,2070,-0.039
+Argentina,cement,2070,0.515
+Colombia,cement,2070,0.398
+USA,cement,2065,0.573
+Africa_Eastern,cement,2065,1.102
+Africa_Northern,cement,2065,0.028
+Africa_Southern,cement,2065,1.117
+Africa_Western,cement,2065,1.101
+Australia_NZ,cement,2065,0.21
+Brazil,cement,2065,0.408
+Canada,cement,2065,0.28
+Central America and Caribbean,cement,2065,0.48
+Central Asia,cement,2065,0.353
+China,cement,2065,-0.252
+EU-12,cement,2065,0.104
+EU-15,cement,2065,0.03
+Europe_Eastern,cement,2065,0.248
+Europe_Non_EU,cement,2065,-0.038
+European Free Trade Association,cement,2065,0.113
+India,cement,2065,0.322
+Indonesia,cement,2065,0.376
+Japan,cement,2065,0.054
+Mexico,cement,2065,0.344
+Middle East,cement,2065,-0.047
+Pakistan,cement,2065,0.459
+Russia,cement,2065,0.22
+South Africa,cement,2065,0.483
+South America_Northern,cement,2065,0.481
+South America_Southern,cement,2065,0.397
+South Asia,cement,2065,1.102
+South Korea,cement,2065,-0.252
+Southeast Asia,cement,2065,0.231
+Taiwan,cement,2065,-0.039
+Argentina,cement,2065,0.531
+Colombia,cement,2065,0.419
+USA,cement,2060,0.584
+Africa_Eastern,cement,2060,1.1
+Africa_Northern,cement,2060,0.03
+Africa_Southern,cement,2060,1.133
+Africa_Western,cement,2060,1.11
+Australia_NZ,cement,2060,0.215
+Brazil,cement,2060,0.411
+Canada,cement,2060,0.29
+Central America and Caribbean,cement,2060,0.508
+Central Asia,cement,2060,0.37
+China,cement,2060,-0.252
+EU-12,cement,2060,0.111
+EU-15,cement,2060,0.032
+Europe_Eastern,cement,2060,0.262
+Europe_Non_EU,cement,2060,-0.039
+European Free Trade Association,cement,2060,0.118
+India,cement,2060,0.332
+Indonesia,cement,2060,0.396
+Japan,cement,2060,0.056
+Mexico,cement,2060,0.356
+Middle East,cement,2060,-0.048
+Pakistan,cement,2060,0.498
+Russia,cement,2060,0.227
+South Africa,cement,2060,0.503
+South America_Northern,cement,2060,0.509
+South America_Southern,cement,2060,0.418
+South Asia,cement,2060,1.101
+South Korea,cement,2060,-0.252
+Southeast Asia,cement,2060,0.242
+Taiwan,cement,2060,-0.039
+Argentina,cement,2060,0.546
+Colombia,cement,2060,0.441
+USA,cement,2055,0.596
+Africa_Eastern,cement,2055,1.116
+Africa_Northern,cement,2055,0.032
+Africa_Southern,cement,2055,1.148
+Africa_Western,cement,2055,1.127
+Australia_NZ,cement,2055,0.22
+Brazil,cement,2055,0.415
+Canada,cement,2055,0.301
+Central America and Caribbean,cement,2055,0.535
+Central Asia,cement,2055,0.383
+China,cement,2055,-0.252
+EU-12,cement,2055,0.117
+EU-15,cement,2055,0.034
+Europe_Eastern,cement,2055,0.275
+Europe_Non_EU,cement,2055,-0.039
+European Free Trade Association,cement,2055,0.124
+India,cement,2055,0.346
+Indonesia,cement,2055,0.419
+Japan,cement,2055,0.058
+Mexico,cement,2055,0.369
+Middle East,cement,2055,-0.048
+Pakistan,cement,2055,0.536
+Russia,cement,2055,0.232
+South Africa,cement,2055,0.524
+South America_Northern,cement,2055,0.546
+South America_Southern,cement,2055,0.439
+South Asia,cement,2055,1.101
+South Korea,cement,2055,-0.252
+Southeast Asia,cement,2055,0.254
+Taiwan,cement,2055,-0.039
+Argentina,cement,2055,0.559
+Colombia,cement,2055,0.461
+USA,cement,2050,0.618
+Africa_Eastern,cement,2050,1.134
+Africa_Northern,cement,2050,0.035
+Africa_Southern,cement,2050,1.16
+Africa_Western,cement,2050,1.142
+Australia_NZ,cement,2050,0.224
+Brazil,cement,2050,0.418
+Canada,cement,2050,0.312
+Central America and Caribbean,cement,2050,0.562
+Central Asia,cement,2050,0.393
+China,cement,2050,-0.252
+EU-12,cement,2050,0.123
+EU-15,cement,2050,0.036
+Europe_Eastern,cement,2050,0.287
+Europe_Non_EU,cement,2050,-0.039
+European Free Trade Association,cement,2050,0.129
+India,cement,2050,0.364
+Indonesia,cement,2050,0.446
+Japan,cement,2050,0.06
+Mexico,cement,2050,0.382
+Middle East,cement,2050,-0.049
+Pakistan,cement,2050,0.573
+Russia,cement,2050,0.235
+South Africa,cement,2050,0.545
+South America_Northern,cement,2050,0.592
+South America_Southern,cement,2050,0.461
+South Asia,cement,2050,1.102
+South Korea,cement,2050,-0.252
+Southeast Asia,cement,2050,0.266
+Taiwan,cement,2050,-0.039
+Argentina,cement,2050,0.572
+Colombia,cement,2050,0.481
+USA,cement,2045,0.647
+Africa_Eastern,cement,2045,1.149
+Africa_Northern,cement,2045,0.037
+Africa_Southern,cement,2045,1.17
+Africa_Western,cement,2045,1.155
+Australia_NZ,cement,2045,0.228
+Brazil,cement,2045,0.422
+Canada,cement,2045,0.325
+Central America and Caribbean,cement,2045,0.59
+Central Asia,cement,2045,0.408
+China,cement,2045,-0.252
+EU-12,cement,2045,0.13
+EU-15,cement,2045,0.037
+Europe_Eastern,cement,2045,0.299
+Europe_Non_EU,cement,2045,-0.039
+European Free Trade Association,cement,2045,0.133
+India,cement,2045,0.386
+Indonesia,cement,2045,0.477
+Japan,cement,2045,0.062
+Mexico,cement,2045,0.396
+Middle East,cement,2045,-0.05
+Pakistan,cement,2045,0.624
+Russia,cement,2045,0.238
+South Africa,cement,2045,0.567
+South America_Northern,cement,2045,0.698
+South America_Southern,cement,2045,0.483
+South Asia,cement,2045,1.114
+South Korea,cement,2045,-0.252
+Southeast Asia,cement,2045,0.278
+Taiwan,cement,2045,-0.039
+Argentina,cement,2045,0.585
+Colombia,cement,2045,0.5
+USA,cement,2040,0.684
+Africa_Eastern,cement,2040,1.163
+Africa_Northern,cement,2040,0.04
+Africa_Southern,cement,2040,1.177
+Africa_Western,cement,2040,1.166
+Australia_NZ,cement,2040,0.234
+Brazil,cement,2040,0.429
+Canada,cement,2040,0.346
+Central America and Caribbean,cement,2040,0.639
+Central Asia,cement,2040,0.436
+China,cement,2040,-0.252
+EU-12,cement,2040,0.139
+EU-15,cement,2040,0.039
+Europe_Eastern,cement,2040,0.314
+Europe_Non_EU,cement,2040,-0.039
+European Free Trade Association,cement,2040,0.138
+India,cement,2040,0.413
+Indonesia,cement,2040,0.518
+Japan,cement,2040,0.064
+Mexico,cement,2040,0.41
+Middle East,cement,2040,-0.053
+Pakistan,cement,2040,0.714
+Russia,cement,2040,0.246
+South Africa,cement,2040,0.593
+South America_Northern,cement,2040,0.837
+South America_Southern,cement,2040,0.508
+South Asia,cement,2040,1.127
+South Korea,cement,2040,-0.252
+Southeast Asia,cement,2040,0.292
+Taiwan,cement,2040,-0.039
+Argentina,cement,2040,0.599
+Colombia,cement,2040,0.521
+USA,cement,2035,0.725
+Africa_Eastern,cement,2035,1.175
+Africa_Northern,cement,2035,0.045
+Africa_Southern,cement,2035,1.183
+Africa_Western,cement,2035,1.177
+Australia_NZ,cement,2035,0.24
+Brazil,cement,2035,0.439
+Canada,cement,2035,0.377
+Central America and Caribbean,cement,2035,0.702
+Central Asia,cement,2035,0.48
+China,cement,2035,-0.252
+EU-12,cement,2035,0.151
+EU-15,cement,2035,0.042
+Europe_Eastern,cement,2035,0.334
+Europe_Non_EU,cement,2035,-0.039
+European Free Trade Association,cement,2035,0.143
+India,cement,2035,0.449
+Indonesia,cement,2035,0.57
+Japan,cement,2035,0.066
+Mexico,cement,2035,0.429
+Middle East,cement,2035,-0.059
+Pakistan,cement,2035,0.817
+Russia,cement,2035,0.261
+South Africa,cement,2035,0.65
+South America_Northern,cement,2035,0.983
+South America_Southern,cement,2035,0.536
+South Asia,cement,2035,1.14
+South Korea,cement,2035,-0.252
+Southeast Asia,cement,2035,0.308
+Taiwan,cement,2035,-0.039
+Argentina,cement,2035,0.639
+Colombia,cement,2035,0.544
+USA,cement,2030,0.774
+Africa_Eastern,cement,2030,1.186
+Africa_Northern,cement,2030,0.051
+Africa_Southern,cement,2030,1.187
+Africa_Western,cement,2030,1.188
+Australia_NZ,cement,2030,0.248
+Brazil,cement,2030,0.454
+Canada,cement,2030,0.406
+Central America and Caribbean,cement,2030,0.768
+Central Asia,cement,2030,0.539
+China,cement,2030,-0.252
+EU-12,cement,2030,0.167
+EU-15,cement,2030,0.044
+Europe_Eastern,cement,2030,0.374
+Europe_Non_EU,cement,2030,-0.04
+European Free Trade Association,cement,2030,0.149
+India,cement,2030,0.497
+Indonesia,cement,2030,0.67
+Japan,cement,2030,0.069
+Mexico,cement,2030,0.453
+Middle East,cement,2030,-0.067
+Pakistan,cement,2030,0.925
+Russia,cement,2030,0.282
+South Africa,cement,2030,0.732
+South America_Northern,cement,2030,1.109
+South America_Southern,cement,2030,0.567
+South Asia,cement,2030,1.154
+South Korea,cement,2030,-0.252
+Southeast Asia,cement,2030,0.327
+Taiwan,cement,2030,-0.039
+Argentina,cement,2030,0.696
+Colombia,cement,2030,0.568
+USA,cement,2025,0.838
+Africa_Eastern,cement,2025,1.197
+Africa_Northern,cement,2025,0.06
+Africa_Southern,cement,2025,1.194
+Africa_Western,cement,2025,1.2
+Australia_NZ,cement,2025,0.257
+Brazil,cement,2025,0.482
+Canada,cement,2025,0.43
+Central America and Caribbean,cement,2025,0.854
+Central Asia,cement,2025,0.638
+China,cement,2025,-0.252
+EU-12,cement,2025,0.185
+EU-15,cement,2025,0.047
+Europe_Eastern,cement,2025,0.433
+Europe_Non_EU,cement,2025,-0.04
+European Free Trade Association,cement,2025,0.155
+India,cement,2025,0.567
+Indonesia,cement,2025,0.873
+Japan,cement,2025,0.074
+Mexico,cement,2025,0.484
+Middle East,cement,2025,-0.077
+Pakistan,cement,2025,1.044
+Russia,cement,2025,0.309
+South Africa,cement,2025,0.847
+South America_Northern,cement,2025,1.107
+South America_Southern,cement,2025,0.625
+South Asia,cement,2025,1.17
+South Korea,cement,2025,-0.252
+Southeast Asia,cement,2025,0.363
+Taiwan,cement,2025,-0.039
+Argentina,cement,2025,0.781
+Colombia,cement,2025,0.6
+USA,cement,2020,0.913
+Africa_Eastern,cement,2020,1.205
+Africa_Northern,cement,2020,0.07
+Africa_Southern,cement,2020,1.2
+Africa_Western,cement,2020,1.205
+Australia_NZ,cement,2020,0.274
+Brazil,cement,2020,0.516
+Canada,cement,2020,0.456
+Central America and Caribbean,cement,2020,0.957
+Central Asia,cement,2020,0.83
+China,cement,2020,-0.252
+EU-12,cement,2020,0.208
+EU-15,cement,2020,0.051
+Europe_Eastern,cement,2020,0.511
+Europe_Non_EU,cement,2020,-0.04
+European Free Trade Association,cement,2020,0.167
+India,cement,2020,0.887
+Indonesia,cement,2020,1.108
+Japan,cement,2020,0.079
+Mexico,cement,2020,0.516
+Middle East,cement,2020,-0.081
+Pakistan,cement,2020,1.097
+Russia,cement,2020,0.33
+South Africa,cement,2020,0.932
+South America_Northern,cement,2020,1.109
+South America_Southern,cement,2020,0.734
+South Asia,cement,2020,1.19
+South Korea,cement,2020,-0.252
+Southeast Asia,cement,2020,0.437
+Taiwan,cement,2020,-0.04
+Argentina,cement,2020,0.921
+Colombia,cement,2020,0.715

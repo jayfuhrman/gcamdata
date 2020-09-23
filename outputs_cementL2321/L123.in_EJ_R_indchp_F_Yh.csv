@@ -1,0 +1,5762 @@
+# Written by LA123.electricity.R
+GCAM_region_ID,sector,fuel,year,value
+1,chp_elec,biomass,1971,0
+1,chp_elec,biomass,1972,0
+1,chp_elec,biomass,1973,0
+1,chp_elec,biomass,1974,0
+1,chp_elec,biomass,1975,0
+1,chp_elec,biomass,1976,0
+1,chp_elec,biomass,1977,0
+1,chp_elec,biomass,1978,0
+1,chp_elec,biomass,1979,0
+1,chp_elec,biomass,1980,0
+1,chp_elec,biomass,1981,0
+1,chp_elec,biomass,1982,0
+1,chp_elec,biomass,1983,0
+1,chp_elec,biomass,1984,0
+1,chp_elec,biomass,1985,0
+1,chp_elec,biomass,1986,0
+1,chp_elec,biomass,1987,0
+1,chp_elec,biomass,1988,0
+1,chp_elec,biomass,1989,0.925218
+1,chp_elec,biomass,1990,1.113966
+1,chp_elec,biomass,1991,0.563958
+1,chp_elec,biomass,1992,0.690192
+1,chp_elec,biomass,1993,0.6820200000000001
+1,chp_elec,biomass,1994,0.6860879999999999
+1,chp_elec,biomass,1995,0.66285
+1,chp_elec,biomass,1996,0.60921
+1,chp_elec,biomass,1997,0.6121979999999999
+1,chp_elec,biomass,1998,0.607194
+1,chp_elec,biomass,1999,0.639486
+1,chp_elec,biomass,2000,0.6624359999999999
+1,chp_elec,biomass,2001,0.606348
+1,chp_elec,biomass,2002,0.634698
+1,chp_elec,biomass,2003,0.600516
+1,chp_elec,biomass,2004,0.6206039999999999
+1,chp_elec,biomass,2005,0.6126119999999999
+1,chp_elec,biomass,2006,0.620154
+1,chp_elec,biomass,2007,0.615366
+1,chp_elec,biomass,2008,0.589068
+1,chp_elec,biomass,2009,0.57276
+1,chp_elec,biomass,2010,0.56718
+1,chp_elec,biomass,2011,0.588888
+1,chp_elec,biomass,2012,0.572382
+1,chp_elec,biomass,2013,0.584838
+1,chp_elec,biomass,2014,0.5871419999999999
+1,chp_elec,biomass,2015,0.579312
+1,chp_elec,coal,1971,0
+1,chp_elec,coal,1972,0
+1,chp_elec,coal,1973,0
+1,chp_elec,coal,1974,0
+1,chp_elec,coal,1975,0
+1,chp_elec,coal,1976,0
+1,chp_elec,coal,1977,0
+1,chp_elec,coal,1978,0
+1,chp_elec,coal,1979,0
+1,chp_elec,coal,1980,0
+1,chp_elec,coal,1981,0
+1,chp_elec,coal,1982,0
+1,chp_elec,coal,1983,0
+1,chp_elec,coal,1984,0
+1,chp_elec,coal,1985,0
+1,chp_elec,coal,1986,0
+1,chp_elec,coal,1987,0
+1,chp_elec,coal,1988,0
+1,chp_elec,coal,1989,0.36103680000000005
+1,chp_elec,coal,1990,0.3595824
+1,chp_elec,coal,1991,0.5132016
+1,chp_elec,coal,1992,0.6321456000000001
+1,chp_elec,coal,1993,0.5298192
+1,chp_elec,coal,1994,0.5257728
+1,chp_elec,coal,1995,0.5254416000000001
+1,chp_elec,coal,1996,0.5548176
+1,chp_elec,coal,1997,0.5493456000000001
+1,chp_elec,coal,1998,0.5510736
+1,chp_elec,coal,1999,0.6322608000000001
+1,chp_elec,coal,2000,0.6513552
+1,chp_elec,coal,2001,0.3929472
+1,chp_elec,coal,2002,0.3382992
+1,chp_elec,coal,2003,0.29390400000000005
+1,chp_elec,coal,2004,0.299592
+1,chp_elec,coal,2005,0.29489760000000004
+1,chp_elec,coal,2006,0.293544
+1,chp_elec,coal,2007,0.2903472
+1,chp_elec,coal,2008,0.29364480000000004
+1,chp_elec,coal,2009,0.25004160000000003
+1,chp_elec,coal,2010,0.29484000000000005
+1,chp_elec,coal,2011,0.2901456
+1,chp_elec,coal,2012,0.272088
+1,chp_elec,coal,2013,0.2632032
+1,chp_elec,coal,2014,0.2539728
+1,chp_elec,coal,2015,0.2283408
+1,chp_elec,gas,1971,0
+1,chp_elec,gas,1972,0
+1,chp_elec,gas,1973,0
+1,chp_elec,gas,1974,0
+1,chp_elec,gas,1975,0
+1,chp_elec,gas,1976,0
+1,chp_elec,gas,1977,0
+1,chp_elec,gas,1978,0
+1,chp_elec,gas,1979,0
+1,chp_elec,gas,1980,0
+1,chp_elec,gas,1981,0
+1,chp_elec,gas,1982,0
+1,chp_elec,gas,1983,0
+1,chp_elec,gas,1984,0
+1,chp_elec,gas,1985,0
+1,chp_elec,gas,1986,0
+1,chp_elec,gas,1987,0
+1,chp_elec,gas,1988,0
+1,chp_elec,gas,1989,1.2408768000000001
+1,chp_elec,gas,1990,1.4269392
+1,chp_elec,gas,1991,1.6324272000000002
+1,chp_elec,gas,1992,1.9405728000000002
+1,chp_elec,gas,1993,2.2171248
+1,chp_elec,gas,1994,2.4516864000000003
+1,chp_elec,gas,1995,2.7013104
+1,chp_elec,gas,1996,2.6290656000000006
+1,chp_elec,gas,1997,2.5745328
+1,chp_elec,gas,1998,2.8011600000000003
+1,chp_elec,gas,1999,2.9258496000000003
+1,chp_elec,gas,2000,1.2222432
+1,chp_elec,gas,2001,1.2349584
+1,chp_elec,gas,2002,1.2179376000000002
+1,chp_elec,gas,2003,1.2069504
+1,chp_elec,gas,2004,1.1996208000000002
+1,chp_elec,gas,2005,1.0878336
+1,chp_elec,gas,2006,1.1902176
+1,chp_elec,gas,2007,1.1768544
+1,chp_elec,gas,2008,1.1661408
+1,chp_elec,gas,2009,1.1688048
+1,chp_elec,gas,2010,1.2600288000000002
+1,chp_elec,gas,2011,1.2727584
+1,chp_elec,gas,2012,1.3283424
+1,chp_elec,gas,2013,1.3491792
+1,chp_elec,gas,2014,1.3585248
+1,chp_elec,gas,2015,1.3978944000000002
+1,chp_elec,refined liquids,1971,0
+1,chp_elec,refined liquids,1972,0
+1,chp_elec,refined liquids,1973,0
+1,chp_elec,refined liquids,1974,0
+1,chp_elec,refined liquids,1975,0
+1,chp_elec,refined liquids,1976,0
+1,chp_elec,refined liquids,1977,0
+1,chp_elec,refined liquids,1978,0
+1,chp_elec,refined liquids,1979,0
+1,chp_elec,refined liquids,1980,0
+1,chp_elec,refined liquids,1981,0
+1,chp_elec,refined liquids,1982,0
+1,chp_elec,refined liquids,1983,0
+1,chp_elec,refined liquids,1984,0
+1,chp_elec,refined liquids,1985,0
+1,chp_elec,refined liquids,1986,0
+1,chp_elec,refined liquids,1987,0
+1,chp_elec,refined liquids,1988,0
+1,chp_elec,refined liquids,1989,0.0849168
+1,chp_elec,refined liquids,1990,0.0783504
+1,chp_elec,refined liquids,1991,0.09907200000000001
+1,chp_elec,refined liquids,1992,0.1437552
+1,chp_elec,refined liquids,1993,0.2763216
+1,chp_elec,refined liquids,1994,0.3073968
+1,chp_elec,refined liquids,1995,0.2972736
+1,chp_elec,refined liquids,1996,0.31301280000000004
+1,chp_elec,refined liquids,1997,0.2978064
+1,chp_elec,refined liquids,1998,0.30057120000000004
+1,chp_elec,refined liquids,1999,0.3144096
+1,chp_elec,refined liquids,2000,0.0899568
+1,chp_elec,refined liquids,2001,0.08530560000000001
+1,chp_elec,refined liquids,2002,0.157752
+1,chp_elec,refined liquids,2003,0.228528
+1,chp_elec,refined liquids,2004,0.23754240000000004
+1,chp_elec,refined liquids,2005,0.214704
+1,chp_elec,refined liquids,2006,0.16171200000000002
+1,chp_elec,refined liquids,2007,0.15642720000000002
+1,chp_elec,refined liquids,2008,0.1284624
+1,chp_elec,refined liquids,2009,0.12696480000000002
+1,chp_elec,refined liquids,2010,0.1142496
+1,chp_elec,refined liquids,2011,0.1066176
+1,chp_elec,refined liquids,2012,0.1014768
+1,chp_elec,refined liquids,2013,0.1004544
+1,chp_elec,refined liquids,2014,0.11210400000000001
+1,chp_elec,refined liquids,2015,0.12078720000000001
+2,chp_elec,biomass,1971,0
+2,chp_elec,biomass,1972,0
+2,chp_elec,biomass,1973,0
+2,chp_elec,biomass,1974,0
+2,chp_elec,biomass,1975,0
+2,chp_elec,biomass,1976,0
+2,chp_elec,biomass,1977,0
+2,chp_elec,biomass,1978,0
+2,chp_elec,biomass,1979,0
+2,chp_elec,biomass,1980,0
+2,chp_elec,biomass,1981,0
+2,chp_elec,biomass,1982,0
+2,chp_elec,biomass,1983,0
+2,chp_elec,biomass,1984,0
+2,chp_elec,biomass,1985,0
+2,chp_elec,biomass,1986,0
+2,chp_elec,biomass,1987,0
+2,chp_elec,biomass,1988,0
+2,chp_elec,biomass,1989,0
+2,chp_elec,biomass,1990,0
+2,chp_elec,biomass,1991,0
+2,chp_elec,biomass,1992,0
+2,chp_elec,biomass,1993,0
+2,chp_elec,biomass,1994,0
+2,chp_elec,biomass,1995,0
+2,chp_elec,biomass,1996,0
+2,chp_elec,biomass,1997,0
+2,chp_elec,biomass,1998,0
+2,chp_elec,biomass,1999,0
+2,chp_elec,biomass,2000,0
+2,chp_elec,biomass,2001,0
+2,chp_elec,biomass,2002,0
+2,chp_elec,biomass,2003,0
+2,chp_elec,biomass,2004,0
+2,chp_elec,biomass,2005,0
+2,chp_elec,biomass,2006,0
+2,chp_elec,biomass,2007,0
+2,chp_elec,biomass,2008,0
+2,chp_elec,biomass,2009,0
+2,chp_elec,biomass,2010,0
+2,chp_elec,biomass,2011,0.0034129611534142647
+2,chp_elec,biomass,2012,0.003269587386718831
+2,chp_elec,biomass,2013,0.003273677081490668
+2,chp_elec,biomass,2014,0.003287288678937395
+2,chp_elec,biomass,2015,0.0033366086760128967
+2,chp_elec,coal,1971,0
+2,chp_elec,coal,1972,0
+2,chp_elec,coal,1973,0
+2,chp_elec,coal,1974,0
+2,chp_elec,coal,1975,0
+2,chp_elec,coal,1976,0
+2,chp_elec,coal,1977,0
+2,chp_elec,coal,1978,0
+2,chp_elec,coal,1979,0
+2,chp_elec,coal,1980,0
+2,chp_elec,coal,1981,0
+2,chp_elec,coal,1982,0
+2,chp_elec,coal,1983,0
+2,chp_elec,coal,1984,0
+2,chp_elec,coal,1985,0
+2,chp_elec,coal,1986,0
+2,chp_elec,coal,1987,0
+2,chp_elec,coal,1988,0
+2,chp_elec,coal,1989,0
+2,chp_elec,coal,1990,0
+2,chp_elec,coal,1991,0
+2,chp_elec,coal,1992,0
+2,chp_elec,coal,1993,0
+2,chp_elec,coal,1994,0
+2,chp_elec,coal,1995,0
+2,chp_elec,coal,1996,0
+2,chp_elec,coal,1997,0
+2,chp_elec,coal,1998,0
+2,chp_elec,coal,1999,0
+2,chp_elec,coal,2000,0
+2,chp_elec,coal,2001,0
+2,chp_elec,coal,2002,0
+2,chp_elec,coal,2003,0
+2,chp_elec,coal,2004,0
+2,chp_elec,coal,2005,0
+2,chp_elec,coal,2006,0
+2,chp_elec,coal,2007,0
+2,chp_elec,coal,2008,0
+2,chp_elec,coal,2009,0
+2,chp_elec,coal,2010,0
+2,chp_elec,coal,2011,0
+2,chp_elec,coal,2012,0
+2,chp_elec,coal,2013,0
+2,chp_elec,coal,2014,0
+2,chp_elec,coal,2015,0
+2,chp_elec,gas,1971,0
+2,chp_elec,gas,1972,0
+2,chp_elec,gas,1973,0
+2,chp_elec,gas,1974,0
+2,chp_elec,gas,1975,0
+2,chp_elec,gas,1976,0
+2,chp_elec,gas,1977,0
+2,chp_elec,gas,1978,0
+2,chp_elec,gas,1979,0
+2,chp_elec,gas,1980,0
+2,chp_elec,gas,1981,0
+2,chp_elec,gas,1982,0
+2,chp_elec,gas,1983,0
+2,chp_elec,gas,1984,0
+2,chp_elec,gas,1985,0
+2,chp_elec,gas,1986,0
+2,chp_elec,gas,1987,0
+2,chp_elec,gas,1988,0
+2,chp_elec,gas,1989,0
+2,chp_elec,gas,1990,0
+2,chp_elec,gas,1991,0
+2,chp_elec,gas,1992,0
+2,chp_elec,gas,1993,0
+2,chp_elec,gas,1994,0
+2,chp_elec,gas,1995,0
+2,chp_elec,gas,1996,0
+2,chp_elec,gas,1997,0
+2,chp_elec,gas,1998,0
+2,chp_elec,gas,1999,0
+2,chp_elec,gas,2000,0
+2,chp_elec,gas,2001,0
+2,chp_elec,gas,2002,0
+2,chp_elec,gas,2003,0
+2,chp_elec,gas,2004,0
+2,chp_elec,gas,2005,0
+2,chp_elec,gas,2006,0
+2,chp_elec,gas,2007,0
+2,chp_elec,gas,2008,0
+2,chp_elec,gas,2009,0
+2,chp_elec,gas,2010,0
+2,chp_elec,gas,2011,0
+2,chp_elec,gas,2012,0
+2,chp_elec,gas,2013,0
+2,chp_elec,gas,2014,0
+2,chp_elec,gas,2015,0
+2,chp_elec,refined liquids,1971,0
+2,chp_elec,refined liquids,1972,0
+2,chp_elec,refined liquids,1973,0
+2,chp_elec,refined liquids,1974,0
+2,chp_elec,refined liquids,1975,0
+2,chp_elec,refined liquids,1976,0
+2,chp_elec,refined liquids,1977,0
+2,chp_elec,refined liquids,1978,0
+2,chp_elec,refined liquids,1979,0
+2,chp_elec,refined liquids,1980,0
+2,chp_elec,refined liquids,1981,0
+2,chp_elec,refined liquids,1982,0
+2,chp_elec,refined liquids,1983,0
+2,chp_elec,refined liquids,1984,0
+2,chp_elec,refined liquids,1985,0
+2,chp_elec,refined liquids,1986,0
+2,chp_elec,refined liquids,1987,0
+2,chp_elec,refined liquids,1988,0
+2,chp_elec,refined liquids,1989,0
+2,chp_elec,refined liquids,1990,0
+2,chp_elec,refined liquids,1991,0
+2,chp_elec,refined liquids,1992,0
+2,chp_elec,refined liquids,1993,0
+2,chp_elec,refined liquids,1994,0
+2,chp_elec,refined liquids,1995,0
+2,chp_elec,refined liquids,1996,0
+2,chp_elec,refined liquids,1997,0
+2,chp_elec,refined liquids,1998,0
+2,chp_elec,refined liquids,1999,0
+2,chp_elec,refined liquids,2000,0
+2,chp_elec,refined liquids,2001,0
+2,chp_elec,refined liquids,2002,0
+2,chp_elec,refined liquids,2003,0
+2,chp_elec,refined liquids,2004,0
+2,chp_elec,refined liquids,2005,0
+2,chp_elec,refined liquids,2006,0
+2,chp_elec,refined liquids,2007,0
+2,chp_elec,refined liquids,2008,0
+2,chp_elec,refined liquids,2009,0
+2,chp_elec,refined liquids,2010,0
+2,chp_elec,refined liquids,2011,0
+2,chp_elec,refined liquids,2012,0
+2,chp_elec,refined liquids,2013,0
+2,chp_elec,refined liquids,2014,0
+2,chp_elec,refined liquids,2015,0
+3,chp_elec,biomass,1971,0
+3,chp_elec,biomass,1972,0
+3,chp_elec,biomass,1973,0
+3,chp_elec,biomass,1974,0
+3,chp_elec,biomass,1975,0
+3,chp_elec,biomass,1976,0
+3,chp_elec,biomass,1977,0
+3,chp_elec,biomass,1978,0
+3,chp_elec,biomass,1979,0
+3,chp_elec,biomass,1980,0
+3,chp_elec,biomass,1981,0
+3,chp_elec,biomass,1982,0
+3,chp_elec,biomass,1983,0
+3,chp_elec,biomass,1984,0
+3,chp_elec,biomass,1985,0
+3,chp_elec,biomass,1986,0
+3,chp_elec,biomass,1987,0
+3,chp_elec,biomass,1988,0
+3,chp_elec,biomass,1989,0
+3,chp_elec,biomass,1990,0
+3,chp_elec,biomass,1991,0
+3,chp_elec,biomass,1992,0
+3,chp_elec,biomass,1993,0
+3,chp_elec,biomass,1994,0
+3,chp_elec,biomass,1995,0
+3,chp_elec,biomass,1996,0
+3,chp_elec,biomass,1997,0
+3,chp_elec,biomass,1998,0
+3,chp_elec,biomass,1999,0
+3,chp_elec,biomass,2000,0
+3,chp_elec,biomass,2001,0
+3,chp_elec,biomass,2002,0
+3,chp_elec,biomass,2003,0
+3,chp_elec,biomass,2004,0
+3,chp_elec,biomass,2005,0
+3,chp_elec,biomass,2006,0
+3,chp_elec,biomass,2007,0
+3,chp_elec,biomass,2008,0
+3,chp_elec,biomass,2009,0
+3,chp_elec,biomass,2010,0
+3,chp_elec,biomass,2011,1.8648722476816747e-5
+3,chp_elec,biomass,2012,1.764756603508805e-5
+3,chp_elec,biomass,2013,1.7480710933188928e-5
+3,chp_elec,biomass,2014,1.7387006336903863e-5
+3,chp_elec,biomass,2015,1.7498165932822662e-5
+3,chp_elec,coal,1971,0
+3,chp_elec,coal,1972,0
+3,chp_elec,coal,1973,0
+3,chp_elec,coal,1974,0
+3,chp_elec,coal,1975,0
+3,chp_elec,coal,1976,0
+3,chp_elec,coal,1977,0
+3,chp_elec,coal,1978,0
+3,chp_elec,coal,1979,0
+3,chp_elec,coal,1980,0
+3,chp_elec,coal,1981,0
+3,chp_elec,coal,1982,0
+3,chp_elec,coal,1983,0
+3,chp_elec,coal,1984,0
+3,chp_elec,coal,1985,0
+3,chp_elec,coal,1986,0
+3,chp_elec,coal,1987,0
+3,chp_elec,coal,1988,0
+3,chp_elec,coal,1989,0
+3,chp_elec,coal,1990,0
+3,chp_elec,coal,1991,0
+3,chp_elec,coal,1992,0
+3,chp_elec,coal,1993,0
+3,chp_elec,coal,1994,0
+3,chp_elec,coal,1995,0
+3,chp_elec,coal,1996,0
+3,chp_elec,coal,1997,0
+3,chp_elec,coal,1998,0
+3,chp_elec,coal,1999,0
+3,chp_elec,coal,2000,0
+3,chp_elec,coal,2001,0
+3,chp_elec,coal,2002,0
+3,chp_elec,coal,2003,0
+3,chp_elec,coal,2004,0
+3,chp_elec,coal,2005,0
+3,chp_elec,coal,2006,0
+3,chp_elec,coal,2007,0
+3,chp_elec,coal,2008,0
+3,chp_elec,coal,2009,0
+3,chp_elec,coal,2010,0
+3,chp_elec,coal,2011,0
+3,chp_elec,coal,2012,0
+3,chp_elec,coal,2013,0
+3,chp_elec,coal,2014,0
+3,chp_elec,coal,2015,0
+3,chp_elec,gas,1971,0
+3,chp_elec,gas,1972,0
+3,chp_elec,gas,1973,0
+3,chp_elec,gas,1974,0
+3,chp_elec,gas,1975,0
+3,chp_elec,gas,1976,0
+3,chp_elec,gas,1977,0
+3,chp_elec,gas,1978,0
+3,chp_elec,gas,1979,0
+3,chp_elec,gas,1980,0
+3,chp_elec,gas,1981,0
+3,chp_elec,gas,1982,0
+3,chp_elec,gas,1983,0
+3,chp_elec,gas,1984,0
+3,chp_elec,gas,1985,0
+3,chp_elec,gas,1986,0
+3,chp_elec,gas,1987,0
+3,chp_elec,gas,1988,0
+3,chp_elec,gas,1989,0
+3,chp_elec,gas,1990,0
+3,chp_elec,gas,1991,0
+3,chp_elec,gas,1992,0
+3,chp_elec,gas,1993,0
+3,chp_elec,gas,1994,0
+3,chp_elec,gas,1995,0
+3,chp_elec,gas,1996,0
+3,chp_elec,gas,1997,0
+3,chp_elec,gas,1998,0
+3,chp_elec,gas,1999,0
+3,chp_elec,gas,2000,0
+3,chp_elec,gas,2001,0
+3,chp_elec,gas,2002,0
+3,chp_elec,gas,2003,0
+3,chp_elec,gas,2004,0
+3,chp_elec,gas,2005,0
+3,chp_elec,gas,2006,0
+3,chp_elec,gas,2007,0
+3,chp_elec,gas,2008,0
+3,chp_elec,gas,2009,0
+3,chp_elec,gas,2010,0.002016
+3,chp_elec,gas,2011,0.0019008000000000002
+3,chp_elec,gas,2012,0.0024768000000000004
+3,chp_elec,gas,2013,0.0033120000000000003
+3,chp_elec,gas,2014,0.0038880000000000004
+3,chp_elec,gas,2015,0.004176
+3,chp_elec,refined liquids,1971,0
+3,chp_elec,refined liquids,1972,0
+3,chp_elec,refined liquids,1973,0
+3,chp_elec,refined liquids,1974,0
+3,chp_elec,refined liquids,1975,0
+3,chp_elec,refined liquids,1976,0
+3,chp_elec,refined liquids,1977,0
+3,chp_elec,refined liquids,1978,0
+3,chp_elec,refined liquids,1979,0
+3,chp_elec,refined liquids,1980,0
+3,chp_elec,refined liquids,1981,0
+3,chp_elec,refined liquids,1982,0
+3,chp_elec,refined liquids,1983,0
+3,chp_elec,refined liquids,1984,0
+3,chp_elec,refined liquids,1985,0
+3,chp_elec,refined liquids,1986,0
+3,chp_elec,refined liquids,1987,0
+3,chp_elec,refined liquids,1988,0
+3,chp_elec,refined liquids,1989,0
+3,chp_elec,refined liquids,1990,0
+3,chp_elec,refined liquids,1991,0
+3,chp_elec,refined liquids,1992,0
+3,chp_elec,refined liquids,1993,0
+3,chp_elec,refined liquids,1994,0
+3,chp_elec,refined liquids,1995,0
+3,chp_elec,refined liquids,1996,0
+3,chp_elec,refined liquids,1997,0
+3,chp_elec,refined liquids,1998,0
+3,chp_elec,refined liquids,1999,0
+3,chp_elec,refined liquids,2000,0
+3,chp_elec,refined liquids,2001,0
+3,chp_elec,refined liquids,2002,0
+3,chp_elec,refined liquids,2003,0
+3,chp_elec,refined liquids,2004,0
+3,chp_elec,refined liquids,2005,0
+3,chp_elec,refined liquids,2006,0
+3,chp_elec,refined liquids,2007,0
+3,chp_elec,refined liquids,2008,0
+3,chp_elec,refined liquids,2009,0
+3,chp_elec,refined liquids,2010,0
+3,chp_elec,refined liquids,2011,0
+3,chp_elec,refined liquids,2012,0
+3,chp_elec,refined liquids,2013,0
+3,chp_elec,refined liquids,2014,0
+3,chp_elec,refined liquids,2015,0
+4,chp_elec,biomass,1971,0
+4,chp_elec,biomass,1972,0
+4,chp_elec,biomass,1973,0
+4,chp_elec,biomass,1974,0
+4,chp_elec,biomass,1975,0
+4,chp_elec,biomass,1976,0
+4,chp_elec,biomass,1977,0
+4,chp_elec,biomass,1978,0
+4,chp_elec,biomass,1979,0
+4,chp_elec,biomass,1980,0
+4,chp_elec,biomass,1981,0
+4,chp_elec,biomass,1982,0
+4,chp_elec,biomass,1983,0
+4,chp_elec,biomass,1984,0
+4,chp_elec,biomass,1985,0
+4,chp_elec,biomass,1986,0
+4,chp_elec,biomass,1987,0
+4,chp_elec,biomass,1988,0
+4,chp_elec,biomass,1989,0
+4,chp_elec,biomass,1990,0
+4,chp_elec,biomass,1991,0
+4,chp_elec,biomass,1992,0
+4,chp_elec,biomass,1993,0
+4,chp_elec,biomass,1994,0
+4,chp_elec,biomass,1995,0
+4,chp_elec,biomass,1996,0
+4,chp_elec,biomass,1997,0
+4,chp_elec,biomass,1998,0
+4,chp_elec,biomass,1999,0
+4,chp_elec,biomass,2000,0
+4,chp_elec,biomass,2001,0
+4,chp_elec,biomass,2002,0
+4,chp_elec,biomass,2003,0
+4,chp_elec,biomass,2004,0
+4,chp_elec,biomass,2005,0
+4,chp_elec,biomass,2006,0
+4,chp_elec,biomass,2007,0
+4,chp_elec,biomass,2008,0
+4,chp_elec,biomass,2009,0
+4,chp_elec,biomass,2010,0
+4,chp_elec,biomass,2011,6.898071619370078e-4
+4,chp_elec,biomass,2012,6.581817430878454e-4
+4,chp_elec,biomass,2013,6.563051686140814e-4
+4,chp_elec,biomass,2014,6.559190619432608e-4
+4,chp_elec,biomass,2015,6.620093777378431e-4
+4,chp_elec,coal,1971,0
+4,chp_elec,coal,1972,0
+4,chp_elec,coal,1973,0
+4,chp_elec,coal,1974,0
+4,chp_elec,coal,1975,0
+4,chp_elec,coal,1976,0
+4,chp_elec,coal,1977,0
+4,chp_elec,coal,1978,0
+4,chp_elec,coal,1979,0
+4,chp_elec,coal,1980,0
+4,chp_elec,coal,1981,0
+4,chp_elec,coal,1982,0
+4,chp_elec,coal,1983,0
+4,chp_elec,coal,1984,0
+4,chp_elec,coal,1985,0
+4,chp_elec,coal,1986,0
+4,chp_elec,coal,1987,0
+4,chp_elec,coal,1988,0
+4,chp_elec,coal,1989,0
+4,chp_elec,coal,1990,0
+4,chp_elec,coal,1991,0
+4,chp_elec,coal,1992,0
+4,chp_elec,coal,1993,0
+4,chp_elec,coal,1994,0
+4,chp_elec,coal,1995,0
+4,chp_elec,coal,1996,0
+4,chp_elec,coal,1997,0
+4,chp_elec,coal,1998,0
+4,chp_elec,coal,1999,0
+4,chp_elec,coal,2000,0
+4,chp_elec,coal,2001,0
+4,chp_elec,coal,2002,0
+4,chp_elec,coal,2003,0
+4,chp_elec,coal,2004,0
+4,chp_elec,coal,2005,0
+4,chp_elec,coal,2006,0
+4,chp_elec,coal,2007,0
+4,chp_elec,coal,2008,0
+4,chp_elec,coal,2009,0
+4,chp_elec,coal,2010,0
+4,chp_elec,coal,2011,0
+4,chp_elec,coal,2012,0
+4,chp_elec,coal,2013,0
+4,chp_elec,coal,2014,0
+4,chp_elec,coal,2015,0
+4,chp_elec,gas,1971,0
+4,chp_elec,gas,1972,0
+4,chp_elec,gas,1973,0
+4,chp_elec,gas,1974,0
+4,chp_elec,gas,1975,0
+4,chp_elec,gas,1976,0
+4,chp_elec,gas,1977,0
+4,chp_elec,gas,1978,0
+4,chp_elec,gas,1979,0
+4,chp_elec,gas,1980,0
+4,chp_elec,gas,1981,0
+4,chp_elec,gas,1982,0
+4,chp_elec,gas,1983,0
+4,chp_elec,gas,1984,0
+4,chp_elec,gas,1985,0
+4,chp_elec,gas,1986,0
+4,chp_elec,gas,1987,0
+4,chp_elec,gas,1988,0
+4,chp_elec,gas,1989,0
+4,chp_elec,gas,1990,0
+4,chp_elec,gas,1991,0
+4,chp_elec,gas,1992,0
+4,chp_elec,gas,1993,0
+4,chp_elec,gas,1994,0
+4,chp_elec,gas,1995,0
+4,chp_elec,gas,1996,0
+4,chp_elec,gas,1997,0
+4,chp_elec,gas,1998,0
+4,chp_elec,gas,1999,0
+4,chp_elec,gas,2000,0
+4,chp_elec,gas,2001,0
+4,chp_elec,gas,2002,0
+4,chp_elec,gas,2003,0
+4,chp_elec,gas,2004,0
+4,chp_elec,gas,2005,0
+4,chp_elec,gas,2006,0
+4,chp_elec,gas,2007,0
+4,chp_elec,gas,2008,0
+4,chp_elec,gas,2009,0
+4,chp_elec,gas,2010,0
+4,chp_elec,gas,2011,0
+4,chp_elec,gas,2012,0
+4,chp_elec,gas,2013,0
+4,chp_elec,gas,2014,0
+4,chp_elec,gas,2015,0
+4,chp_elec,refined liquids,1971,0
+4,chp_elec,refined liquids,1972,0
+4,chp_elec,refined liquids,1973,0
+4,chp_elec,refined liquids,1974,0
+4,chp_elec,refined liquids,1975,0
+4,chp_elec,refined liquids,1976,0
+4,chp_elec,refined liquids,1977,0
+4,chp_elec,refined liquids,1978,0
+4,chp_elec,refined liquids,1979,0
+4,chp_elec,refined liquids,1980,0
+4,chp_elec,refined liquids,1981,0
+4,chp_elec,refined liquids,1982,0
+4,chp_elec,refined liquids,1983,0
+4,chp_elec,refined liquids,1984,0
+4,chp_elec,refined liquids,1985,0
+4,chp_elec,refined liquids,1986,0
+4,chp_elec,refined liquids,1987,0
+4,chp_elec,refined liquids,1988,0
+4,chp_elec,refined liquids,1989,0
+4,chp_elec,refined liquids,1990,0
+4,chp_elec,refined liquids,1991,0
+4,chp_elec,refined liquids,1992,0
+4,chp_elec,refined liquids,1993,0
+4,chp_elec,refined liquids,1994,0
+4,chp_elec,refined liquids,1995,0
+4,chp_elec,refined liquids,1996,0
+4,chp_elec,refined liquids,1997,0
+4,chp_elec,refined liquids,1998,0
+4,chp_elec,refined liquids,1999,0
+4,chp_elec,refined liquids,2000,0
+4,chp_elec,refined liquids,2001,0
+4,chp_elec,refined liquids,2002,0
+4,chp_elec,refined liquids,2003,0
+4,chp_elec,refined liquids,2004,0
+4,chp_elec,refined liquids,2005,0
+4,chp_elec,refined liquids,2006,0
+4,chp_elec,refined liquids,2007,0
+4,chp_elec,refined liquids,2008,0
+4,chp_elec,refined liquids,2009,0
+4,chp_elec,refined liquids,2010,0
+4,chp_elec,refined liquids,2011,0
+4,chp_elec,refined liquids,2012,0
+4,chp_elec,refined liquids,2013,0
+4,chp_elec,refined liquids,2014,0
+4,chp_elec,refined liquids,2015,0
+5,chp_elec,biomass,1971,0
+5,chp_elec,biomass,1972,0
+5,chp_elec,biomass,1973,0
+5,chp_elec,biomass,1974,0
+5,chp_elec,biomass,1975,0
+5,chp_elec,biomass,1976,0
+5,chp_elec,biomass,1977,0
+5,chp_elec,biomass,1978,0
+5,chp_elec,biomass,1979,0
+5,chp_elec,biomass,1980,0
+5,chp_elec,biomass,1981,0
+5,chp_elec,biomass,1982,0
+5,chp_elec,biomass,1983,0
+5,chp_elec,biomass,1984,0
+5,chp_elec,biomass,1985,0
+5,chp_elec,biomass,1986,0
+5,chp_elec,biomass,1987,0
+5,chp_elec,biomass,1988,0
+5,chp_elec,biomass,1989,0
+5,chp_elec,biomass,1990,0
+5,chp_elec,biomass,1991,0
+5,chp_elec,biomass,1992,0
+5,chp_elec,biomass,1993,0
+5,chp_elec,biomass,1994,0
+5,chp_elec,biomass,1995,0
+5,chp_elec,biomass,1996,0
+5,chp_elec,biomass,1997,0
+5,chp_elec,biomass,1998,0
+5,chp_elec,biomass,1999,0
+5,chp_elec,biomass,2000,0
+5,chp_elec,biomass,2001,0
+5,chp_elec,biomass,2002,0
+5,chp_elec,biomass,2003,0
+5,chp_elec,biomass,2004,0
+5,chp_elec,biomass,2005,0
+5,chp_elec,biomass,2006,0
+5,chp_elec,biomass,2007,0
+5,chp_elec,biomass,2008,0
+5,chp_elec,biomass,2009,0
+5,chp_elec,biomass,2010,0
+5,chp_elec,biomass,2011,0.002985069170379975
+5,chp_elec,biomass,2012,0.0028552870021055876
+5,chp_elec,biomass,2013,0.0028533032365906917
+5,chp_elec,biomass,2014,0.0028582244125761633
+5,chp_elec,biomass,2015,0.0028927254939778092
+5,chp_elec,coal,1971,0
+5,chp_elec,coal,1972,0
+5,chp_elec,coal,1973,0
+5,chp_elec,coal,1974,0
+5,chp_elec,coal,1975,0
+5,chp_elec,coal,1976,0
+5,chp_elec,coal,1977,0
+5,chp_elec,coal,1978,0
+5,chp_elec,coal,1979,0
+5,chp_elec,coal,1980,0
+5,chp_elec,coal,1981,0
+5,chp_elec,coal,1982,0
+5,chp_elec,coal,1983,0
+5,chp_elec,coal,1984,0
+5,chp_elec,coal,1985,0
+5,chp_elec,coal,1986,0
+5,chp_elec,coal,1987,0
+5,chp_elec,coal,1988,0
+5,chp_elec,coal,1989,0
+5,chp_elec,coal,1990,0
+5,chp_elec,coal,1991,0
+5,chp_elec,coal,1992,0
+5,chp_elec,coal,1993,0
+5,chp_elec,coal,1994,0
+5,chp_elec,coal,1995,0
+5,chp_elec,coal,1996,0
+5,chp_elec,coal,1997,0
+5,chp_elec,coal,1998,0
+5,chp_elec,coal,1999,0
+5,chp_elec,coal,2000,0
+5,chp_elec,coal,2001,0
+5,chp_elec,coal,2002,0
+5,chp_elec,coal,2003,0
+5,chp_elec,coal,2004,0
+5,chp_elec,coal,2005,0
+5,chp_elec,coal,2006,0
+5,chp_elec,coal,2007,0
+5,chp_elec,coal,2008,0
+5,chp_elec,coal,2009,0
+5,chp_elec,coal,2010,0
+5,chp_elec,coal,2011,0
+5,chp_elec,coal,2012,0
+5,chp_elec,coal,2013,0
+5,chp_elec,coal,2014,0
+5,chp_elec,coal,2015,0
+5,chp_elec,gas,1971,0
+5,chp_elec,gas,1972,0
+5,chp_elec,gas,1973,0
+5,chp_elec,gas,1974,0
+5,chp_elec,gas,1975,0
+5,chp_elec,gas,1976,0
+5,chp_elec,gas,1977,0
+5,chp_elec,gas,1978,0
+5,chp_elec,gas,1979,0
+5,chp_elec,gas,1980,0
+5,chp_elec,gas,1981,0
+5,chp_elec,gas,1982,0
+5,chp_elec,gas,1983,0
+5,chp_elec,gas,1984,0
+5,chp_elec,gas,1985,0
+5,chp_elec,gas,1986,0
+5,chp_elec,gas,1987,0
+5,chp_elec,gas,1988,0
+5,chp_elec,gas,1989,0
+5,chp_elec,gas,1990,0
+5,chp_elec,gas,1991,0
+5,chp_elec,gas,1992,0
+5,chp_elec,gas,1993,0
+5,chp_elec,gas,1994,0
+5,chp_elec,gas,1995,0
+5,chp_elec,gas,1996,0
+5,chp_elec,gas,1997,0
+5,chp_elec,gas,1998,0
+5,chp_elec,gas,1999,0
+5,chp_elec,gas,2000,0
+5,chp_elec,gas,2001,0
+5,chp_elec,gas,2002,0
+5,chp_elec,gas,2003,0
+5,chp_elec,gas,2004,0
+5,chp_elec,gas,2005,0
+5,chp_elec,gas,2006,0
+5,chp_elec,gas,2007,0
+5,chp_elec,gas,2008,0
+5,chp_elec,gas,2009,0
+5,chp_elec,gas,2010,0
+5,chp_elec,gas,2011,0
+5,chp_elec,gas,2012,0
+5,chp_elec,gas,2013,0
+5,chp_elec,gas,2014,0
+5,chp_elec,gas,2015,0
+5,chp_elec,refined liquids,1971,0
+5,chp_elec,refined liquids,1972,0
+5,chp_elec,refined liquids,1973,0
+5,chp_elec,refined liquids,1974,0
+5,chp_elec,refined liquids,1975,0
+5,chp_elec,refined liquids,1976,0
+5,chp_elec,refined liquids,1977,0
+5,chp_elec,refined liquids,1978,0
+5,chp_elec,refined liquids,1979,0
+5,chp_elec,refined liquids,1980,0
+5,chp_elec,refined liquids,1981,0
+5,chp_elec,refined liquids,1982,0
+5,chp_elec,refined liquids,1983,0
+5,chp_elec,refined liquids,1984,0
+5,chp_elec,refined liquids,1985,0
+5,chp_elec,refined liquids,1986,0
+5,chp_elec,refined liquids,1987,0
+5,chp_elec,refined liquids,1988,0
+5,chp_elec,refined liquids,1989,0
+5,chp_elec,refined liquids,1990,0
+5,chp_elec,refined liquids,1991,0
+5,chp_elec,refined liquids,1992,0
+5,chp_elec,refined liquids,1993,0
+5,chp_elec,refined liquids,1994,0
+5,chp_elec,refined liquids,1995,0
+5,chp_elec,refined liquids,1996,0
+5,chp_elec,refined liquids,1997,0
+5,chp_elec,refined liquids,1998,0
+5,chp_elec,refined liquids,1999,0
+5,chp_elec,refined liquids,2000,0
+5,chp_elec,refined liquids,2001,0
+5,chp_elec,refined liquids,2002,0
+5,chp_elec,refined liquids,2003,0
+5,chp_elec,refined liquids,2004,0
+5,chp_elec,refined liquids,2005,0
+5,chp_elec,refined liquids,2006,0
+5,chp_elec,refined liquids,2007,0
+5,chp_elec,refined liquids,2008,0
+5,chp_elec,refined liquids,2009,0
+5,chp_elec,refined liquids,2010,0
+5,chp_elec,refined liquids,2011,0
+5,chp_elec,refined liquids,2012,0
+5,chp_elec,refined liquids,2013,0
+5,chp_elec,refined liquids,2014,0
+5,chp_elec,refined liquids,2015,0
+6,chp_elec,biomass,1971,0
+6,chp_elec,biomass,1972,0
+6,chp_elec,biomass,1973,0
+6,chp_elec,biomass,1974,0.005039999999999999
+6,chp_elec,biomass,1975,0.005039999999999999
+6,chp_elec,biomass,1976,0.005039999999999999
+6,chp_elec,biomass,1977,0.005039999999999999
+6,chp_elec,biomass,1978,0.005039999999999999
+6,chp_elec,biomass,1979,0.005039999999999999
+6,chp_elec,biomass,1980,0.005039999999999999
+6,chp_elec,biomass,1981,0.005039999999999999
+6,chp_elec,biomass,1982,0.005039999999999999
+6,chp_elec,biomass,1983,0.005039999999999999
+6,chp_elec,biomass,1984,0.005399999999999999
+6,chp_elec,biomass,1985,0.00594
+6,chp_elec,biomass,1986,0.01422
+6,chp_elec,biomass,1987,0.0144
+6,chp_elec,biomass,1988,0.019098
+6,chp_elec,biomass,1989,0.02052
+6,chp_elec,biomass,1990,0.01998
+6,chp_elec,biomass,1991,0.020322
+6,chp_elec,biomass,1992,0.01854
+6,chp_elec,biomass,1993,0.01854
+6,chp_elec,biomass,1994,0.01854
+6,chp_elec,biomass,1995,0.01854
+6,chp_elec,biomass,1996,0.018036
+6,chp_elec,biomass,1997,0.018072
+6,chp_elec,biomass,1998,0.019944000000000003
+6,chp_elec,biomass,1999,0.019674
+6,chp_elec,biomass,2000,0.020934000000000005
+6,chp_elec,biomass,2001,0.018342
+6,chp_elec,biomass,2002,0.016506
+6,chp_elec,biomass,2003,0.016578
+6,chp_elec,biomass,2004,0.020952000000000002
+6,chp_elec,biomass,2005,0.054198
+6,chp_elec,biomass,2006,0.05598
+6,chp_elec,biomass,2007,0.0576
+6,chp_elec,biomass,2008,0.047052000000000004
+6,chp_elec,biomass,2009,0.03582
+6,chp_elec,biomass,2010,0.035064
+6,chp_elec,biomass,2011,0.024084
+6,chp_elec,biomass,2012,0.029826000000000002
+6,chp_elec,biomass,2013,0.032022
+6,chp_elec,biomass,2014,0.037134
+6,chp_elec,biomass,2015,0.038016
+6,chp_elec,coal,1971,0
+6,chp_elec,coal,1972,0
+6,chp_elec,coal,1973,0
+6,chp_elec,coal,1974,0
+6,chp_elec,coal,1975,0
+6,chp_elec,coal,1976,0
+6,chp_elec,coal,1977,0
+6,chp_elec,coal,1978,0
+6,chp_elec,coal,1979,0
+6,chp_elec,coal,1980,0
+6,chp_elec,coal,1981,0
+6,chp_elec,coal,1982,0
+6,chp_elec,coal,1983,0
+6,chp_elec,coal,1984,0
+6,chp_elec,coal,1985,0
+6,chp_elec,coal,1986,0
+6,chp_elec,coal,1987,0
+6,chp_elec,coal,1988,0
+6,chp_elec,coal,1989,0
+6,chp_elec,coal,1990,0.0028368000000000004
+6,chp_elec,coal,1991,0.0034416000000000004
+6,chp_elec,coal,1992,0.0034560000000000003
+6,chp_elec,coal,1993,0.0037152
+6,chp_elec,coal,1994,0.0038448
+6,chp_elec,coal,1995,0.0038448
+6,chp_elec,coal,1996,0.0037728000000000006
+6,chp_elec,coal,1997,0.004752
+6,chp_elec,coal,1998,0.009000000000000001
+6,chp_elec,coal,1999,0.008568000000000001
+6,chp_elec,coal,2000,0.008568000000000001
+6,chp_elec,coal,2001,0.00936
+6,chp_elec,coal,2002,0.008697600000000002
+6,chp_elec,coal,2003,0.0102672
+6,chp_elec,coal,2004,0.0099936
+6,chp_elec,coal,2005,0.0093168
+6,chp_elec,coal,2006,0.009720000000000001
+6,chp_elec,coal,2007,0.009230400000000001
+6,chp_elec,coal,2008,0.0088272
+6,chp_elec,coal,2009,0.0085392
+6,chp_elec,coal,2010,0.0096912
+6,chp_elec,coal,2011,0.008496
+6,chp_elec,coal,2012,0.009216
+6,chp_elec,coal,2013,0.009532800000000001
+6,chp_elec,coal,2014,0.0093024
+6,chp_elec,coal,2015,0.0095472
+6,chp_elec,gas,1971,0
+6,chp_elec,gas,1972,0
+6,chp_elec,gas,1973,0
+6,chp_elec,gas,1974,0
+6,chp_elec,gas,1975,0
+6,chp_elec,gas,1976,0
+6,chp_elec,gas,1977,0
+6,chp_elec,gas,1978,0
+6,chp_elec,gas,1979,0
+6,chp_elec,gas,1980,4.3200000000000004e-4
+6,chp_elec,gas,1981,4.3200000000000004e-4
+6,chp_elec,gas,1982,7.488000000000001e-4
+6,chp_elec,gas,1983,8.640000000000001e-4
+6,chp_elec,gas,1984,8.640000000000001e-4
+6,chp_elec,gas,1985,8.640000000000001e-4
+6,chp_elec,gas,1986,8.640000000000001e-4
+6,chp_elec,gas,1987,8.928e-4
+6,chp_elec,gas,1988,9.072e-4
+6,chp_elec,gas,1989,9.072e-4
+6,chp_elec,gas,1990,0.0024912000000000003
+6,chp_elec,gas,1991,0.002592
+6,chp_elec,gas,1992,0.0026352
+6,chp_elec,gas,1993,0.0026928000000000004
+6,chp_elec,gas,1994,0.0036432
+6,chp_elec,gas,1995,0.0052992000000000004
+6,chp_elec,gas,1996,0.0076896
+6,chp_elec,gas,1997,0.0079488
+6,chp_elec,gas,1998,0.010209600000000001
+6,chp_elec,gas,1999,0.0121824
+6,chp_elec,gas,2000,0.012124800000000002
+6,chp_elec,gas,2001,0.005529600000000001
+6,chp_elec,gas,2002,0.06379200000000002
+6,chp_elec,gas,2003,0.061243200000000005
+6,chp_elec,gas,2004,0.06886080000000001
+6,chp_elec,gas,2005,0.05420160000000001
+6,chp_elec,gas,2006,0.0584208
+6,chp_elec,gas,2007,0.06779520000000001
+6,chp_elec,gas,2008,0.06621120000000001
+6,chp_elec,gas,2009,0.06720480000000001
+6,chp_elec,gas,2010,0.08411040000000002
+6,chp_elec,gas,2011,0.0912672
+6,chp_elec,gas,2012,0.09440640000000002
+6,chp_elec,gas,2013,0.0985968
+6,chp_elec,gas,2014,0.10438560000000001
+6,chp_elec,gas,2015,0.09578880000000001
+6,chp_elec,refined liquids,1971,0
+6,chp_elec,refined liquids,1972,0
+6,chp_elec,refined liquids,1973,0
+6,chp_elec,refined liquids,1974,0
+6,chp_elec,refined liquids,1975,0
+6,chp_elec,refined liquids,1976,0
+6,chp_elec,refined liquids,1977,0
+6,chp_elec,refined liquids,1978,0
+6,chp_elec,refined liquids,1979,0
+6,chp_elec,refined liquids,1980,0
+6,chp_elec,refined liquids,1981,0
+6,chp_elec,refined liquids,1982,0
+6,chp_elec,refined liquids,1983,0
+6,chp_elec,refined liquids,1984,0
+6,chp_elec,refined liquids,1985,0
+6,chp_elec,refined liquids,1986,0
+6,chp_elec,refined liquids,1987,0
+6,chp_elec,refined liquids,1988,0
+6,chp_elec,refined liquids,1989,0
+6,chp_elec,refined liquids,1990,0
+6,chp_elec,refined liquids,1991,0
+6,chp_elec,refined liquids,1992,0
+6,chp_elec,refined liquids,1993,0
+6,chp_elec,refined liquids,1994,0
+6,chp_elec,refined liquids,1995,0
+6,chp_elec,refined liquids,1996,0
+6,chp_elec,refined liquids,1997,0
+6,chp_elec,refined liquids,1998,0
+6,chp_elec,refined liquids,1999,0
+6,chp_elec,refined liquids,2000,0
+6,chp_elec,refined liquids,2001,0
+6,chp_elec,refined liquids,2002,0
+6,chp_elec,refined liquids,2003,0
+6,chp_elec,refined liquids,2004,0
+6,chp_elec,refined liquids,2005,0
+6,chp_elec,refined liquids,2006,0
+6,chp_elec,refined liquids,2007,0
+6,chp_elec,refined liquids,2008,0
+6,chp_elec,refined liquids,2009,0.00432
+6,chp_elec,refined liquids,2010,0.0041472
+6,chp_elec,refined liquids,2011,0.0039456000000000005
+6,chp_elec,refined liquids,2012,0.0025776
+6,chp_elec,refined liquids,2013,0.0043632
+6,chp_elec,refined liquids,2014,0.0034128
+6,chp_elec,refined liquids,2015,0.0018432000000000001
+7,chp_elec,biomass,1971,0.011124
+7,chp_elec,biomass,1972,0.012797999999999999
+7,chp_elec,biomass,1973,0.0135
+7,chp_elec,biomass,1974,0.014130000000000002
+7,chp_elec,biomass,1975,0.015588000000000001
+7,chp_elec,biomass,1976,0.015552
+7,chp_elec,biomass,1977,0.020106
+7,chp_elec,biomass,1978,0.023976
+7,chp_elec,biomass,1979,0.03195
+7,chp_elec,biomass,1980,0.03249
+7,chp_elec,biomass,1981,0.033714
+7,chp_elec,biomass,1982,0.039203999999999996
+7,chp_elec,biomass,1983,0.053712
+7,chp_elec,biomass,1984,0.051318
+7,chp_elec,biomass,1985,0.054828
+7,chp_elec,biomass,1986,0.056898
+7,chp_elec,biomass,1987,0.063558
+7,chp_elec,biomass,1988,0.059652000000000004
+7,chp_elec,biomass,1989,0.061128
+7,chp_elec,biomass,1990,0.069462
+7,chp_elec,biomass,1991,0.071982
+7,chp_elec,biomass,1992,0.088182
+7,chp_elec,biomass,1993,0.089172
+7,chp_elec,biomass,1994,0.096984
+7,chp_elec,biomass,1995,0.100692
+7,chp_elec,biomass,1996,0.121536
+7,chp_elec,biomass,1997,0.132822
+7,chp_elec,biomass,1998,0.13509
+7,chp_elec,biomass,1999,0.150588
+7,chp_elec,biomass,2000,0.141192
+7,chp_elec,biomass,2001,0.16164
+7,chp_elec,biomass,2002,0.18394200000000002
+7,chp_elec,biomass,2003,0.21409200000000003
+7,chp_elec,biomass,2004,0.22456800000000002
+7,chp_elec,biomass,2005,0.244638
+7,chp_elec,biomass,2006,0.262278
+7,chp_elec,biomass,2007,0.32412599999999997
+7,chp_elec,biomass,2008,0.347184
+7,chp_elec,biomass,2009,0.402408
+7,chp_elec,biomass,2010,0.5630040000000001
+7,chp_elec,biomass,2011,0.56979
+7,chp_elec,biomass,2012,0.621648
+7,chp_elec,biomass,2013,0.710442
+7,chp_elec,biomass,2014,0.807264
+7,chp_elec,biomass,2015,0.855342
+7,chp_elec,coal,1971,0.0057024
+7,chp_elec,coal,1972,0.005832
+7,chp_elec,coal,1973,0.0054
+7,chp_elec,coal,1974,0.005472
+7,chp_elec,coal,1975,0.005328
+7,chp_elec,coal,1976,0.0071136
+7,chp_elec,coal,1977,0.0062928
+7,chp_elec,coal,1978,0.0073728000000000005
+7,chp_elec,coal,1979,0.0104544
+7,chp_elec,coal,1980,0.013939200000000002
+7,chp_elec,coal,1981,0.017020800000000003
+7,chp_elec,coal,1982,0.0192384
+7,chp_elec,coal,1983,0.020664000000000002
+7,chp_elec,coal,1984,0.030312000000000002
+7,chp_elec,coal,1985,0.023184000000000003
+7,chp_elec,coal,1986,0.024667200000000004
+7,chp_elec,coal,1987,0.0278352
+7,chp_elec,coal,1988,0.031248
+7,chp_elec,coal,1989,0.026294400000000002
+7,chp_elec,coal,1990,0.029419200000000003
+7,chp_elec,coal,1991,0.0340128
+7,chp_elec,coal,1992,0.028497600000000005
+7,chp_elec,coal,1993,0.0303408
+7,chp_elec,coal,1994,0.02772
+7,chp_elec,coal,1995,0.026697600000000002
+7,chp_elec,coal,1996,0.0294336
+7,chp_elec,coal,1997,0.0305424
+7,chp_elec,coal,1998,0.034934400000000004
+7,chp_elec,coal,1999,0.0383184
+7,chp_elec,coal,2000,0.0512352
+7,chp_elec,coal,2001,0.0548784
+7,chp_elec,coal,2002,0.059385600000000004
+7,chp_elec,coal,2003,0.0553248
+7,chp_elec,coal,2004,0.061027200000000004
+7,chp_elec,coal,2005,0.0667296
+7,chp_elec,coal,2006,0.05725440000000001
+7,chp_elec,coal,2007,0.0614736
+7,chp_elec,coal,2008,0.084528
+7,chp_elec,coal,2009,0.06577920000000001
+7,chp_elec,coal,2010,0.07596
+7,chp_elec,coal,2011,0.09725760000000001
+7,chp_elec,coal,2012,0.0975024
+7,chp_elec,coal,2013,0.11268
+7,chp_elec,coal,2014,0.13644
+7,chp_elec,coal,2015,0.138888
+7,chp_elec,gas,1971,0
+7,chp_elec,gas,1972,0
+7,chp_elec,gas,1973,0
+7,chp_elec,gas,1974,0
+7,chp_elec,gas,1975,0
+7,chp_elec,gas,1976,0
+7,chp_elec,gas,1977,0
+7,chp_elec,gas,1978,0
+7,chp_elec,gas,1979,0
+7,chp_elec,gas,1980,0
+7,chp_elec,gas,1981,0
+7,chp_elec,gas,1982,0
+7,chp_elec,gas,1983,0
+7,chp_elec,gas,1984,0
+7,chp_elec,gas,1985,0
+7,chp_elec,gas,1986,0
+7,chp_elec,gas,1987,0
+7,chp_elec,gas,1988,0
+7,chp_elec,gas,1989,0
+7,chp_elec,gas,1990,0.004521600000000001
+7,chp_elec,gas,1991,0.005313600000000001
+7,chp_elec,gas,1992,0.0055728
+7,chp_elec,gas,1993,0.0055872000000000005
+7,chp_elec,gas,1994,0.0068976
+7,chp_elec,gas,1995,0.008064
+7,chp_elec,gas,1996,0.014025600000000001
+7,chp_elec,gas,1997,0.0159408
+7,chp_elec,gas,1998,0.0168624
+7,chp_elec,gas,1999,0.0317232
+7,chp_elec,gas,2000,0.0359712
+7,chp_elec,gas,2001,0.043401600000000005
+7,chp_elec,gas,2002,0.0476496
+7,chp_elec,gas,2003,0.058132800000000005
+7,chp_elec,gas,2004,0.0659952
+7,chp_elec,gas,2005,0.07076160000000001
+7,chp_elec,gas,2006,0.07500960000000001
+7,chp_elec,gas,2007,0.0701856
+7,chp_elec,gas,2008,0.07909920000000001
+7,chp_elec,gas,2009,0.075528
+7,chp_elec,gas,2010,0.15448320000000001
+7,chp_elec,gas,2011,0.145224
+7,chp_elec,gas,2012,0.1450224
+7,chp_elec,gas,2013,0.1465776
+7,chp_elec,gas,2014,0.1620432
+7,chp_elec,gas,2015,0.1691136
+7,chp_elec,refined liquids,1971,0.020232
+7,chp_elec,refined liquids,1972,0.021700800000000003
+7,chp_elec,refined liquids,1973,0.023875200000000003
+7,chp_elec,refined liquids,1974,0.024897600000000002
+7,chp_elec,refined liquids,1975,0.027806400000000002
+7,chp_elec,refined liquids,1976,0.0275328
+7,chp_elec,refined liquids,1977,0.0256176
+7,chp_elec,refined liquids,1978,0.031752
+7,chp_elec,refined liquids,1979,0.0391392
+7,chp_elec,refined liquids,1980,0.039816000000000004
+7,chp_elec,refined liquids,1981,0.035136
+7,chp_elec,refined liquids,1982,0.034228800000000004
+7,chp_elec,refined liquids,1983,0.032932800000000005
+7,chp_elec,refined liquids,1984,0.022968000000000002
+7,chp_elec,refined liquids,1985,0.023457600000000002
+7,chp_elec,refined liquids,1986,0.0338832
+7,chp_elec,refined liquids,1987,0.030196800000000003
+7,chp_elec,refined liquids,1988,0.030830400000000004
+7,chp_elec,refined liquids,1989,0.031032000000000004
+7,chp_elec,refined liquids,1990,0.0371232
+7,chp_elec,refined liquids,1991,0.036576000000000004
+7,chp_elec,refined liquids,1992,0.0431568
+7,chp_elec,refined liquids,1993,0.0463536
+7,chp_elec,refined liquids,1994,0.0451584
+7,chp_elec,refined liquids,1995,0.04991040000000001
+7,chp_elec,refined liquids,1996,0.0559296
+7,chp_elec,refined liquids,1997,0.05967360000000001
+7,chp_elec,refined liquids,1998,0.06292800000000001
+7,chp_elec,refined liquids,1999,0.0684864
+7,chp_elec,refined liquids,2000,0.0705312
+7,chp_elec,refined liquids,2001,0.08262720000000001
+7,chp_elec,refined liquids,2002,0.061200000000000004
+7,chp_elec,refined liquids,2003,0.050256
+7,chp_elec,refined liquids,2004,0.05572800000000001
+7,chp_elec,refined liquids,2005,0.049464
+7,chp_elec,refined liquids,2006,0.060566400000000006
+7,chp_elec,refined liquids,2007,0.0582192
+7,chp_elec,refined liquids,2008,0.0669744
+7,chp_elec,refined liquids,2009,0.07057440000000001
+7,chp_elec,refined liquids,2010,0.06605280000000001
+7,chp_elec,refined liquids,2011,0.07587360000000001
+7,chp_elec,refined liquids,2012,0.08822880000000001
+7,chp_elec,refined liquids,2013,0.0939744
+7,chp_elec,refined liquids,2014,0.08743680000000001
+7,chp_elec,refined liquids,2015,0.0897696
+8,chp_elec,biomass,1971,0
+8,chp_elec,biomass,1972,0
+8,chp_elec,biomass,1973,0
+8,chp_elec,biomass,1974,0
+8,chp_elec,biomass,1975,0
+8,chp_elec,biomass,1976,0
+8,chp_elec,biomass,1977,0
+8,chp_elec,biomass,1978,0
+8,chp_elec,biomass,1979,0
+8,chp_elec,biomass,1980,0
+8,chp_elec,biomass,1981,0
+8,chp_elec,biomass,1982,0
+8,chp_elec,biomass,1983,0
+8,chp_elec,biomass,1984,0
+8,chp_elec,biomass,1985,0
+8,chp_elec,biomass,1986,0
+8,chp_elec,biomass,1987,0
+8,chp_elec,biomass,1988,0
+8,chp_elec,biomass,1989,0
+8,chp_elec,biomass,1990,0
+8,chp_elec,biomass,1991,0
+8,chp_elec,biomass,1992,0
+8,chp_elec,biomass,1993,0
+8,chp_elec,biomass,1994,0
+8,chp_elec,biomass,1995,0
+8,chp_elec,biomass,1996,0
+8,chp_elec,biomass,1997,0
+8,chp_elec,biomass,1998,0
+8,chp_elec,biomass,1999,0
+8,chp_elec,biomass,2000,0
+8,chp_elec,biomass,2001,0
+8,chp_elec,biomass,2002,0
+8,chp_elec,biomass,2003,0
+8,chp_elec,biomass,2004,0
+8,chp_elec,biomass,2005,0
+8,chp_elec,biomass,2006,0
+8,chp_elec,biomass,2007,0
+8,chp_elec,biomass,2008,0
+8,chp_elec,biomass,2009,0
+8,chp_elec,biomass,2010,0
+8,chp_elec,biomass,2011,0
+8,chp_elec,biomass,2012,0
+8,chp_elec,biomass,2013,0
+8,chp_elec,biomass,2014,0
+8,chp_elec,biomass,2015,0
+8,chp_elec,coal,1971,0
+8,chp_elec,coal,1972,0
+8,chp_elec,coal,1973,0
+8,chp_elec,coal,1974,0
+8,chp_elec,coal,1975,0
+8,chp_elec,coal,1976,0
+8,chp_elec,coal,1977,0
+8,chp_elec,coal,1978,0
+8,chp_elec,coal,1979,0
+8,chp_elec,coal,1980,0
+8,chp_elec,coal,1981,0
+8,chp_elec,coal,1982,0
+8,chp_elec,coal,1983,0
+8,chp_elec,coal,1984,0
+8,chp_elec,coal,1985,0
+8,chp_elec,coal,1986,0
+8,chp_elec,coal,1987,0
+8,chp_elec,coal,1988,0
+8,chp_elec,coal,1989,0
+8,chp_elec,coal,1990,0
+8,chp_elec,coal,1991,0
+8,chp_elec,coal,1992,0
+8,chp_elec,coal,1993,0
+8,chp_elec,coal,1994,0
+8,chp_elec,coal,1995,0
+8,chp_elec,coal,1996,0
+8,chp_elec,coal,1997,0
+8,chp_elec,coal,1998,0
+8,chp_elec,coal,1999,0
+8,chp_elec,coal,2000,0
+8,chp_elec,coal,2001,0
+8,chp_elec,coal,2002,0
+8,chp_elec,coal,2003,0
+8,chp_elec,coal,2004,0
+8,chp_elec,coal,2005,0
+8,chp_elec,coal,2006,0
+8,chp_elec,coal,2007,0
+8,chp_elec,coal,2008,0
+8,chp_elec,coal,2009,0
+8,chp_elec,coal,2010,0
+8,chp_elec,coal,2011,0
+8,chp_elec,coal,2012,0
+8,chp_elec,coal,2013,0
+8,chp_elec,coal,2014,0
+8,chp_elec,coal,2015,0
+8,chp_elec,gas,1971,0
+8,chp_elec,gas,1972,0
+8,chp_elec,gas,1973,0
+8,chp_elec,gas,1974,0
+8,chp_elec,gas,1975,0
+8,chp_elec,gas,1976,0
+8,chp_elec,gas,1977,0
+8,chp_elec,gas,1978,0
+8,chp_elec,gas,1979,0
+8,chp_elec,gas,1980,0
+8,chp_elec,gas,1981,0
+8,chp_elec,gas,1982,0
+8,chp_elec,gas,1983,0
+8,chp_elec,gas,1984,0
+8,chp_elec,gas,1985,0
+8,chp_elec,gas,1986,0
+8,chp_elec,gas,1987,0
+8,chp_elec,gas,1988,0
+8,chp_elec,gas,1989,0
+8,chp_elec,gas,1990,0
+8,chp_elec,gas,1991,0
+8,chp_elec,gas,1992,0
+8,chp_elec,gas,1993,0
+8,chp_elec,gas,1994,0
+8,chp_elec,gas,1995,0
+8,chp_elec,gas,1996,0
+8,chp_elec,gas,1997,0
+8,chp_elec,gas,1998,0
+8,chp_elec,gas,1999,0
+8,chp_elec,gas,2000,0
+8,chp_elec,gas,2001,0
+8,chp_elec,gas,2002,0
+8,chp_elec,gas,2003,0
+8,chp_elec,gas,2004,0
+8,chp_elec,gas,2005,0
+8,chp_elec,gas,2006,0
+8,chp_elec,gas,2007,0
+8,chp_elec,gas,2008,0
+8,chp_elec,gas,2009,0
+8,chp_elec,gas,2010,0
+8,chp_elec,gas,2011,4.0320000000000004e-4
+8,chp_elec,gas,2012,4.0320000000000004e-4
+8,chp_elec,gas,2013,9.936e-4
+8,chp_elec,gas,2014,9.936e-4
+8,chp_elec,gas,2015,9.936e-4
+8,chp_elec,refined liquids,1971,0
+8,chp_elec,refined liquids,1972,0
+8,chp_elec,refined liquids,1973,0
+8,chp_elec,refined liquids,1974,0
+8,chp_elec,refined liquids,1975,0
+8,chp_elec,refined liquids,1976,0
+8,chp_elec,refined liquids,1977,0
+8,chp_elec,refined liquids,1978,0
+8,chp_elec,refined liquids,1979,0
+8,chp_elec,refined liquids,1980,0
+8,chp_elec,refined liquids,1981,0
+8,chp_elec,refined liquids,1982,0
+8,chp_elec,refined liquids,1983,0
+8,chp_elec,refined liquids,1984,0
+8,chp_elec,refined liquids,1985,0
+8,chp_elec,refined liquids,1986,0
+8,chp_elec,refined liquids,1987,0
+8,chp_elec,refined liquids,1988,0
+8,chp_elec,refined liquids,1989,0
+8,chp_elec,refined liquids,1990,0
+8,chp_elec,refined liquids,1991,0
+8,chp_elec,refined liquids,1992,0
+8,chp_elec,refined liquids,1993,0
+8,chp_elec,refined liquids,1994,0
+8,chp_elec,refined liquids,1995,0
+8,chp_elec,refined liquids,1996,0
+8,chp_elec,refined liquids,1997,0
+8,chp_elec,refined liquids,1998,0
+8,chp_elec,refined liquids,1999,0
+8,chp_elec,refined liquids,2000,0
+8,chp_elec,refined liquids,2001,0
+8,chp_elec,refined liquids,2002,0
+8,chp_elec,refined liquids,2003,0
+8,chp_elec,refined liquids,2004,0
+8,chp_elec,refined liquids,2005,0
+8,chp_elec,refined liquids,2006,0
+8,chp_elec,refined liquids,2007,0
+8,chp_elec,refined liquids,2008,0
+8,chp_elec,refined liquids,2009,0
+8,chp_elec,refined liquids,2010,0
+8,chp_elec,refined liquids,2011,0
+8,chp_elec,refined liquids,2012,0
+8,chp_elec,refined liquids,2013,0
+8,chp_elec,refined liquids,2014,0
+8,chp_elec,refined liquids,2015,0
+9,chp_elec,biomass,1971,0.001854
+9,chp_elec,biomass,1972,0.002322
+9,chp_elec,biomass,1973,0.00369
+9,chp_elec,biomass,1974,0.0034560000000000003
+9,chp_elec,biomass,1975,0.003618
+9,chp_elec,biomass,1976,0.004896
+9,chp_elec,biomass,1977,0.005454
+9,chp_elec,biomass,1978,0.00603
+9,chp_elec,biomass,1979,0.005022
+9,chp_elec,biomass,1980,0.005076000000000001
+9,chp_elec,biomass,1981,0.005004
+9,chp_elec,biomass,1982,0.0053820000000000005
+9,chp_elec,biomass,1983,0.006498
+9,chp_elec,biomass,1984,0.001008
+9,chp_elec,biomass,1985,9e-4
+9,chp_elec,biomass,1986,9e-4
+9,chp_elec,biomass,1987,0.001278
+9,chp_elec,biomass,1988,0.0016020000000000001
+9,chp_elec,biomass,1989,0.001674
+9,chp_elec,biomass,1990,0.001764
+9,chp_elec,biomass,1991,8.460000000000001e-4
+9,chp_elec,biomass,1992,0.001962
+9,chp_elec,biomass,1993,0.002592
+9,chp_elec,biomass,1994,0.003438
+9,chp_elec,biomass,1995,0.0039959999999999996
+9,chp_elec,biomass,1996,0.004752
+9,chp_elec,biomass,1997,0.004914
+9,chp_elec,biomass,1998,0.003762
+9,chp_elec,biomass,1999,0.0037260000000000006
+9,chp_elec,biomass,2000,0.0039959999999999996
+9,chp_elec,biomass,2001,0.003348
+9,chp_elec,biomass,2002,0.00207
+9,chp_elec,biomass,2003,0.001998
+9,chp_elec,biomass,2004,0.0016020000000000001
+9,chp_elec,biomass,2005,0.002034
+9,chp_elec,biomass,2006,0.0022860000000000003
+9,chp_elec,biomass,2007,0.002664
+9,chp_elec,biomass,2008,0.002232
+9,chp_elec,biomass,2009,0.004284
+9,chp_elec,biomass,2010,0.004734
+9,chp_elec,biomass,2011,0.004824
+9,chp_elec,biomass,2012,0.00594
+9,chp_elec,biomass,2013,0.00585
+9,chp_elec,biomass,2014,0.0056879999999999995
+9,chp_elec,biomass,2015,0.006084
+9,chp_elec,coal,1971,0
+9,chp_elec,coal,1972,0
+9,chp_elec,coal,1973,0
+9,chp_elec,coal,1974,0
+9,chp_elec,coal,1975,0
+9,chp_elec,coal,1976,0
+9,chp_elec,coal,1977,0
+9,chp_elec,coal,1978,0
+9,chp_elec,coal,1979,0
+9,chp_elec,coal,1980,0
+9,chp_elec,coal,1981,0
+9,chp_elec,coal,1982,0
+9,chp_elec,coal,1983,0
+9,chp_elec,coal,1984,0
+9,chp_elec,coal,1985,0
+9,chp_elec,coal,1986,0
+9,chp_elec,coal,1987,0
+9,chp_elec,coal,1988,0
+9,chp_elec,coal,1989,0
+9,chp_elec,coal,1990,0
+9,chp_elec,coal,1991,0
+9,chp_elec,coal,1992,0
+9,chp_elec,coal,1993,0
+9,chp_elec,coal,1994,0
+9,chp_elec,coal,1995,0
+9,chp_elec,coal,1996,0
+9,chp_elec,coal,1997,0
+9,chp_elec,coal,1998,0
+9,chp_elec,coal,1999,0
+9,chp_elec,coal,2000,0
+9,chp_elec,coal,2001,0
+9,chp_elec,coal,2002,0
+9,chp_elec,coal,2003,0
+9,chp_elec,coal,2004,0
+9,chp_elec,coal,2005,0
+9,chp_elec,coal,2006,0
+9,chp_elec,coal,2007,0
+9,chp_elec,coal,2008,0
+9,chp_elec,coal,2009,0
+9,chp_elec,coal,2010,0
+9,chp_elec,coal,2011,0
+9,chp_elec,coal,2012,0
+9,chp_elec,coal,2013,0
+9,chp_elec,coal,2014,0
+9,chp_elec,coal,2015,0
+9,chp_elec,gas,1971,0
+9,chp_elec,gas,1972,0
+9,chp_elec,gas,1973,0
+9,chp_elec,gas,1974,0
+9,chp_elec,gas,1975,0
+9,chp_elec,gas,1976,0
+9,chp_elec,gas,1977,0
+9,chp_elec,gas,1978,0
+9,chp_elec,gas,1979,0
+9,chp_elec,gas,1980,0
+9,chp_elec,gas,1981,0
+9,chp_elec,gas,1982,0
+9,chp_elec,gas,1983,0
+9,chp_elec,gas,1984,0
+9,chp_elec,gas,1985,0
+9,chp_elec,gas,1986,0
+9,chp_elec,gas,1987,0
+9,chp_elec,gas,1988,0
+9,chp_elec,gas,1989,0
+9,chp_elec,gas,1990,0
+9,chp_elec,gas,1991,0
+9,chp_elec,gas,1992,0
+9,chp_elec,gas,1993,0
+9,chp_elec,gas,1994,0
+9,chp_elec,gas,1995,0
+9,chp_elec,gas,1996,0
+9,chp_elec,gas,1997,0
+9,chp_elec,gas,1998,0
+9,chp_elec,gas,1999,0
+9,chp_elec,gas,2000,0
+9,chp_elec,gas,2001,0
+9,chp_elec,gas,2002,0
+9,chp_elec,gas,2003,0
+9,chp_elec,gas,2004,0
+9,chp_elec,gas,2005,0
+9,chp_elec,gas,2006,0
+9,chp_elec,gas,2007,0
+9,chp_elec,gas,2008,0
+9,chp_elec,gas,2009,0
+9,chp_elec,gas,2010,0
+9,chp_elec,gas,2011,0
+9,chp_elec,gas,2012,0
+9,chp_elec,gas,2013,0
+9,chp_elec,gas,2014,0
+9,chp_elec,gas,2015,0
+9,chp_elec,refined liquids,1971,0
+9,chp_elec,refined liquids,1972,0
+9,chp_elec,refined liquids,1973,0
+9,chp_elec,refined liquids,1974,0
+9,chp_elec,refined liquids,1975,0
+9,chp_elec,refined liquids,1976,0
+9,chp_elec,refined liquids,1977,0
+9,chp_elec,refined liquids,1978,0
+9,chp_elec,refined liquids,1979,0
+9,chp_elec,refined liquids,1980,0
+9,chp_elec,refined liquids,1981,0
+9,chp_elec,refined liquids,1982,0
+9,chp_elec,refined liquids,1983,0
+9,chp_elec,refined liquids,1984,0
+9,chp_elec,refined liquids,1985,0
+9,chp_elec,refined liquids,1986,0
+9,chp_elec,refined liquids,1987,0
+9,chp_elec,refined liquids,1988,0
+9,chp_elec,refined liquids,1989,0
+9,chp_elec,refined liquids,1990,0
+9,chp_elec,refined liquids,1991,0
+9,chp_elec,refined liquids,1992,0
+9,chp_elec,refined liquids,1993,0
+9,chp_elec,refined liquids,1994,0
+9,chp_elec,refined liquids,1995,0
+9,chp_elec,refined liquids,1996,0
+9,chp_elec,refined liquids,1997,0
+9,chp_elec,refined liquids,1998,0
+9,chp_elec,refined liquids,1999,0
+9,chp_elec,refined liquids,2000,0
+9,chp_elec,refined liquids,2001,0
+9,chp_elec,refined liquids,2002,0
+9,chp_elec,refined liquids,2003,0
+9,chp_elec,refined liquids,2004,0
+9,chp_elec,refined liquids,2005,0
+9,chp_elec,refined liquids,2006,0
+9,chp_elec,refined liquids,2007,0
+9,chp_elec,refined liquids,2008,0
+9,chp_elec,refined liquids,2009,0
+9,chp_elec,refined liquids,2010,0
+9,chp_elec,refined liquids,2011,0
+9,chp_elec,refined liquids,2012,0
+9,chp_elec,refined liquids,2013,0
+9,chp_elec,refined liquids,2014,0
+9,chp_elec,refined liquids,2015,0
+10,chp_elec,biomass,1971,0
+10,chp_elec,biomass,1972,0
+10,chp_elec,biomass,1973,0
+10,chp_elec,biomass,1974,0
+10,chp_elec,biomass,1975,0
+10,chp_elec,biomass,1976,0
+10,chp_elec,biomass,1977,0
+10,chp_elec,biomass,1978,0
+10,chp_elec,biomass,1979,0
+10,chp_elec,biomass,1980,0
+10,chp_elec,biomass,1981,0
+10,chp_elec,biomass,1982,0
+10,chp_elec,biomass,1983,0
+10,chp_elec,biomass,1984,0
+10,chp_elec,biomass,1985,0
+10,chp_elec,biomass,1986,0
+10,chp_elec,biomass,1987,0
+10,chp_elec,biomass,1988,0
+10,chp_elec,biomass,1989,0
+10,chp_elec,biomass,1990,0
+10,chp_elec,biomass,1991,0
+10,chp_elec,biomass,1992,0
+10,chp_elec,biomass,1993,0
+10,chp_elec,biomass,1994,0
+10,chp_elec,biomass,1995,0
+10,chp_elec,biomass,1996,0
+10,chp_elec,biomass,1997,0
+10,chp_elec,biomass,1998,0
+10,chp_elec,biomass,1999,0
+10,chp_elec,biomass,2000,0
+10,chp_elec,biomass,2001,0
+10,chp_elec,biomass,2002,0
+10,chp_elec,biomass,2003,0
+10,chp_elec,biomass,2004,0
+10,chp_elec,biomass,2005,0
+10,chp_elec,biomass,2006,0
+10,chp_elec,biomass,2007,0
+10,chp_elec,biomass,2008,0
+10,chp_elec,biomass,2009,0
+10,chp_elec,biomass,2010,0
+10,chp_elec,biomass,2011,0
+10,chp_elec,biomass,2012,0
+10,chp_elec,biomass,2013,0
+10,chp_elec,biomass,2014,0
+10,chp_elec,biomass,2015,0
+10,chp_elec,coal,1971,0
+10,chp_elec,coal,1972,0
+10,chp_elec,coal,1973,0
+10,chp_elec,coal,1974,0
+10,chp_elec,coal,1975,0
+10,chp_elec,coal,1976,0
+10,chp_elec,coal,1977,0
+10,chp_elec,coal,1978,0
+10,chp_elec,coal,1979,0
+10,chp_elec,coal,1980,0
+10,chp_elec,coal,1981,0
+10,chp_elec,coal,1982,0
+10,chp_elec,coal,1983,0
+10,chp_elec,coal,1984,0
+10,chp_elec,coal,1985,0
+10,chp_elec,coal,1986,0
+10,chp_elec,coal,1987,0
+10,chp_elec,coal,1988,0
+10,chp_elec,coal,1989,0
+10,chp_elec,coal,1990,0
+10,chp_elec,coal,1991,0
+10,chp_elec,coal,1992,0
+10,chp_elec,coal,1993,0.0014112
+10,chp_elec,coal,1994,9.792000000000002e-4
+10,chp_elec,coal,1995,8.928e-4
+10,chp_elec,coal,1996,0.00108
+10,chp_elec,coal,1997,6.768000000000001e-4
+10,chp_elec,coal,1998,5.904e-4
+10,chp_elec,coal,1999,4.7520000000000006e-4
+10,chp_elec,coal,2000,3.4560000000000005e-4
+10,chp_elec,coal,2001,0
+10,chp_elec,coal,2002,0
+10,chp_elec,coal,2003,0
+10,chp_elec,coal,2004,0
+10,chp_elec,coal,2005,0
+10,chp_elec,coal,2006,0
+10,chp_elec,coal,2007,0
+10,chp_elec,coal,2008,0
+10,chp_elec,coal,2009,0
+10,chp_elec,coal,2010,0
+10,chp_elec,coal,2011,0
+10,chp_elec,coal,2012,0
+10,chp_elec,coal,2013,0
+10,chp_elec,coal,2014,0
+10,chp_elec,coal,2015,0
+10,chp_elec,gas,1971,0
+10,chp_elec,gas,1972,0
+10,chp_elec,gas,1973,0
+10,chp_elec,gas,1974,0
+10,chp_elec,gas,1975,0
+10,chp_elec,gas,1976,0
+10,chp_elec,gas,1977,0
+10,chp_elec,gas,1978,0
+10,chp_elec,gas,1979,0
+10,chp_elec,gas,1980,0
+10,chp_elec,gas,1981,0
+10,chp_elec,gas,1982,0
+10,chp_elec,gas,1983,0
+10,chp_elec,gas,1984,0
+10,chp_elec,gas,1985,0
+10,chp_elec,gas,1986,0
+10,chp_elec,gas,1987,0
+10,chp_elec,gas,1988,0
+10,chp_elec,gas,1989,0
+10,chp_elec,gas,1990,0
+10,chp_elec,gas,1991,0
+10,chp_elec,gas,1992,0
+10,chp_elec,gas,1993,0
+10,chp_elec,gas,1994,0
+10,chp_elec,gas,1995,0.0021888000000000003
+10,chp_elec,gas,1996,0.0019296
+10,chp_elec,gas,1997,0.0023472000000000002
+10,chp_elec,gas,1998,0.0023328000000000003
+10,chp_elec,gas,1999,0.0022464
+10,chp_elec,gas,2000,0.0026064
+10,chp_elec,gas,2001,0.0026208000000000004
+10,chp_elec,gas,2002,0.0026064
+10,chp_elec,gas,2003,0.002448
+10,chp_elec,gas,2004,0.0026784
+10,chp_elec,gas,2005,0.0023904
+10,chp_elec,gas,2006,0.0028224
+10,chp_elec,gas,2007,0.0065808
+10,chp_elec,gas,2008,0.007257600000000001
+10,chp_elec,gas,2009,0.0066528
+10,chp_elec,gas,2010,0.006451200000000001
+10,chp_elec,gas,2011,0.007387200000000001
+10,chp_elec,gas,2012,0.006926400000000001
+10,chp_elec,gas,2013,0.007588800000000001
+10,chp_elec,gas,2014,0.007977600000000001
+10,chp_elec,gas,2015,0.0081648
+10,chp_elec,refined liquids,1971,0
+10,chp_elec,refined liquids,1972,0
+10,chp_elec,refined liquids,1973,0
+10,chp_elec,refined liquids,1974,0
+10,chp_elec,refined liquids,1975,0
+10,chp_elec,refined liquids,1976,0
+10,chp_elec,refined liquids,1977,0
+10,chp_elec,refined liquids,1978,0
+10,chp_elec,refined liquids,1979,0
+10,chp_elec,refined liquids,1980,0
+10,chp_elec,refined liquids,1981,0
+10,chp_elec,refined liquids,1982,0
+10,chp_elec,refined liquids,1983,0
+10,chp_elec,refined liquids,1984,0
+10,chp_elec,refined liquids,1985,0
+10,chp_elec,refined liquids,1986,0
+10,chp_elec,refined liquids,1987,0
+10,chp_elec,refined liquids,1988,0
+10,chp_elec,refined liquids,1989,0
+10,chp_elec,refined liquids,1990,0
+10,chp_elec,refined liquids,1991,0
+10,chp_elec,refined liquids,1992,0
+10,chp_elec,refined liquids,1993,0
+10,chp_elec,refined liquids,1994,0
+10,chp_elec,refined liquids,1995,0
+10,chp_elec,refined liquids,1996,0
+10,chp_elec,refined liquids,1997,0
+10,chp_elec,refined liquids,1998,0
+10,chp_elec,refined liquids,1999,0
+10,chp_elec,refined liquids,2000,0
+10,chp_elec,refined liquids,2001,0
+10,chp_elec,refined liquids,2002,0
+10,chp_elec,refined liquids,2003,0
+10,chp_elec,refined liquids,2004,0
+10,chp_elec,refined liquids,2005,0
+10,chp_elec,refined liquids,2006,0
+10,chp_elec,refined liquids,2007,0.0025056
+10,chp_elec,refined liquids,2008,3.0240000000000003e-4
+10,chp_elec,refined liquids,2009,0
+10,chp_elec,refined liquids,2010,7.2e-5
+10,chp_elec,refined liquids,2011,4.3200000000000007e-5
+10,chp_elec,refined liquids,2012,2.8800000000000002e-5
+10,chp_elec,refined liquids,2013,2.8800000000000002e-5
+10,chp_elec,refined liquids,2014,1.0080000000000001e-4
+10,chp_elec,refined liquids,2015,1.4400000000000001e-5
+11,chp_elec,biomass,1971,0
+11,chp_elec,biomass,1972,0
+11,chp_elec,biomass,1973,0
+11,chp_elec,biomass,1974,0
+11,chp_elec,biomass,1975,0
+11,chp_elec,biomass,1976,0
+11,chp_elec,biomass,1977,0
+11,chp_elec,biomass,1978,0
+11,chp_elec,biomass,1979,0
+11,chp_elec,biomass,1980,0
+11,chp_elec,biomass,1981,0
+11,chp_elec,biomass,1982,0
+11,chp_elec,biomass,1983,0
+11,chp_elec,biomass,1984,0
+11,chp_elec,biomass,1985,0
+11,chp_elec,biomass,1986,0
+11,chp_elec,biomass,1987,0
+11,chp_elec,biomass,1988,0
+11,chp_elec,biomass,1989,0
+11,chp_elec,biomass,1990,0
+11,chp_elec,biomass,1991,0
+11,chp_elec,biomass,1992,0
+11,chp_elec,biomass,1993,0
+11,chp_elec,biomass,1994,0
+11,chp_elec,biomass,1995,0
+11,chp_elec,biomass,1996,0
+11,chp_elec,biomass,1997,0
+11,chp_elec,biomass,1998,0
+11,chp_elec,biomass,1999,0
+11,chp_elec,biomass,2000,0
+11,chp_elec,biomass,2001,0
+11,chp_elec,biomass,2002,0
+11,chp_elec,biomass,2003,0
+11,chp_elec,biomass,2004,0
+11,chp_elec,biomass,2005,0
+11,chp_elec,biomass,2006,0
+11,chp_elec,biomass,2007,0
+11,chp_elec,biomass,2008,0
+11,chp_elec,biomass,2009,0
+11,chp_elec,biomass,2010,0
+11,chp_elec,biomass,2011,0
+11,chp_elec,biomass,2012,0
+11,chp_elec,biomass,2013,0
+11,chp_elec,biomass,2014,0
+11,chp_elec,biomass,2015,0
+11,chp_elec,coal,1971,0
+11,chp_elec,coal,1972,0
+11,chp_elec,coal,1973,0
+11,chp_elec,coal,1974,0
+11,chp_elec,coal,1975,0
+11,chp_elec,coal,1976,0
+11,chp_elec,coal,1977,0
+11,chp_elec,coal,1978,0
+11,chp_elec,coal,1979,0
+11,chp_elec,coal,1980,0
+11,chp_elec,coal,1981,0
+11,chp_elec,coal,1982,0
+11,chp_elec,coal,1983,0
+11,chp_elec,coal,1984,0
+11,chp_elec,coal,1985,0
+11,chp_elec,coal,1986,0
+11,chp_elec,coal,1987,0
+11,chp_elec,coal,1988,0
+11,chp_elec,coal,1989,0
+11,chp_elec,coal,1990,0
+11,chp_elec,coal,1991,0
+11,chp_elec,coal,1992,0
+11,chp_elec,coal,1993,0
+11,chp_elec,coal,1994,0
+11,chp_elec,coal,1995,0
+11,chp_elec,coal,1996,0
+11,chp_elec,coal,1997,0
+11,chp_elec,coal,1998,0
+11,chp_elec,coal,1999,0
+11,chp_elec,coal,2000,0
+11,chp_elec,coal,2001,0
+11,chp_elec,coal,2002,0
+11,chp_elec,coal,2003,0
+11,chp_elec,coal,2004,0
+11,chp_elec,coal,2005,0
+11,chp_elec,coal,2006,0
+11,chp_elec,coal,2007,0
+11,chp_elec,coal,2008,0
+11,chp_elec,coal,2009,0
+11,chp_elec,coal,2010,0
+11,chp_elec,coal,2011,0
+11,chp_elec,coal,2012,0
+11,chp_elec,coal,2013,0
+11,chp_elec,coal,2014,0
+11,chp_elec,coal,2015,0
+11,chp_elec,gas,1971,0
+11,chp_elec,gas,1972,0
+11,chp_elec,gas,1973,0
+11,chp_elec,gas,1974,0
+11,chp_elec,gas,1975,0
+11,chp_elec,gas,1976,0
+11,chp_elec,gas,1977,0
+11,chp_elec,gas,1978,0
+11,chp_elec,gas,1979,0
+11,chp_elec,gas,1980,0
+11,chp_elec,gas,1981,0
+11,chp_elec,gas,1982,0
+11,chp_elec,gas,1983,0
+11,chp_elec,gas,1984,0
+11,chp_elec,gas,1985,0
+11,chp_elec,gas,1986,0
+11,chp_elec,gas,1987,0
+11,chp_elec,gas,1988,0
+11,chp_elec,gas,1989,0
+11,chp_elec,gas,1990,0
+11,chp_elec,gas,1991,0
+11,chp_elec,gas,1992,0
+11,chp_elec,gas,1993,0
+11,chp_elec,gas,1994,0
+11,chp_elec,gas,1995,0
+11,chp_elec,gas,1996,0
+11,chp_elec,gas,1997,0
+11,chp_elec,gas,1998,0
+11,chp_elec,gas,1999,0
+11,chp_elec,gas,2000,0
+11,chp_elec,gas,2001,0
+11,chp_elec,gas,2002,0
+11,chp_elec,gas,2003,0
+11,chp_elec,gas,2004,0
+11,chp_elec,gas,2005,0
+11,chp_elec,gas,2006,0
+11,chp_elec,gas,2007,0
+11,chp_elec,gas,2008,0
+11,chp_elec,gas,2009,0
+11,chp_elec,gas,2010,0.0013248000000000001
+11,chp_elec,gas,2011,0.0011232
+11,chp_elec,gas,2012,0.0012816000000000001
+11,chp_elec,gas,2013,0.0013248000000000001
+11,chp_elec,gas,2014,0.0014832
+11,chp_elec,gas,2015,0.0014544
+11,chp_elec,refined liquids,1971,0
+11,chp_elec,refined liquids,1972,0
+11,chp_elec,refined liquids,1973,0
+11,chp_elec,refined liquids,1974,0
+11,chp_elec,refined liquids,1975,0
+11,chp_elec,refined liquids,1976,0
+11,chp_elec,refined liquids,1977,0
+11,chp_elec,refined liquids,1978,0
+11,chp_elec,refined liquids,1979,0
+11,chp_elec,refined liquids,1980,0
+11,chp_elec,refined liquids,1981,0
+11,chp_elec,refined liquids,1982,0
+11,chp_elec,refined liquids,1983,0
+11,chp_elec,refined liquids,1984,0
+11,chp_elec,refined liquids,1985,0
+11,chp_elec,refined liquids,1986,0
+11,chp_elec,refined liquids,1987,0
+11,chp_elec,refined liquids,1988,0
+11,chp_elec,refined liquids,1989,0
+11,chp_elec,refined liquids,1990,0
+11,chp_elec,refined liquids,1991,0
+11,chp_elec,refined liquids,1992,0
+11,chp_elec,refined liquids,1993,0
+11,chp_elec,refined liquids,1994,0
+11,chp_elec,refined liquids,1995,0
+11,chp_elec,refined liquids,1996,0
+11,chp_elec,refined liquids,1997,0
+11,chp_elec,refined liquids,1998,0
+11,chp_elec,refined liquids,1999,0
+11,chp_elec,refined liquids,2000,0
+11,chp_elec,refined liquids,2001,0
+11,chp_elec,refined liquids,2002,0
+11,chp_elec,refined liquids,2003,0
+11,chp_elec,refined liquids,2004,0
+11,chp_elec,refined liquids,2005,0
+11,chp_elec,refined liquids,2006,0
+11,chp_elec,refined liquids,2007,0
+11,chp_elec,refined liquids,2008,0
+11,chp_elec,refined liquids,2009,0
+11,chp_elec,refined liquids,2010,0
+11,chp_elec,refined liquids,2011,0
+11,chp_elec,refined liquids,2012,0
+11,chp_elec,refined liquids,2013,0
+11,chp_elec,refined liquids,2014,0
+11,chp_elec,refined liquids,2015,0
+12,chp_elec,biomass,1971,0.003042
+12,chp_elec,biomass,1972,0.004895999999999999
+12,chp_elec,biomass,1973,0.00531
+12,chp_elec,biomass,1974,0.005868
+12,chp_elec,biomass,1975,0.006012000000000001
+12,chp_elec,biomass,1976,0.00549
+12,chp_elec,biomass,1977,0.0072180000000000005
+12,chp_elec,biomass,1978,0.00684
+12,chp_elec,biomass,1979,0.006372000000000001
+12,chp_elec,biomass,1980,0.007362
+12,chp_elec,biomass,1981,0.007038000000000001
+12,chp_elec,biomass,1982,0.007128000000000001
+12,chp_elec,biomass,1983,0.008532
+12,chp_elec,biomass,1984,0.00891
+12,chp_elec,biomass,1985,0.009648
+12,chp_elec,biomass,1986,0.00945
+12,chp_elec,biomass,1987,0.005544
+12,chp_elec,biomass,1988,0.0036720000000000004
+12,chp_elec,biomass,1989,0.0041400000000000005
+12,chp_elec,biomass,1990,0.004428
+12,chp_elec,biomass,1991,0.005832
+12,chp_elec,biomass,1992,0.006912000000000001
+12,chp_elec,biomass,1993,0.006498
+12,chp_elec,biomass,1994,0.009144000000000001
+12,chp_elec,biomass,1995,0.010745999999999999
+12,chp_elec,biomass,1996,0.009810000000000001
+12,chp_elec,biomass,1997,0.015570000000000002
+12,chp_elec,biomass,1998,0.008622
+12,chp_elec,biomass,1999,0.007794000000000001
+12,chp_elec,biomass,2000,0.008676
+12,chp_elec,biomass,2001,0.014742000000000002
+12,chp_elec,biomass,2002,0.014310000000000002
+12,chp_elec,biomass,2003,0.01251
+12,chp_elec,biomass,2004,0.015858
+12,chp_elec,biomass,2005,0.021294
+12,chp_elec,biomass,2006,0.029826000000000002
+12,chp_elec,biomass,2007,0.033966
+12,chp_elec,biomass,2008,0.033678
+12,chp_elec,biomass,2009,0.035297999999999996
+12,chp_elec,biomass,2010,0.041904000000000004
+12,chp_elec,biomass,2011,0.051300000000000005
+12,chp_elec,biomass,2012,0.051336
+12,chp_elec,biomass,2013,0.052434
+12,chp_elec,biomass,2014,0.061668
+12,chp_elec,biomass,2015,0.067248
+12,chp_elec,coal,1971,0.1064736
+12,chp_elec,coal,1972,0.1076256
+12,chp_elec,coal,1973,0.11100960000000001
+12,chp_elec,coal,1974,0.1167552
+12,chp_elec,coal,1975,0.10797120000000002
+12,chp_elec,coal,1976,0.11901600000000001
+12,chp_elec,coal,1977,0.12238560000000001
+12,chp_elec,coal,1978,0.11930400000000002
+12,chp_elec,coal,1979,0.12075840000000002
+12,chp_elec,coal,1980,0.11406240000000001
+12,chp_elec,coal,1981,0.09239040000000001
+12,chp_elec,coal,1982,0.0952704
+12,chp_elec,coal,1983,0.09879840000000001
+12,chp_elec,coal,1984,0.10285920000000001
+12,chp_elec,coal,1985,0.09822240000000002
+12,chp_elec,coal,1986,0.0945648
+12,chp_elec,coal,1987,0.09028800000000001
+12,chp_elec,coal,1988,0.09264960000000001
+12,chp_elec,coal,1989,0.092088
+12,chp_elec,coal,1990,0.22878720000000002
+12,chp_elec,coal,1991,0.22272480000000003
+12,chp_elec,coal,1992,0.22711680000000004
+12,chp_elec,coal,1993,0.2228832
+12,chp_elec,coal,1994,0.2068704
+12,chp_elec,coal,1995,0.206136
+12,chp_elec,coal,1996,0.1927008
+12,chp_elec,coal,1997,0.1862928
+12,chp_elec,coal,1998,0.17311680000000002
+12,chp_elec,coal,1999,0.17183520000000002
+12,chp_elec,coal,2000,0.21284640000000002
+12,chp_elec,coal,2001,0.20495520000000003
+12,chp_elec,coal,2002,0.2008512
+12,chp_elec,coal,2003,0.21209760000000003
+12,chp_elec,coal,2004,0.2053152
+12,chp_elec,coal,2005,0.2027808
+12,chp_elec,coal,2006,0.2010528
+12,chp_elec,coal,2007,0.1813536
+12,chp_elec,coal,2008,0.1649808
+12,chp_elec,coal,2009,0.1428624
+12,chp_elec,coal,2010,0.13991040000000002
+12,chp_elec,coal,2011,0.13425120000000001
+12,chp_elec,coal,2012,0.129384
+12,chp_elec,coal,2013,0.1249056
+12,chp_elec,coal,2014,0.1197936
+12,chp_elec,coal,2015,0.1175328
+12,chp_elec,gas,1971,0.0066240000000000005
+12,chp_elec,gas,1972,0.005169600000000001
+12,chp_elec,gas,1973,0.0046224000000000005
+12,chp_elec,gas,1974,0.0032544
+12,chp_elec,gas,1975,0.0046368
+12,chp_elec,gas,1976,0.0040896000000000005
+12,chp_elec,gas,1977,0.0054288
+12,chp_elec,gas,1978,0.005616
+12,chp_elec,gas,1979,0.0037440000000000004
+12,chp_elec,gas,1980,0.005112
+12,chp_elec,gas,1981,0.005486400000000001
+12,chp_elec,gas,1982,0.006307200000000001
+12,chp_elec,gas,1983,0.007070400000000001
+12,chp_elec,gas,1984,0.0058896
+12,chp_elec,gas,1985,0.005760000000000001
+12,chp_elec,gas,1986,0.006436800000000001
+12,chp_elec,gas,1987,0.0078192
+12,chp_elec,gas,1988,0.006955200000000001
+12,chp_elec,gas,1989,0.007272000000000001
+12,chp_elec,gas,1990,0.0451584
+12,chp_elec,gas,1991,0.025300800000000002
+12,chp_elec,gas,1992,0.059457600000000006
+12,chp_elec,gas,1993,0.0469296
+12,chp_elec,gas,1994,0.040795200000000004
+12,chp_elec,gas,1995,0.0439488
+12,chp_elec,gas,1996,0.0607392
+12,chp_elec,gas,1997,0.057960000000000005
+12,chp_elec,gas,1998,0.060004800000000004
+12,chp_elec,gas,1999,0.061603200000000004
+12,chp_elec,gas,2000,0.0663696
+12,chp_elec,gas,2001,0.06301440000000001
+12,chp_elec,gas,2002,0.057312
+12,chp_elec,gas,2003,0.0590112
+12,chp_elec,gas,2004,0.06471360000000001
+12,chp_elec,gas,2005,0.07195680000000002
+12,chp_elec,gas,2006,0.0713088
+12,chp_elec,gas,2007,0.0716112
+12,chp_elec,gas,2008,0.07685280000000001
+12,chp_elec,gas,2009,0.073008
+12,chp_elec,gas,2010,0.0855648
+12,chp_elec,gas,2011,0.0990144
+12,chp_elec,gas,2012,0.1160352
+12,chp_elec,gas,2013,0.124992
+12,chp_elec,gas,2014,0.13602240000000002
+12,chp_elec,gas,2015,0.140544
+12,chp_elec,refined liquids,1971,0.0081936
+12,chp_elec,refined liquids,1972,0.0095472
+12,chp_elec,refined liquids,1973,0.0103248
+12,chp_elec,refined liquids,1974,0.0110448
+12,chp_elec,refined liquids,1975,0.014443200000000002
+12,chp_elec,refined liquids,1976,0.0156816
+12,chp_elec,refined liquids,1977,0.016977600000000002
+12,chp_elec,refined liquids,1978,0.018172800000000003
+12,chp_elec,refined liquids,1979,0.0170496
+12,chp_elec,refined liquids,1980,0.0197424
+12,chp_elec,refined liquids,1981,0.019310400000000002
+12,chp_elec,refined liquids,1982,0.019987200000000004
+12,chp_elec,refined liquids,1983,0.018907200000000002
+12,chp_elec,refined liquids,1984,0.016646400000000002
+12,chp_elec,refined liquids,1985,0.0174816
+12,chp_elec,refined liquids,1986,0.017913600000000002
+12,chp_elec,refined liquids,1987,0.0187488
+12,chp_elec,refined liquids,1988,0.018331200000000002
+12,chp_elec,refined liquids,1989,0.019281600000000003
+12,chp_elec,refined liquids,1990,0.059774400000000005
+12,chp_elec,refined liquids,1991,0.055008
+12,chp_elec,refined liquids,1992,0.049968000000000005
+12,chp_elec,refined liquids,1993,0.0417744
+12,chp_elec,refined liquids,1994,0.0445824
+12,chp_elec,refined liquids,1995,0.041947200000000004
+12,chp_elec,refined liquids,1996,0.0466272
+12,chp_elec,refined liquids,1997,0.0451008
+12,chp_elec,refined liquids,1998,0.0423648
+12,chp_elec,refined liquids,1999,0.0381024
+12,chp_elec,refined liquids,2000,0.032630400000000004
+12,chp_elec,refined liquids,2001,0.0472032
+12,chp_elec,refined liquids,2002,0.0494352
+12,chp_elec,refined liquids,2003,0.05022720000000001
+12,chp_elec,refined liquids,2004,0.0561168
+12,chp_elec,refined liquids,2005,0.051768
+12,chp_elec,refined liquids,2006,0.051523200000000005
+12,chp_elec,refined liquids,2007,0.056275200000000004
+12,chp_elec,refined liquids,2008,0.048859200000000005
+12,chp_elec,refined liquids,2009,0.038692800000000006
+12,chp_elec,refined liquids,2010,0.0388656
+12,chp_elec,refined liquids,2011,0.0301392
+12,chp_elec,refined liquids,2012,0.025819200000000004
+12,chp_elec,refined liquids,2013,0.024192
+12,chp_elec,refined liquids,2014,0.0217152
+12,chp_elec,refined liquids,2015,0.0307152
+13,chp_elec,biomass,1971,0
+13,chp_elec,biomass,1972,0
+13,chp_elec,biomass,1973,0
+13,chp_elec,biomass,1974,0.007074
+13,chp_elec,biomass,1975,0.022878
+13,chp_elec,biomass,1976,0.024948
+13,chp_elec,biomass,1977,0.025524
+13,chp_elec,biomass,1978,0.03213
+13,chp_elec,biomass,1979,0.031824
+13,chp_elec,biomass,1980,0.04010400000000001
+13,chp_elec,biomass,1981,0.049086
+13,chp_elec,biomass,1982,0.035622
+13,chp_elec,biomass,1983,0.04698000000000001
+13,chp_elec,biomass,1984,0.059706
+13,chp_elec,biomass,1985,0.069264
+13,chp_elec,biomass,1986,0.085698
+13,chp_elec,biomass,1987,0.081216
+13,chp_elec,biomass,1988,0.08964000000000001
+13,chp_elec,biomass,1989,0.10648800000000001
+13,chp_elec,biomass,1990,0.18909
+13,chp_elec,biomass,1991,0.192348
+13,chp_elec,biomass,1992,0.209844
+13,chp_elec,biomass,1993,0.228024
+13,chp_elec,biomass,1994,0.241848
+13,chp_elec,biomass,1995,0.251856
+13,chp_elec,biomass,1996,0.23625
+13,chp_elec,biomass,1997,0.281592
+13,chp_elec,biomass,1998,0.300708
+13,chp_elec,biomass,1999,0.302472
+13,chp_elec,biomass,2000,0.294858
+13,chp_elec,biomass,2001,0.32056199999999996
+13,chp_elec,biomass,2002,0.33978600000000003
+13,chp_elec,biomass,2003,0.35731799999999997
+13,chp_elec,biomass,2004,0.380448
+13,chp_elec,biomass,2005,0.379386
+13,chp_elec,biomass,2006,0.43767000000000006
+13,chp_elec,biomass,2007,0.45302400000000004
+13,chp_elec,biomass,2008,0.460332
+13,chp_elec,biomass,2009,0.46438199999999996
+13,chp_elec,biomass,2010,0.496188
+13,chp_elec,biomass,2011,0.52695
+13,chp_elec,biomass,2012,0.562788
+13,chp_elec,biomass,2013,0.546084
+13,chp_elec,biomass,2014,0.553158
+13,chp_elec,biomass,2015,0.565632
+13,chp_elec,coal,1971,0
+13,chp_elec,coal,1972,0
+13,chp_elec,coal,1973,0
+13,chp_elec,coal,1974,0.057643200000000006
+13,chp_elec,coal,1975,0.0487872
+13,chp_elec,coal,1976,0.0479088
+13,chp_elec,coal,1977,0.0459648
+13,chp_elec,coal,1978,0.0514224
+13,chp_elec,coal,1979,0.063432
+13,chp_elec,coal,1980,0.066456
+13,chp_elec,coal,1981,0.0746064
+13,chp_elec,coal,1982,0.06870240000000001
+13,chp_elec,coal,1983,0.0666144
+13,chp_elec,coal,1984,0.08007840000000001
+13,chp_elec,coal,1985,0.08147520000000001
+13,chp_elec,coal,1986,0.0873936
+13,chp_elec,coal,1987,0.09266400000000001
+13,chp_elec,coal,1988,0.1138176
+13,chp_elec,coal,1989,0.1247328
+13,chp_elec,coal,1990,0.0924192
+13,chp_elec,coal,1991,0.11138400000000001
+13,chp_elec,coal,1992,0.0860688
+13,chp_elec,coal,1993,0.1156032
+13,chp_elec,coal,1994,0.11175840000000001
+13,chp_elec,coal,1995,0.0937584
+13,chp_elec,coal,1996,0.0867744
+13,chp_elec,coal,1997,0.11436480000000002
+13,chp_elec,coal,1998,0.10958400000000001
+13,chp_elec,coal,1999,0.09956160000000001
+13,chp_elec,coal,2000,0.06374880000000001
+13,chp_elec,coal,2001,0.0586368
+13,chp_elec,coal,2002,0.058089600000000005
+13,chp_elec,coal,2003,0.13599360000000002
+13,chp_elec,coal,2004,0.115704
+13,chp_elec,coal,2005,0.11414880000000001
+13,chp_elec,coal,2006,0.11963520000000001
+13,chp_elec,coal,2007,0.1237824
+13,chp_elec,coal,2008,0.12399840000000001
+13,chp_elec,coal,2009,0.1041408
+13,chp_elec,coal,2010,0.12120480000000002
+13,chp_elec,coal,2011,0.10748160000000001
+13,chp_elec,coal,2012,0.09414720000000001
+13,chp_elec,coal,2013,0.085320000000000007
+13,chp_elec,coal,2014,0.08112960000000001
+13,chp_elec,coal,2015,0.15164640000000001
+13,chp_elec,gas,1971,0
+13,chp_elec,gas,1972,0
+13,chp_elec,gas,1973,0
+13,chp_elec,gas,1974,0.06920640000000002
+13,chp_elec,gas,1975,0.0543312
+13,chp_elec,gas,1976,0.065304
+13,chp_elec,gas,1977,0.0633456
+13,chp_elec,gas,1978,0.0602496
+13,chp_elec,gas,1979,0.0644832
+13,chp_elec,gas,1980,0.0632304
+13,chp_elec,gas,1981,0.0719568
+13,chp_elec,gas,1982,0.06433920000000001
+13,chp_elec,gas,1983,0.0667008
+13,chp_elec,gas,1984,0.119952
+13,chp_elec,gas,1985,0.12818880000000002
+13,chp_elec,gas,1986,0.161496
+13,chp_elec,gas,1987,0.1919376
+13,chp_elec,gas,1988,0.2531376000000001
+13,chp_elec,gas,1989,0.28239840000000005
+13,chp_elec,gas,1990,0.30515040000000004
+13,chp_elec,gas,1991,0.3163536
+13,chp_elec,gas,1992,0.38900160000000006
+13,chp_elec,gas,1993,0.4179744
+13,chp_elec,gas,1994,0.52390080000000006
+13,chp_elec,gas,1995,0.5473296000000001
+13,chp_elec,gas,1996,0.6696000000000001
+13,chp_elec,gas,1997,0.8682480000000001
+13,chp_elec,gas,1998,1.0015632
+13,chp_elec,gas,1999,1.1409408000000003
+13,chp_elec,gas,2000,0.8209584000000001
+13,chp_elec,gas,2001,0.8334864000000001
+13,chp_elec,gas,2002,0.9374688000000001
+13,chp_elec,gas,2003,1.3023792
+13,chp_elec,gas,2004,1.3684752
+13,chp_elec,gas,2005,1.4783904
+13,chp_elec,gas,2006,1.4656752
+13,chp_elec,gas,2007,1.5520032000000001
+13,chp_elec,gas,2008,1.6138944
+13,chp_elec,gas,2009,1.5637824000000002
+13,chp_elec,gas,2010,1.7103456000000001
+13,chp_elec,gas,2011,1.7647056
+13,chp_elec,gas,2012,1.6831584000000002
+13,chp_elec,gas,2013,1.7146080000000001
+13,chp_elec,gas,2014,1.5695856000000001
+13,chp_elec,gas,2015,1.6461792000000002
+13,chp_elec,refined liquids,1971,0
+13,chp_elec,refined liquids,1972,0
+13,chp_elec,refined liquids,1973,0
+13,chp_elec,refined liquids,1974,0.071928
+13,chp_elec,refined liquids,1975,0.0634032
+13,chp_elec,refined liquids,1976,0.056937600000000005
+13,chp_elec,refined liquids,1977,0.062078400000000006
+13,chp_elec,refined liquids,1978,0.06419520000000001
+13,chp_elec,refined liquids,1979,0.060177600000000005
+13,chp_elec,refined liquids,1980,0.11406240000000001
+13,chp_elec,refined liquids,1981,0.07943040000000001
+13,chp_elec,refined liquids,1982,0.09237600000000001
+13,chp_elec,refined liquids,1983,0.08948160000000001
+13,chp_elec,refined liquids,1984,0.2319408
+13,chp_elec,refined liquids,1985,0.1791792
+13,chp_elec,refined liquids,1986,0.1685232
+13,chp_elec,refined liquids,1987,0.1779696
+13,chp_elec,refined liquids,1988,0.2515968
+13,chp_elec,refined liquids,1989,0.2613168
+13,chp_elec,refined liquids,1990,0.2914416
+13,chp_elec,refined liquids,1991,0.31351680000000004
+13,chp_elec,refined liquids,1992,0.3465648
+13,chp_elec,refined liquids,1993,0.322128
+13,chp_elec,refined liquids,1994,0.3513888
+13,chp_elec,refined liquids,1995,0.42105600000000004
+13,chp_elec,refined liquids,1996,0.44308800000000004
+13,chp_elec,refined liquids,1997,0.45090720000000006
+13,chp_elec,refined liquids,1998,0.46048320000000004
+13,chp_elec,refined liquids,1999,0.5059440000000001
+13,chp_elec,refined liquids,2000,0.3405888
+13,chp_elec,refined liquids,2001,0.2943216
+13,chp_elec,refined liquids,2002,0.2933424
+13,chp_elec,refined liquids,2003,0.4387248
+13,chp_elec,refined liquids,2004,0.4188528
+13,chp_elec,refined liquids,2005,0.38695680000000005
+13,chp_elec,refined liquids,2006,0.3657888
+13,chp_elec,refined liquids,2007,0.3236544
+13,chp_elec,refined liquids,2008,0.30062880000000003
+13,chp_elec,refined liquids,2009,0.277272
+13,chp_elec,refined liquids,2010,0.2651328
+13,chp_elec,refined liquids,2011,0.2285136
+13,chp_elec,refined liquids,2012,0.20515680000000003
+13,chp_elec,refined liquids,2013,0.1615392
+13,chp_elec,refined liquids,2014,0.178344
+13,chp_elec,refined liquids,2015,0.1771056
+14,chp_elec,biomass,1971,0
+14,chp_elec,biomass,1972,0
+14,chp_elec,biomass,1973,0
+14,chp_elec,biomass,1974,0
+14,chp_elec,biomass,1975,0
+14,chp_elec,biomass,1976,0
+14,chp_elec,biomass,1977,0
+14,chp_elec,biomass,1978,0
+14,chp_elec,biomass,1979,0
+14,chp_elec,biomass,1980,0
+14,chp_elec,biomass,1981,0
+14,chp_elec,biomass,1982,0
+14,chp_elec,biomass,1983,0
+14,chp_elec,biomass,1984,0
+14,chp_elec,biomass,1985,0
+14,chp_elec,biomass,1986,0
+14,chp_elec,biomass,1987,0
+14,chp_elec,biomass,1988,0
+14,chp_elec,biomass,1989,0
+14,chp_elec,biomass,1990,0
+14,chp_elec,biomass,1991,0
+14,chp_elec,biomass,1992,0
+14,chp_elec,biomass,1993,0
+14,chp_elec,biomass,1994,0
+14,chp_elec,biomass,1995,0
+14,chp_elec,biomass,1996,0
+14,chp_elec,biomass,1997,0
+14,chp_elec,biomass,1998,0
+14,chp_elec,biomass,1999,0
+14,chp_elec,biomass,2000,0
+14,chp_elec,biomass,2001,0
+14,chp_elec,biomass,2002,0
+14,chp_elec,biomass,2003,0
+14,chp_elec,biomass,2004,0
+14,chp_elec,biomass,2005,0
+14,chp_elec,biomass,2006,0
+14,chp_elec,biomass,2007,0.005058
+14,chp_elec,biomass,2008,0.004842
+14,chp_elec,biomass,2009,5.4e-4
+14,chp_elec,biomass,2010,5.04e-4
+14,chp_elec,biomass,2011,4.3200000000000004e-4
+14,chp_elec,biomass,2012,0.001026
+14,chp_elec,biomass,2013,0.001152
+14,chp_elec,biomass,2014,0.00162
+14,chp_elec,biomass,2015,0.0026279999999999997
+14,chp_elec,coal,1971,0
+14,chp_elec,coal,1972,0
+14,chp_elec,coal,1973,0
+14,chp_elec,coal,1974,0
+14,chp_elec,coal,1975,0
+14,chp_elec,coal,1976,0
+14,chp_elec,coal,1977,0
+14,chp_elec,coal,1978,0
+14,chp_elec,coal,1979,0
+14,chp_elec,coal,1980,0
+14,chp_elec,coal,1981,0
+14,chp_elec,coal,1982,0
+14,chp_elec,coal,1983,0
+14,chp_elec,coal,1984,0
+14,chp_elec,coal,1985,0
+14,chp_elec,coal,1986,0
+14,chp_elec,coal,1987,0
+14,chp_elec,coal,1988,0
+14,chp_elec,coal,1989,0
+14,chp_elec,coal,1990,0
+14,chp_elec,coal,1991,0
+14,chp_elec,coal,1992,0
+14,chp_elec,coal,1993,0
+14,chp_elec,coal,1994,0
+14,chp_elec,coal,1995,0
+14,chp_elec,coal,1996,0
+14,chp_elec,coal,1997,0
+14,chp_elec,coal,1998,0
+14,chp_elec,coal,1999,0
+14,chp_elec,coal,2000,0
+14,chp_elec,coal,2001,0
+14,chp_elec,coal,2002,5.7600000000000004e-5
+14,chp_elec,coal,2003,5.7600000000000004e-5
+14,chp_elec,coal,2004,5.7600000000000004e-5
+14,chp_elec,coal,2005,5.7600000000000004e-5
+14,chp_elec,coal,2006,4.3200000000000007e-5
+14,chp_elec,coal,2007,0.0215568
+14,chp_elec,coal,2008,0.0251712
+14,chp_elec,coal,2009,0.030225600000000002
+14,chp_elec,coal,2010,0.0335808
+14,chp_elec,coal,2011,0.0039024000000000003
+14,chp_elec,coal,2012,0.0050544000000000006
+14,chp_elec,coal,2013,0.0091728
+14,chp_elec,coal,2014,0.010252800000000001
+14,chp_elec,coal,2015,0.0103824
+14,chp_elec,gas,1971,0
+14,chp_elec,gas,1972,0
+14,chp_elec,gas,1973,0
+14,chp_elec,gas,1974,0
+14,chp_elec,gas,1975,0
+14,chp_elec,gas,1976,0
+14,chp_elec,gas,1977,0
+14,chp_elec,gas,1978,0
+14,chp_elec,gas,1979,0
+14,chp_elec,gas,1980,0
+14,chp_elec,gas,1981,0
+14,chp_elec,gas,1982,0
+14,chp_elec,gas,1983,0
+14,chp_elec,gas,1984,0
+14,chp_elec,gas,1985,0
+14,chp_elec,gas,1986,0
+14,chp_elec,gas,1987,0
+14,chp_elec,gas,1988,0
+14,chp_elec,gas,1989,0
+14,chp_elec,gas,1990,0.11715840000000001
+14,chp_elec,gas,1991,0.1095696
+14,chp_elec,gas,1992,0.0989568
+14,chp_elec,gas,1993,0.0898704
+14,chp_elec,gas,1994,0.0794016
+14,chp_elec,gas,1995,0.07529759999999999
+14,chp_elec,gas,1996,0.07260480000000001
+14,chp_elec,gas,1997,0.07139519999999999
+14,chp_elec,gas,1998,0.0712512
+14,chp_elec,gas,1999,0.07165440000000001
+14,chp_elec,gas,2000,0.07182720000000001
+14,chp_elec,gas,2001,0.074448
+14,chp_elec,gas,2002,0.07411680000000001
+14,chp_elec,gas,2003,0.0795024
+14,chp_elec,gas,2004,0.0866592
+14,chp_elec,gas,2005,0.0812016
+14,chp_elec,gas,2006,0.07999200000000001
+14,chp_elec,gas,2007,0.050860800000000005
+14,chp_elec,gas,2008,0.05958720000000001
+14,chp_elec,gas,2009,0.04556160000000001
+14,chp_elec,gas,2010,0.0562896
+14,chp_elec,gas,2011,0.09780480000000001
+14,chp_elec,gas,2012,0.07917120000000001
+14,chp_elec,gas,2013,0.06647040000000001
+14,chp_elec,gas,2014,0.0633744
+14,chp_elec,gas,2015,0.051436800000000005
+14,chp_elec,refined liquids,1971,0
+14,chp_elec,refined liquids,1972,0
+14,chp_elec,refined liquids,1973,0
+14,chp_elec,refined liquids,1974,0
+14,chp_elec,refined liquids,1975,0
+14,chp_elec,refined liquids,1976,0
+14,chp_elec,refined liquids,1977,0
+14,chp_elec,refined liquids,1978,0
+14,chp_elec,refined liquids,1979,0
+14,chp_elec,refined liquids,1980,0
+14,chp_elec,refined liquids,1981,0
+14,chp_elec,refined liquids,1982,0
+14,chp_elec,refined liquids,1983,0
+14,chp_elec,refined liquids,1984,0
+14,chp_elec,refined liquids,1985,0
+14,chp_elec,refined liquids,1986,0
+14,chp_elec,refined liquids,1987,0
+14,chp_elec,refined liquids,1988,0
+14,chp_elec,refined liquids,1989,0
+14,chp_elec,refined liquids,1990,0.001008
+14,chp_elec,refined liquids,1991,9.936e-4
+14,chp_elec,refined liquids,1992,9.792000000000002e-4
+14,chp_elec,refined liquids,1993,9.072e-4
+14,chp_elec,refined liquids,1994,8.928e-4
+14,chp_elec,refined liquids,1995,7.2e-4
+14,chp_elec,refined liquids,1996,7.2e-4
+14,chp_elec,refined liquids,1997,7.920000000000001e-4
+14,chp_elec,refined liquids,1998,7.344000000000001e-4
+14,chp_elec,refined liquids,1999,6.192000000000001e-4
+14,chp_elec,refined liquids,2000,0.001296
+14,chp_elec,refined liquids,2001,0.0011808
+14,chp_elec,refined liquids,2002,1.4400000000000001e-5
+14,chp_elec,refined liquids,2003,5.7600000000000004e-5
+14,chp_elec,refined liquids,2004,1.7280000000000003e-4
+14,chp_elec,refined liquids,2005,5.04e-4
+14,chp_elec,refined liquids,2006,0.0015120000000000003
+14,chp_elec,refined liquids,2007,0.002232
+14,chp_elec,refined liquids,2008,0.0027648000000000004
+14,chp_elec,refined liquids,2009,0.0077616000000000004
+14,chp_elec,refined liquids,2010,0.0045072
+14,chp_elec,refined liquids,2011,0.0028512
+14,chp_elec,refined liquids,2012,0.0028944000000000005
+14,chp_elec,refined liquids,2013,0.0025344
+14,chp_elec,refined liquids,2014,0.002736
+14,chp_elec,refined liquids,2015,0.0029952000000000004
+15,chp_elec,biomass,1971,0.002916
+15,chp_elec,biomass,1972,0.00315
+15,chp_elec,biomass,1973,0.0035459999999999997
+15,chp_elec,biomass,1974,0.0037259999999999997
+15,chp_elec,biomass,1975,0.00396
+15,chp_elec,biomass,1976,0.002898
+15,chp_elec,biomass,1977,0.003924
+15,chp_elec,biomass,1978,0.0024660000000000003
+15,chp_elec,biomass,1979,0.00261
+15,chp_elec,biomass,1980,0.002448
+15,chp_elec,biomass,1981,0.00198
+15,chp_elec,biomass,1982,0
+15,chp_elec,biomass,1983,0
+15,chp_elec,biomass,1984,0
+15,chp_elec,biomass,1985,0
+15,chp_elec,biomass,1986,0
+15,chp_elec,biomass,1987,0
+15,chp_elec,biomass,1988,0
+15,chp_elec,biomass,1989,0
+15,chp_elec,biomass,1990,1.98e-4
+15,chp_elec,biomass,1991,8.640000000000001e-4
+15,chp_elec,biomass,1992,9.540000000000001e-4
+15,chp_elec,biomass,1993,0.0013500000000000003
+15,chp_elec,biomass,1994,0.001026
+15,chp_elec,biomass,1995,0.004158
+15,chp_elec,biomass,1996,0.00333
+15,chp_elec,biomass,1997,0.0053100000000000005
+15,chp_elec,biomass,1998,0.0045000000000000005
+15,chp_elec,biomass,1999,0.002556
+15,chp_elec,biomass,2000,0.001674
+15,chp_elec,biomass,2001,0.001206
+15,chp_elec,biomass,2002,9.180000000000001e-4
+15,chp_elec,biomass,2003,3.5999999999999997e-4
+15,chp_elec,biomass,2004,4.68e-4
+15,chp_elec,biomass,2005,1.0800000000000001e-4
+15,chp_elec,biomass,2006,3.9600000000000003e-4
+15,chp_elec,biomass,2007,3.78e-4
+15,chp_elec,biomass,2008,3.06e-4
+15,chp_elec,biomass,2009,4.1400000000000003e-4
+15,chp_elec,biomass,2010,4.5e-4
+15,chp_elec,biomass,2011,3.42e-4
+15,chp_elec,biomass,2012,5.04e-4
+15,chp_elec,biomass,2013,4.3200000000000004e-4
+15,chp_elec,biomass,2014,4.6800000000000005e-4
+15,chp_elec,biomass,2015,3.78e-4
+15,chp_elec,coal,1971,0.0037584000000000003
+15,chp_elec,coal,1972,0.0024912000000000003
+15,chp_elec,coal,1973,0.0024768000000000004
+15,chp_elec,coal,1974,0.0027936000000000002
+15,chp_elec,coal,1975,0.0031536000000000003
+15,chp_elec,coal,1976,0.002736
+15,chp_elec,coal,1977,0.0032976000000000004
+15,chp_elec,coal,1978,0.0040032
+15,chp_elec,coal,1979,0.0077616000000000004
+15,chp_elec,coal,1980,0.0122976
+15,chp_elec,coal,1981,0.008568000000000001
+15,chp_elec,coal,1982,0.0050832
+15,chp_elec,coal,1983,0.004305600000000001
+15,chp_elec,coal,1984,0.0049968
+15,chp_elec,coal,1985,0.0038448000000000006
+15,chp_elec,coal,1986,0.004464
+15,chp_elec,coal,1987,0.0048672
+15,chp_elec,coal,1988,0.006580800000000001
+15,chp_elec,coal,1989,0.0069696
+15,chp_elec,coal,1990,0.006292800000000001
+15,chp_elec,coal,1991,0.0066240000000000005
+15,chp_elec,coal,1992,0.0075168000000000006
+15,chp_elec,coal,1993,0.0074304
+15,chp_elec,coal,1994,0.0064080000000000005
+15,chp_elec,coal,1995,0.013521600000000002
+15,chp_elec,coal,1996,0.0155808
+15,chp_elec,coal,1997,0.019598400000000002
+15,chp_elec,coal,1998,0.0168048
+15,chp_elec,coal,1999,0.019238400000000003
+15,chp_elec,coal,2000,0.007171200000000001
+15,chp_elec,coal,2001,0.0063360000000000005
+15,chp_elec,coal,2002,0.0065520000000000005
+15,chp_elec,coal,2003,0.007286400000000001
+15,chp_elec,coal,2004,0.0072864
+15,chp_elec,coal,2005,0.009648
+15,chp_elec,coal,2006,0.0121104
+15,chp_elec,coal,2007,0.0105696
+15,chp_elec,coal,2008,0.008308800000000002
+15,chp_elec,coal,2009,0.0088848
+15,chp_elec,coal,2010,0.011635200000000002
+15,chp_elec,coal,2011,0.0098352
+15,chp_elec,coal,2012,0.0093456
+15,chp_elec,coal,2013,0.0098784
+15,chp_elec,coal,2014,0.011836800000000001
+15,chp_elec,coal,2015,0.0124416
+15,chp_elec,gas,1971,0
+15,chp_elec,gas,1972,0
+15,chp_elec,gas,1973,0
+15,chp_elec,gas,1974,0
+15,chp_elec,gas,1975,0
+15,chp_elec,gas,1976,0
+15,chp_elec,gas,1977,0
+15,chp_elec,gas,1978,0
+15,chp_elec,gas,1979,0
+15,chp_elec,gas,1980,0
+15,chp_elec,gas,1981,0
+15,chp_elec,gas,1982,0
+15,chp_elec,gas,1983,0
+15,chp_elec,gas,1984,0
+15,chp_elec,gas,1985,0
+15,chp_elec,gas,1986,0
+15,chp_elec,gas,1987,0
+15,chp_elec,gas,1988,0
+15,chp_elec,gas,1989,0
+15,chp_elec,gas,1990,0.0031392
+15,chp_elec,gas,1991,0.003888
+15,chp_elec,gas,1992,0.0052848
+15,chp_elec,gas,1993,0.0082368
+15,chp_elec,gas,1994,0.0127296
+15,chp_elec,gas,1995,0.0297504
+15,chp_elec,gas,1996,0.0324288
+15,chp_elec,gas,1997,0.0507456
+15,chp_elec,gas,1998,0.07408800000000001
+15,chp_elec,gas,1999,0.09931680000000001
+15,chp_elec,gas,2000,0.0494208
+15,chp_elec,gas,2001,0.055512000000000006
+15,chp_elec,gas,2002,0.053740800000000005
+15,chp_elec,gas,2003,0.047376
+15,chp_elec,gas,2004,0.0498096
+15,chp_elec,gas,2005,0.0543456
+15,chp_elec,gas,2006,0.05901120000000001
+15,chp_elec,gas,2007,0.06305759999999999
+15,chp_elec,gas,2008,0.069048
+15,chp_elec,gas,2009,0.05044320000000001
+15,chp_elec,gas,2010,0.051739200000000006
+15,chp_elec,gas,2011,0.046958400000000004
+15,chp_elec,gas,2012,0.0453168
+15,chp_elec,gas,2013,0.047016
+15,chp_elec,gas,2014,0.054288
+15,chp_elec,gas,2015,0.054676800000000005
+15,chp_elec,refined liquids,1971,0.0037152
+15,chp_elec,refined liquids,1972,0.0051408
+15,chp_elec,refined liquids,1973,0.006163200000000001
+15,chp_elec,refined liquids,1974,0.0060048
+15,chp_elec,refined liquids,1975,0.006350400000000001
+15,chp_elec,refined liquids,1976,0.0095472
+15,chp_elec,refined liquids,1977,0.0147168
+15,chp_elec,refined liquids,1978,0.019324800000000003
+15,chp_elec,refined liquids,1979,0.017884800000000003
+15,chp_elec,refined liquids,1980,0.0164304
+15,chp_elec,refined liquids,1981,0.0190512
+15,chp_elec,refined liquids,1982,0.0181872
+15,chp_elec,refined liquids,1983,0.023788800000000002
+15,chp_elec,refined liquids,1984,0.024739200000000003
+15,chp_elec,refined liquids,1985,0.028008
+15,chp_elec,refined liquids,1986,0.032976000000000005
+15,chp_elec,refined liquids,1987,0.036302400000000005
+15,chp_elec,refined liquids,1988,0.0359856
+15,chp_elec,refined liquids,1989,0.03672
+15,chp_elec,refined liquids,1990,0.045864
+15,chp_elec,refined liquids,1991,0.04311360000000001
+15,chp_elec,refined liquids,1992,0.0453744
+15,chp_elec,refined liquids,1993,0.048024000000000004
+15,chp_elec,refined liquids,1994,0.049132800000000004
+15,chp_elec,refined liquids,1995,0.037656
+15,chp_elec,refined liquids,1996,0.0390096
+15,chp_elec,refined liquids,1997,0.036216000000000005
+15,chp_elec,refined liquids,1998,0.046944
+15,chp_elec,refined liquids,1999,0.050976
+15,chp_elec,refined liquids,2000,0.0222192
+15,chp_elec,refined liquids,2001,0.022752
+15,chp_elec,refined liquids,2002,0.025416
+15,chp_elec,refined liquids,2003,0.0261504
+15,chp_elec,refined liquids,2004,0.014832000000000001
+15,chp_elec,refined liquids,2005,0.01872
+15,chp_elec,refined liquids,2006,0.0158112
+15,chp_elec,refined liquids,2007,0.025286400000000004
+15,chp_elec,refined liquids,2008,0.010512
+15,chp_elec,refined liquids,2009,0.009244800000000001
+15,chp_elec,refined liquids,2010,0.0069984
+15,chp_elec,refined liquids,2011,0.008208
+15,chp_elec,refined liquids,2012,0.007416000000000001
+15,chp_elec,refined liquids,2013,0.0054144
+15,chp_elec,refined liquids,2014,0.006163200000000001
+15,chp_elec,refined liquids,2015,0.0070848000000000005
+16,chp_elec,biomass,1971,0
+16,chp_elec,biomass,1972,0
+16,chp_elec,biomass,1973,0
+16,chp_elec,biomass,1974,0
+16,chp_elec,biomass,1975,0
+16,chp_elec,biomass,1976,0
+16,chp_elec,biomass,1977,0
+16,chp_elec,biomass,1978,0
+16,chp_elec,biomass,1979,0
+16,chp_elec,biomass,1980,0
+16,chp_elec,biomass,1981,0
+16,chp_elec,biomass,1982,0
+16,chp_elec,biomass,1983,8.82e-4
+16,chp_elec,biomass,1984,9.54e-4
+16,chp_elec,biomass,1985,0.001332
+16,chp_elec,biomass,1986,0.001386
+16,chp_elec,biomass,1987,0.001422
+16,chp_elec,biomass,1988,0.0014939999999999999
+16,chp_elec,biomass,1989,0.0013499999999999999
+16,chp_elec,biomass,1990,0.009108
+16,chp_elec,biomass,1991,0.00954
+16,chp_elec,biomass,1992,0.010368
+16,chp_elec,biomass,1993,0.01044
+16,chp_elec,biomass,1994,0.011519999999999999
+16,chp_elec,biomass,1995,0.012077999999999998
+16,chp_elec,biomass,1996,0.013374
+16,chp_elec,biomass,1997,0.014688000000000001
+16,chp_elec,biomass,1998,0.01503
+16,chp_elec,biomass,1999,0.016632
+16,chp_elec,biomass,2000,0.019062
+16,chp_elec,biomass,2001,0.020412
+16,chp_elec,biomass,2002,0.02448
+16,chp_elec,biomass,2003,0.024894
+16,chp_elec,biomass,2004,0.025884
+16,chp_elec,biomass,2005,0.02835
+16,chp_elec,biomass,2006,0.032004000000000005
+16,chp_elec,biomass,2007,0.031445999999999995
+16,chp_elec,biomass,2008,0.03177
+16,chp_elec,biomass,2009,0.031122
+16,chp_elec,biomass,2010,0.033083999999999995
+16,chp_elec,biomass,2011,0.034506
+16,chp_elec,biomass,2012,0.038700000000000005
+16,chp_elec,biomass,2013,0.040103999999999994
+16,chp_elec,biomass,2014,0.042246
+16,chp_elec,biomass,2015,0.042497999999999994
+16,chp_elec,coal,1971,0
+16,chp_elec,coal,1972,0
+16,chp_elec,coal,1973,0
+16,chp_elec,coal,1974,0
+16,chp_elec,coal,1975,0
+16,chp_elec,coal,1976,0
+16,chp_elec,coal,1977,0
+16,chp_elec,coal,1978,3.3120000000000003e-4
+16,chp_elec,coal,1979,4.0320000000000004e-4
+16,chp_elec,coal,1980,4.896000000000001e-4
+16,chp_elec,coal,1981,6.048000000000001e-4
+16,chp_elec,coal,1982,7.2e-4
+16,chp_elec,coal,1983,7.632e-4
+16,chp_elec,coal,1984,0.0010368
+16,chp_elec,coal,1985,0.0011952
+16,chp_elec,coal,1986,9.216000000000001e-4
+16,chp_elec,coal,1987,4.3200000000000004e-4
+16,chp_elec,coal,1988,3.4560000000000005e-4
+16,chp_elec,coal,1989,6.624000000000001e-4
+16,chp_elec,coal,1990,4.0320000000000004e-4
+16,chp_elec,coal,1991,1.0080000000000001e-4
+16,chp_elec,coal,1992,8.640000000000001e-5
+16,chp_elec,coal,1993,0
+16,chp_elec,coal,1994,0
+16,chp_elec,coal,1995,0
+16,chp_elec,coal,1996,0
+16,chp_elec,coal,1997,0
+16,chp_elec,coal,1998,0
+16,chp_elec,coal,1999,0
+16,chp_elec,coal,2000,0
+16,chp_elec,coal,2001,0
+16,chp_elec,coal,2002,0
+16,chp_elec,coal,2003,0
+16,chp_elec,coal,2004,0
+16,chp_elec,coal,2005,0
+16,chp_elec,coal,2006,0
+16,chp_elec,coal,2007,0
+16,chp_elec,coal,2008,0
+16,chp_elec,coal,2009,0
+16,chp_elec,coal,2010,0
+16,chp_elec,coal,2011,0
+16,chp_elec,coal,2012,0
+16,chp_elec,coal,2013,0
+16,chp_elec,coal,2014,0
+16,chp_elec,coal,2015,0
+16,chp_elec,gas,1971,0
+16,chp_elec,gas,1972,0
+16,chp_elec,gas,1973,0
+16,chp_elec,gas,1974,0
+16,chp_elec,gas,1975,0
+16,chp_elec,gas,1976,0
+16,chp_elec,gas,1977,0
+16,chp_elec,gas,1978,0.0024624
+16,chp_elec,gas,1979,0.0027936000000000002
+16,chp_elec,gas,1980,0.0025056
+16,chp_elec,gas,1981,0.0018288000000000002
+16,chp_elec,gas,1982,0.0017424
+16,chp_elec,gas,1983,0.0018000000000000002
+16,chp_elec,gas,1984,0.0018000000000000002
+16,chp_elec,gas,1985,0.0019152000000000001
+16,chp_elec,gas,1986,0.0019008000000000002
+16,chp_elec,gas,1987,0.0021888000000000003
+16,chp_elec,gas,1988,0.0022464
+16,chp_elec,gas,1989,0.0022752000000000002
+16,chp_elec,gas,1990,0.0030528000000000005
+16,chp_elec,gas,1991,0.0034704000000000002
+16,chp_elec,gas,1992,0.0042912
+16,chp_elec,gas,1993,0.0047664000000000005
+16,chp_elec,gas,1994,0.005990400000000001
+16,chp_elec,gas,1995,0.0069408000000000004
+16,chp_elec,gas,1996,0.007732800000000001
+16,chp_elec,gas,1997,0.0084816
+16,chp_elec,gas,1998,0.009172800000000002
+16,chp_elec,gas,1999,0.009705600000000002
+16,chp_elec,gas,2000,0.0101232
+16,chp_elec,gas,2001,0.0106128
+16,chp_elec,gas,2002,0.010915200000000002
+16,chp_elec,gas,2003,0.0111888
+16,chp_elec,gas,2004,0.0109008
+16,chp_elec,gas,2005,0.010886400000000001
+16,chp_elec,gas,2006,0.010065600000000001
+16,chp_elec,gas,2007,0.010209600000000001
+16,chp_elec,gas,2008,0.0098496
+16,chp_elec,gas,2009,0.009777600000000001
+16,chp_elec,gas,2010,0.04055040000000001
+16,chp_elec,gas,2011,0.045792000000000006
+16,chp_elec,gas,2012,0.046958400000000004
+16,chp_elec,gas,2013,0.0450288
+16,chp_elec,gas,2014,0.047592
+16,chp_elec,gas,2015,0.047304000000000006
+16,chp_elec,refined liquids,1971,0
+16,chp_elec,refined liquids,1972,0
+16,chp_elec,refined liquids,1973,0
+16,chp_elec,refined liquids,1974,0.0016416000000000002
+16,chp_elec,refined liquids,1975,0
+16,chp_elec,refined liquids,1976,0
+16,chp_elec,refined liquids,1977,0
+16,chp_elec,refined liquids,1978,0.0036144000000000003
+16,chp_elec,refined liquids,1979,0.0036288
+16,chp_elec,refined liquids,1980,0.0034704000000000002
+16,chp_elec,refined liquids,1981,0.0029952000000000004
+16,chp_elec,refined liquids,1982,0.0035424000000000002
+16,chp_elec,refined liquids,1983,0.0029808
+16,chp_elec,refined liquids,1984,0.0025344
+16,chp_elec,refined liquids,1985,0.0022752000000000002
+16,chp_elec,refined liquids,1986,0.0026208000000000004
+16,chp_elec,refined liquids,1987,0.0025488000000000004
+16,chp_elec,refined liquids,1988,0.0026064
+16,chp_elec,refined liquids,1989,0.0027504
+16,chp_elec,refined liquids,1990,0.0014256
+16,chp_elec,refined liquids,1991,0.0013392
+16,chp_elec,refined liquids,1992,0.001152
+16,chp_elec,refined liquids,1993,0.0011376000000000001
+16,chp_elec,refined liquids,1994,0.0011952000000000002
+16,chp_elec,refined liquids,1995,0.0014544000000000002
+16,chp_elec,refined liquids,1996,0.0016704
+16,chp_elec,refined liquids,1997,0.0017856000000000003
+16,chp_elec,refined liquids,1998,0.002232
+16,chp_elec,refined liquids,1999,0.0023184
+16,chp_elec,refined liquids,2000,0.0021312
+16,chp_elec,refined liquids,2001,0.0022176
+16,chp_elec,refined liquids,2002,0.0021312
+16,chp_elec,refined liquids,2003,0.0022176
+16,chp_elec,refined liquids,2004,0.0022032
+16,chp_elec,refined liquids,2005,0.0022464000000000004
+16,chp_elec,refined liquids,2006,0.002232
+16,chp_elec,refined liquids,2007,0.001872
+16,chp_elec,refined liquids,2008,0.0015264
+16,chp_elec,refined liquids,2009,0.0012096000000000001
+16,chp_elec,refined liquids,2010,7.776e-4
+16,chp_elec,refined liquids,2011,5.904e-4
+16,chp_elec,refined liquids,2012,5.616000000000001e-4
+16,chp_elec,refined liquids,2013,5.040000000000001e-4
+16,chp_elec,refined liquids,2014,4.464e-4
+16,chp_elec,refined liquids,2015,4.7520000000000006e-4
+17,chp_elec,biomass,1971,0
+17,chp_elec,biomass,1972,0
+17,chp_elec,biomass,1973,0
+17,chp_elec,biomass,1974,0
+17,chp_elec,biomass,1975,0
+17,chp_elec,biomass,1976,0
+17,chp_elec,biomass,1977,0
+17,chp_elec,biomass,1978,0
+17,chp_elec,biomass,1979,0
+17,chp_elec,biomass,1980,0
+17,chp_elec,biomass,1981,0
+17,chp_elec,biomass,1982,0
+17,chp_elec,biomass,1983,0
+17,chp_elec,biomass,1984,0
+17,chp_elec,biomass,1985,0
+17,chp_elec,biomass,1986,0
+17,chp_elec,biomass,1987,0
+17,chp_elec,biomass,1988,0
+17,chp_elec,biomass,1989,0
+17,chp_elec,biomass,1990,0
+17,chp_elec,biomass,1991,0
+17,chp_elec,biomass,1992,0
+17,chp_elec,biomass,1993,0
+17,chp_elec,biomass,1994,0
+17,chp_elec,biomass,1995,0
+17,chp_elec,biomass,1996,0
+17,chp_elec,biomass,1997,0
+17,chp_elec,biomass,1998,0
+17,chp_elec,biomass,1999,0
+17,chp_elec,biomass,2000,0
+17,chp_elec,biomass,2001,0
+17,chp_elec,biomass,2002,0
+17,chp_elec,biomass,2003,0
+17,chp_elec,biomass,2004,0
+17,chp_elec,biomass,2005,0
+17,chp_elec,biomass,2006,0
+17,chp_elec,biomass,2007,0
+17,chp_elec,biomass,2008,0
+17,chp_elec,biomass,2009,0
+17,chp_elec,biomass,2010,0
+17,chp_elec,biomass,2011,0
+17,chp_elec,biomass,2012,0
+17,chp_elec,biomass,2013,0
+17,chp_elec,biomass,2014,0
+17,chp_elec,biomass,2015,0
+17,chp_elec,coal,1971,0
+17,chp_elec,coal,1972,0
+17,chp_elec,coal,1973,0
+17,chp_elec,coal,1974,0
+17,chp_elec,coal,1975,0
+17,chp_elec,coal,1976,0
+17,chp_elec,coal,1977,0
+17,chp_elec,coal,1978,0
+17,chp_elec,coal,1979,0
+17,chp_elec,coal,1980,0
+17,chp_elec,coal,1981,0
+17,chp_elec,coal,1982,0
+17,chp_elec,coal,1983,0
+17,chp_elec,coal,1984,0
+17,chp_elec,coal,1985,0
+17,chp_elec,coal,1986,0
+17,chp_elec,coal,1987,0
+17,chp_elec,coal,1988,0
+17,chp_elec,coal,1989,0
+17,chp_elec,coal,1990,0
+17,chp_elec,coal,1991,0
+17,chp_elec,coal,1992,0
+17,chp_elec,coal,1993,0
+17,chp_elec,coal,1994,0
+17,chp_elec,coal,1995,0
+17,chp_elec,coal,1996,0
+17,chp_elec,coal,1997,0
+17,chp_elec,coal,1998,0
+17,chp_elec,coal,1999,0
+17,chp_elec,coal,2000,0
+17,chp_elec,coal,2001,0
+17,chp_elec,coal,2002,0
+17,chp_elec,coal,2003,0
+17,chp_elec,coal,2004,0
+17,chp_elec,coal,2005,0
+17,chp_elec,coal,2006,0
+17,chp_elec,coal,2007,0
+17,chp_elec,coal,2008,0
+17,chp_elec,coal,2009,0
+17,chp_elec,coal,2010,0
+17,chp_elec,coal,2011,0
+17,chp_elec,coal,2012,0
+17,chp_elec,coal,2013,0
+17,chp_elec,coal,2014,0
+17,chp_elec,coal,2015,0
+17,chp_elec,gas,1971,0
+17,chp_elec,gas,1972,0
+17,chp_elec,gas,1973,0
+17,chp_elec,gas,1974,0
+17,chp_elec,gas,1975,0
+17,chp_elec,gas,1976,0
+17,chp_elec,gas,1977,0
+17,chp_elec,gas,1978,0
+17,chp_elec,gas,1979,0
+17,chp_elec,gas,1980,0
+17,chp_elec,gas,1981,0
+17,chp_elec,gas,1982,0
+17,chp_elec,gas,1983,0
+17,chp_elec,gas,1984,0
+17,chp_elec,gas,1985,0
+17,chp_elec,gas,1986,0
+17,chp_elec,gas,1987,0
+17,chp_elec,gas,1988,0
+17,chp_elec,gas,1989,0
+17,chp_elec,gas,1990,0
+17,chp_elec,gas,1991,0
+17,chp_elec,gas,1992,0
+17,chp_elec,gas,1993,0
+17,chp_elec,gas,1994,0
+17,chp_elec,gas,1995,0
+17,chp_elec,gas,1996,0
+17,chp_elec,gas,1997,0
+17,chp_elec,gas,1998,0
+17,chp_elec,gas,1999,0
+17,chp_elec,gas,2000,0
+17,chp_elec,gas,2001,0
+17,chp_elec,gas,2002,0
+17,chp_elec,gas,2003,0
+17,chp_elec,gas,2004,0
+17,chp_elec,gas,2005,0
+17,chp_elec,gas,2006,0
+17,chp_elec,gas,2007,0
+17,chp_elec,gas,2008,0
+17,chp_elec,gas,2009,0
+17,chp_elec,gas,2010,0
+17,chp_elec,gas,2011,0
+17,chp_elec,gas,2012,0
+17,chp_elec,gas,2013,0
+17,chp_elec,gas,2014,0
+17,chp_elec,gas,2015,0
+17,chp_elec,refined liquids,1971,0
+17,chp_elec,refined liquids,1972,0
+17,chp_elec,refined liquids,1973,0
+17,chp_elec,refined liquids,1974,0
+17,chp_elec,refined liquids,1975,0
+17,chp_elec,refined liquids,1976,0
+17,chp_elec,refined liquids,1977,0
+17,chp_elec,refined liquids,1978,0
+17,chp_elec,refined liquids,1979,0
+17,chp_elec,refined liquids,1980,0
+17,chp_elec,refined liquids,1981,0
+17,chp_elec,refined liquids,1982,0
+17,chp_elec,refined liquids,1983,0
+17,chp_elec,refined liquids,1984,0
+17,chp_elec,refined liquids,1985,0
+17,chp_elec,refined liquids,1986,0
+17,chp_elec,refined liquids,1987,0
+17,chp_elec,refined liquids,1988,0
+17,chp_elec,refined liquids,1989,0
+17,chp_elec,refined liquids,1990,0
+17,chp_elec,refined liquids,1991,0
+17,chp_elec,refined liquids,1992,0
+17,chp_elec,refined liquids,1993,0
+17,chp_elec,refined liquids,1994,0
+17,chp_elec,refined liquids,1995,0
+17,chp_elec,refined liquids,1996,0
+17,chp_elec,refined liquids,1997,0
+17,chp_elec,refined liquids,1998,0
+17,chp_elec,refined liquids,1999,0
+17,chp_elec,refined liquids,2000,0
+17,chp_elec,refined liquids,2001,0
+17,chp_elec,refined liquids,2002,0
+17,chp_elec,refined liquids,2003,0
+17,chp_elec,refined liquids,2004,0
+17,chp_elec,refined liquids,2005,0
+17,chp_elec,refined liquids,2006,0
+17,chp_elec,refined liquids,2007,0
+17,chp_elec,refined liquids,2008,0
+17,chp_elec,refined liquids,2009,0
+17,chp_elec,refined liquids,2010,0
+17,chp_elec,refined liquids,2011,0
+17,chp_elec,refined liquids,2012,0
+17,chp_elec,refined liquids,2013,0
+17,chp_elec,refined liquids,2014,0
+17,chp_elec,refined liquids,2015,0
+18,chp_elec,biomass,1971,0
+18,chp_elec,biomass,1972,0
+18,chp_elec,biomass,1973,0
+18,chp_elec,biomass,1974,0
+18,chp_elec,biomass,1975,0
+18,chp_elec,biomass,1976,0
+18,chp_elec,biomass,1977,0
+18,chp_elec,biomass,1978,0
+18,chp_elec,biomass,1979,0
+18,chp_elec,biomass,1980,0
+18,chp_elec,biomass,1981,0
+18,chp_elec,biomass,1982,0
+18,chp_elec,biomass,1983,0
+18,chp_elec,biomass,1984,0
+18,chp_elec,biomass,1985,0
+18,chp_elec,biomass,1986,0
+18,chp_elec,biomass,1987,0
+18,chp_elec,biomass,1988,0
+18,chp_elec,biomass,1989,0
+18,chp_elec,biomass,1990,0
+18,chp_elec,biomass,1991,0
+18,chp_elec,biomass,1992,0
+18,chp_elec,biomass,1993,0
+18,chp_elec,biomass,1994,0
+18,chp_elec,biomass,1995,0
+18,chp_elec,biomass,1996,0
+18,chp_elec,biomass,1997,0
+18,chp_elec,biomass,1998,0
+18,chp_elec,biomass,1999,0
+18,chp_elec,biomass,2000,0
+18,chp_elec,biomass,2001,0
+18,chp_elec,biomass,2002,0
+18,chp_elec,biomass,2003,0
+18,chp_elec,biomass,2004,0
+18,chp_elec,biomass,2005,0
+18,chp_elec,biomass,2006,0
+18,chp_elec,biomass,2007,0
+18,chp_elec,biomass,2008,0
+18,chp_elec,biomass,2009,0
+18,chp_elec,biomass,2010,0
+18,chp_elec,biomass,2011,0
+18,chp_elec,biomass,2012,0
+18,chp_elec,biomass,2013,0
+18,chp_elec,biomass,2014,0
+18,chp_elec,biomass,2015,0
+18,chp_elec,coal,1971,0
+18,chp_elec,coal,1972,0
+18,chp_elec,coal,1973,0
+18,chp_elec,coal,1974,0
+18,chp_elec,coal,1975,0
+18,chp_elec,coal,1976,0
+18,chp_elec,coal,1977,0
+18,chp_elec,coal,1978,0
+18,chp_elec,coal,1979,0
+18,chp_elec,coal,1980,0
+18,chp_elec,coal,1981,0
+18,chp_elec,coal,1982,0
+18,chp_elec,coal,1983,0
+18,chp_elec,coal,1984,0
+18,chp_elec,coal,1985,0
+18,chp_elec,coal,1986,0
+18,chp_elec,coal,1987,0
+18,chp_elec,coal,1988,0
+18,chp_elec,coal,1989,0
+18,chp_elec,coal,1990,0
+18,chp_elec,coal,1991,0
+18,chp_elec,coal,1992,0
+18,chp_elec,coal,1993,0
+18,chp_elec,coal,1994,0
+18,chp_elec,coal,1995,0
+18,chp_elec,coal,1996,0
+18,chp_elec,coal,1997,0
+18,chp_elec,coal,1998,0
+18,chp_elec,coal,1999,0
+18,chp_elec,coal,2000,0
+18,chp_elec,coal,2001,0
+18,chp_elec,coal,2002,0
+18,chp_elec,coal,2003,0
+18,chp_elec,coal,2004,0
+18,chp_elec,coal,2005,0
+18,chp_elec,coal,2006,0
+18,chp_elec,coal,2007,0
+18,chp_elec,coal,2008,0
+18,chp_elec,coal,2009,0
+18,chp_elec,coal,2010,0
+18,chp_elec,coal,2011,0
+18,chp_elec,coal,2012,0
+18,chp_elec,coal,2013,0
+18,chp_elec,coal,2014,0
+18,chp_elec,coal,2015,0
+18,chp_elec,gas,1971,0
+18,chp_elec,gas,1972,0
+18,chp_elec,gas,1973,0
+18,chp_elec,gas,1974,0
+18,chp_elec,gas,1975,0
+18,chp_elec,gas,1976,0
+18,chp_elec,gas,1977,0
+18,chp_elec,gas,1978,0
+18,chp_elec,gas,1979,0
+18,chp_elec,gas,1980,0
+18,chp_elec,gas,1981,0
+18,chp_elec,gas,1982,0
+18,chp_elec,gas,1983,0
+18,chp_elec,gas,1984,0
+18,chp_elec,gas,1985,0
+18,chp_elec,gas,1986,0
+18,chp_elec,gas,1987,0
+18,chp_elec,gas,1988,0
+18,chp_elec,gas,1989,0
+18,chp_elec,gas,1990,0
+18,chp_elec,gas,1991,0
+18,chp_elec,gas,1992,0
+18,chp_elec,gas,1993,0
+18,chp_elec,gas,1994,0
+18,chp_elec,gas,1995,0
+18,chp_elec,gas,1996,0
+18,chp_elec,gas,1997,0
+18,chp_elec,gas,1998,0
+18,chp_elec,gas,1999,0
+18,chp_elec,gas,2000,0
+18,chp_elec,gas,2001,0
+18,chp_elec,gas,2002,0
+18,chp_elec,gas,2003,0
+18,chp_elec,gas,2004,0
+18,chp_elec,gas,2005,0
+18,chp_elec,gas,2006,0
+18,chp_elec,gas,2007,0
+18,chp_elec,gas,2008,0
+18,chp_elec,gas,2009,0
+18,chp_elec,gas,2010,0
+18,chp_elec,gas,2011,0
+18,chp_elec,gas,2012,0
+18,chp_elec,gas,2013,0
+18,chp_elec,gas,2014,0
+18,chp_elec,gas,2015,0
+18,chp_elec,refined liquids,1971,0
+18,chp_elec,refined liquids,1972,0
+18,chp_elec,refined liquids,1973,0
+18,chp_elec,refined liquids,1974,0
+18,chp_elec,refined liquids,1975,0
+18,chp_elec,refined liquids,1976,0
+18,chp_elec,refined liquids,1977,0
+18,chp_elec,refined liquids,1978,0
+18,chp_elec,refined liquids,1979,0
+18,chp_elec,refined liquids,1980,0
+18,chp_elec,refined liquids,1981,0
+18,chp_elec,refined liquids,1982,0
+18,chp_elec,refined liquids,1983,0
+18,chp_elec,refined liquids,1984,0
+18,chp_elec,refined liquids,1985,0
+18,chp_elec,refined liquids,1986,0
+18,chp_elec,refined liquids,1987,0
+18,chp_elec,refined liquids,1988,0
+18,chp_elec,refined liquids,1989,0
+18,chp_elec,refined liquids,1990,0
+18,chp_elec,refined liquids,1991,0
+18,chp_elec,refined liquids,1992,0
+18,chp_elec,refined liquids,1993,0
+18,chp_elec,refined liquids,1994,0
+18,chp_elec,refined liquids,1995,0
+18,chp_elec,refined liquids,1996,0
+18,chp_elec,refined liquids,1997,0
+18,chp_elec,refined liquids,1998,0
+18,chp_elec,refined liquids,1999,0
+18,chp_elec,refined liquids,2000,0
+18,chp_elec,refined liquids,2001,0
+18,chp_elec,refined liquids,2002,0
+18,chp_elec,refined liquids,2003,0
+18,chp_elec,refined liquids,2004,0
+18,chp_elec,refined liquids,2005,0
+18,chp_elec,refined liquids,2006,0
+18,chp_elec,refined liquids,2007,0
+18,chp_elec,refined liquids,2008,0
+18,chp_elec,refined liquids,2009,0
+18,chp_elec,refined liquids,2010,0
+18,chp_elec,refined liquids,2011,0
+18,chp_elec,refined liquids,2012,0
+18,chp_elec,refined liquids,2013,0
+18,chp_elec,refined liquids,2014,0
+18,chp_elec,refined liquids,2015,0
+19,chp_elec,biomass,1971,0
+19,chp_elec,biomass,1972,0
+19,chp_elec,biomass,1973,0
+19,chp_elec,biomass,1974,0
+19,chp_elec,biomass,1975,0
+19,chp_elec,biomass,1976,0
+19,chp_elec,biomass,1977,0
+19,chp_elec,biomass,1978,0
+19,chp_elec,biomass,1979,0
+19,chp_elec,biomass,1980,0
+19,chp_elec,biomass,1981,0
+19,chp_elec,biomass,1982,0
+19,chp_elec,biomass,1983,0
+19,chp_elec,biomass,1984,0
+19,chp_elec,biomass,1985,0
+19,chp_elec,biomass,1986,0
+19,chp_elec,biomass,1987,0
+19,chp_elec,biomass,1988,0
+19,chp_elec,biomass,1989,0
+19,chp_elec,biomass,1990,0
+19,chp_elec,biomass,1991,0
+19,chp_elec,biomass,1992,0
+19,chp_elec,biomass,1993,0
+19,chp_elec,biomass,1994,0
+19,chp_elec,biomass,1995,0
+19,chp_elec,biomass,1996,0
+19,chp_elec,biomass,1997,0
+19,chp_elec,biomass,1998,0
+19,chp_elec,biomass,1999,0
+19,chp_elec,biomass,2000,0
+19,chp_elec,biomass,2001,0
+19,chp_elec,biomass,2002,0
+19,chp_elec,biomass,2003,0
+19,chp_elec,biomass,2004,0
+19,chp_elec,biomass,2005,0
+19,chp_elec,biomass,2006,0
+19,chp_elec,biomass,2007,0
+19,chp_elec,biomass,2008,0
+19,chp_elec,biomass,2009,0
+19,chp_elec,biomass,2010,0
+19,chp_elec,biomass,2011,0
+19,chp_elec,biomass,2012,0
+19,chp_elec,biomass,2013,0
+19,chp_elec,biomass,2014,0
+19,chp_elec,biomass,2015,0
+19,chp_elec,coal,1971,0
+19,chp_elec,coal,1972,0
+19,chp_elec,coal,1973,0
+19,chp_elec,coal,1974,0
+19,chp_elec,coal,1975,0
+19,chp_elec,coal,1976,0
+19,chp_elec,coal,1977,0
+19,chp_elec,coal,1978,0
+19,chp_elec,coal,1979,0
+19,chp_elec,coal,1980,0
+19,chp_elec,coal,1981,0
+19,chp_elec,coal,1982,0
+19,chp_elec,coal,1983,0
+19,chp_elec,coal,1984,0
+19,chp_elec,coal,1985,0
+19,chp_elec,coal,1986,0
+19,chp_elec,coal,1987,0
+19,chp_elec,coal,1988,0
+19,chp_elec,coal,1989,0
+19,chp_elec,coal,1990,0
+19,chp_elec,coal,1991,0
+19,chp_elec,coal,1992,0
+19,chp_elec,coal,1993,0
+19,chp_elec,coal,1994,0
+19,chp_elec,coal,1995,0
+19,chp_elec,coal,1996,0
+19,chp_elec,coal,1997,0
+19,chp_elec,coal,1998,0
+19,chp_elec,coal,1999,0
+19,chp_elec,coal,2000,0
+19,chp_elec,coal,2001,0
+19,chp_elec,coal,2002,0
+19,chp_elec,coal,2003,0
+19,chp_elec,coal,2004,0
+19,chp_elec,coal,2005,0
+19,chp_elec,coal,2006,0
+19,chp_elec,coal,2007,0
+19,chp_elec,coal,2008,0
+19,chp_elec,coal,2009,0
+19,chp_elec,coal,2010,0
+19,chp_elec,coal,2011,0
+19,chp_elec,coal,2012,0
+19,chp_elec,coal,2013,0
+19,chp_elec,coal,2014,0
+19,chp_elec,coal,2015,0
+19,chp_elec,gas,1971,0
+19,chp_elec,gas,1972,0
+19,chp_elec,gas,1973,0
+19,chp_elec,gas,1974,0
+19,chp_elec,gas,1975,0
+19,chp_elec,gas,1976,0
+19,chp_elec,gas,1977,0
+19,chp_elec,gas,1978,0
+19,chp_elec,gas,1979,0
+19,chp_elec,gas,1980,0
+19,chp_elec,gas,1981,0
+19,chp_elec,gas,1982,0
+19,chp_elec,gas,1983,0
+19,chp_elec,gas,1984,0
+19,chp_elec,gas,1985,0
+19,chp_elec,gas,1986,0
+19,chp_elec,gas,1987,0
+19,chp_elec,gas,1988,0
+19,chp_elec,gas,1989,0
+19,chp_elec,gas,1990,0
+19,chp_elec,gas,1991,0
+19,chp_elec,gas,1992,0
+19,chp_elec,gas,1993,0
+19,chp_elec,gas,1994,0
+19,chp_elec,gas,1995,0
+19,chp_elec,gas,1996,0
+19,chp_elec,gas,1997,0
+19,chp_elec,gas,1998,0
+19,chp_elec,gas,1999,0
+19,chp_elec,gas,2000,0
+19,chp_elec,gas,2001,0
+19,chp_elec,gas,2002,0
+19,chp_elec,gas,2003,0
+19,chp_elec,gas,2004,0
+19,chp_elec,gas,2005,0
+19,chp_elec,gas,2006,0
+19,chp_elec,gas,2007,0
+19,chp_elec,gas,2008,0
+19,chp_elec,gas,2009,0
+19,chp_elec,gas,2010,0
+19,chp_elec,gas,2011,0
+19,chp_elec,gas,2012,0
+19,chp_elec,gas,2013,0
+19,chp_elec,gas,2014,0
+19,chp_elec,gas,2015,0
+19,chp_elec,refined liquids,1971,0
+19,chp_elec,refined liquids,1972,0
+19,chp_elec,refined liquids,1973,0
+19,chp_elec,refined liquids,1974,0
+19,chp_elec,refined liquids,1975,0
+19,chp_elec,refined liquids,1976,0
+19,chp_elec,refined liquids,1977,0
+19,chp_elec,refined liquids,1978,0
+19,chp_elec,refined liquids,1979,0
+19,chp_elec,refined liquids,1980,0
+19,chp_elec,refined liquids,1981,0
+19,chp_elec,refined liquids,1982,0
+19,chp_elec,refined liquids,1983,0
+19,chp_elec,refined liquids,1984,0
+19,chp_elec,refined liquids,1985,0
+19,chp_elec,refined liquids,1986,0
+19,chp_elec,refined liquids,1987,0
+19,chp_elec,refined liquids,1988,0
+19,chp_elec,refined liquids,1989,0
+19,chp_elec,refined liquids,1990,0
+19,chp_elec,refined liquids,1991,0
+19,chp_elec,refined liquids,1992,0
+19,chp_elec,refined liquids,1993,0
+19,chp_elec,refined liquids,1994,0
+19,chp_elec,refined liquids,1995,0
+19,chp_elec,refined liquids,1996,0
+19,chp_elec,refined liquids,1997,0
+19,chp_elec,refined liquids,1998,0
+19,chp_elec,refined liquids,1999,0
+19,chp_elec,refined liquids,2000,0
+19,chp_elec,refined liquids,2001,0
+19,chp_elec,refined liquids,2002,0
+19,chp_elec,refined liquids,2003,0
+19,chp_elec,refined liquids,2004,0
+19,chp_elec,refined liquids,2005,0
+19,chp_elec,refined liquids,2006,0
+19,chp_elec,refined liquids,2007,0
+19,chp_elec,refined liquids,2008,0
+19,chp_elec,refined liquids,2009,0
+19,chp_elec,refined liquids,2010,0
+19,chp_elec,refined liquids,2011,0
+19,chp_elec,refined liquids,2012,0
+19,chp_elec,refined liquids,2013,0
+19,chp_elec,refined liquids,2014,0
+19,chp_elec,refined liquids,2015,0
+20,chp_elec,biomass,1971,0
+20,chp_elec,biomass,1972,0
+20,chp_elec,biomass,1973,0
+20,chp_elec,biomass,1974,0
+20,chp_elec,biomass,1975,0
+20,chp_elec,biomass,1976,0
+20,chp_elec,biomass,1977,0
+20,chp_elec,biomass,1978,0
+20,chp_elec,biomass,1979,0
+20,chp_elec,biomass,1980,0
+20,chp_elec,biomass,1981,0
+20,chp_elec,biomass,1982,0
+20,chp_elec,biomass,1983,0
+20,chp_elec,biomass,1984,0
+20,chp_elec,biomass,1985,0
+20,chp_elec,biomass,1986,0
+20,chp_elec,biomass,1987,0
+20,chp_elec,biomass,1988,0
+20,chp_elec,biomass,1989,0
+20,chp_elec,biomass,1990,0
+20,chp_elec,biomass,1991,0
+20,chp_elec,biomass,1992,0
+20,chp_elec,biomass,1993,0
+20,chp_elec,biomass,1994,0
+20,chp_elec,biomass,1995,0
+20,chp_elec,biomass,1996,0
+20,chp_elec,biomass,1997,0
+20,chp_elec,biomass,1998,0
+20,chp_elec,biomass,1999,0
+20,chp_elec,biomass,2000,0
+20,chp_elec,biomass,2001,0
+20,chp_elec,biomass,2002,0
+20,chp_elec,biomass,2003,0
+20,chp_elec,biomass,2004,0
+20,chp_elec,biomass,2005,0
+20,chp_elec,biomass,2006,0
+20,chp_elec,biomass,2007,0
+20,chp_elec,biomass,2008,0
+20,chp_elec,biomass,2009,0
+20,chp_elec,biomass,2010,0
+20,chp_elec,biomass,2011,3.78e-4
+20,chp_elec,biomass,2012,0.005472
+20,chp_elec,biomass,2013,0.006228
+20,chp_elec,biomass,2014,0.006282
+20,chp_elec,biomass,2015,0.004626
+20,chp_elec,coal,1971,0
+20,chp_elec,coal,1972,0
+20,chp_elec,coal,1973,0
+20,chp_elec,coal,1974,0
+20,chp_elec,coal,1975,0
+20,chp_elec,coal,1976,0
+20,chp_elec,coal,1977,0
+20,chp_elec,coal,1978,0
+20,chp_elec,coal,1979,0
+20,chp_elec,coal,1980,0
+20,chp_elec,coal,1981,0
+20,chp_elec,coal,1982,0
+20,chp_elec,coal,1983,0
+20,chp_elec,coal,1984,0
+20,chp_elec,coal,1985,0
+20,chp_elec,coal,1986,0
+20,chp_elec,coal,1987,0
+20,chp_elec,coal,1988,0
+20,chp_elec,coal,1989,0
+20,chp_elec,coal,1990,0
+20,chp_elec,coal,1991,0
+20,chp_elec,coal,1992,0
+20,chp_elec,coal,1993,0
+20,chp_elec,coal,1994,0
+20,chp_elec,coal,1995,0
+20,chp_elec,coal,1996,0
+20,chp_elec,coal,1997,0
+20,chp_elec,coal,1998,0
+20,chp_elec,coal,1999,0
+20,chp_elec,coal,2000,0
+20,chp_elec,coal,2001,0
+20,chp_elec,coal,2002,0
+20,chp_elec,coal,2003,0
+20,chp_elec,coal,2004,0
+20,chp_elec,coal,2005,0
+20,chp_elec,coal,2006,0
+20,chp_elec,coal,2007,0
+20,chp_elec,coal,2008,0
+20,chp_elec,coal,2009,0
+20,chp_elec,coal,2010,0
+20,chp_elec,coal,2011,0
+20,chp_elec,coal,2012,0
+20,chp_elec,coal,2013,0
+20,chp_elec,coal,2014,0
+20,chp_elec,coal,2015,0
+20,chp_elec,gas,1971,0
+20,chp_elec,gas,1972,0
+20,chp_elec,gas,1973,0
+20,chp_elec,gas,1974,0
+20,chp_elec,gas,1975,0
+20,chp_elec,gas,1976,0
+20,chp_elec,gas,1977,0
+20,chp_elec,gas,1978,0
+20,chp_elec,gas,1979,0
+20,chp_elec,gas,1980,0
+20,chp_elec,gas,1981,0
+20,chp_elec,gas,1982,0
+20,chp_elec,gas,1983,0
+20,chp_elec,gas,1984,0
+20,chp_elec,gas,1985,0
+20,chp_elec,gas,1986,0
+20,chp_elec,gas,1987,0
+20,chp_elec,gas,1988,0
+20,chp_elec,gas,1989,0
+20,chp_elec,gas,1990,0
+20,chp_elec,gas,1991,0
+20,chp_elec,gas,1992,0
+20,chp_elec,gas,1993,0
+20,chp_elec,gas,1994,0
+20,chp_elec,gas,1995,0
+20,chp_elec,gas,1996,0.0018720000000000002
+20,chp_elec,gas,1997,0.0025632000000000003
+20,chp_elec,gas,1998,0.0385056
+20,chp_elec,gas,1999,0.0396432
+20,chp_elec,gas,2000,0.0487008
+20,chp_elec,gas,2001,0.068112
+20,chp_elec,gas,2002,0.0641376
+20,chp_elec,gas,2003,0.0937872
+20,chp_elec,gas,2004,0.10101600000000001
+20,chp_elec,gas,2005,0.10039680000000001
+20,chp_elec,gas,2006,0.1051344
+20,chp_elec,gas,2007,0.1435248
+20,chp_elec,gas,2008,0.1496448
+20,chp_elec,gas,2009,0.1496304
+20,chp_elec,gas,2010,0.15536160000000002
+20,chp_elec,gas,2011,0.1515168
+20,chp_elec,gas,2012,0.14554080000000003
+20,chp_elec,gas,2013,0.1834848
+20,chp_elec,gas,2014,0.19702080000000002
+20,chp_elec,gas,2015,0.2065104
+20,chp_elec,refined liquids,1971,0
+20,chp_elec,refined liquids,1972,0
+20,chp_elec,refined liquids,1973,0
+20,chp_elec,refined liquids,1974,0
+20,chp_elec,refined liquids,1975,0
+20,chp_elec,refined liquids,1976,0
+20,chp_elec,refined liquids,1977,0
+20,chp_elec,refined liquids,1978,0
+20,chp_elec,refined liquids,1979,0
+20,chp_elec,refined liquids,1980,0
+20,chp_elec,refined liquids,1981,0
+20,chp_elec,refined liquids,1982,0
+20,chp_elec,refined liquids,1983,0
+20,chp_elec,refined liquids,1984,0
+20,chp_elec,refined liquids,1985,0
+20,chp_elec,refined liquids,1986,0
+20,chp_elec,refined liquids,1987,0
+20,chp_elec,refined liquids,1988,0
+20,chp_elec,refined liquids,1989,0
+20,chp_elec,refined liquids,1990,0
+20,chp_elec,refined liquids,1991,0
+20,chp_elec,refined liquids,1992,0
+20,chp_elec,refined liquids,1993,0
+20,chp_elec,refined liquids,1994,0
+20,chp_elec,refined liquids,1995,0
+20,chp_elec,refined liquids,1996,0
+20,chp_elec,refined liquids,1997,0
+20,chp_elec,refined liquids,1998,0
+20,chp_elec,refined liquids,1999,8.208000000000001e-4
+20,chp_elec,refined liquids,2000,7.488000000000001e-4
+20,chp_elec,refined liquids,2001,6.048000000000001e-4
+20,chp_elec,refined liquids,2002,0.0012528
+20,chp_elec,refined liquids,2003,0.00108
+20,chp_elec,refined liquids,2004,0.0010224000000000001
+20,chp_elec,refined liquids,2005,0.0021024
+20,chp_elec,refined liquids,2006,0.003888
+20,chp_elec,refined liquids,2007,0.0186336
+20,chp_elec,refined liquids,2008,0.0267264
+20,chp_elec,refined liquids,2009,0.026121600000000002
+20,chp_elec,refined liquids,2010,0.024566400000000002
+20,chp_elec,refined liquids,2011,0.0249264
+20,chp_elec,refined liquids,2012,0.0206208
+20,chp_elec,refined liquids,2013,0.020923200000000003
+20,chp_elec,refined liquids,2014,0.016444800000000002
+20,chp_elec,refined liquids,2015,0.01692
+21,chp_elec,biomass,1971,0
+21,chp_elec,biomass,1972,0
+21,chp_elec,biomass,1973,0
+21,chp_elec,biomass,1974,0
+21,chp_elec,biomass,1975,0
+21,chp_elec,biomass,1976,0
+21,chp_elec,biomass,1977,0
+21,chp_elec,biomass,1978,0
+21,chp_elec,biomass,1979,0
+21,chp_elec,biomass,1980,0
+21,chp_elec,biomass,1981,0
+21,chp_elec,biomass,1982,0
+21,chp_elec,biomass,1983,0
+21,chp_elec,biomass,1984,0
+21,chp_elec,biomass,1985,0
+21,chp_elec,biomass,1986,0
+21,chp_elec,biomass,1987,0
+21,chp_elec,biomass,1988,0
+21,chp_elec,biomass,1989,0
+21,chp_elec,biomass,1990,0
+21,chp_elec,biomass,1991,0
+21,chp_elec,biomass,1992,0
+21,chp_elec,biomass,1993,0
+21,chp_elec,biomass,1994,0
+21,chp_elec,biomass,1995,0
+21,chp_elec,biomass,1996,0
+21,chp_elec,biomass,1997,0
+21,chp_elec,biomass,1998,0
+21,chp_elec,biomass,1999,0
+21,chp_elec,biomass,2000,0
+21,chp_elec,biomass,2001,0
+21,chp_elec,biomass,2002,0
+21,chp_elec,biomass,2003,0
+21,chp_elec,biomass,2004,0
+21,chp_elec,biomass,2005,0
+21,chp_elec,biomass,2006,0
+21,chp_elec,biomass,2007,0
+21,chp_elec,biomass,2008,0
+21,chp_elec,biomass,2009,0
+21,chp_elec,biomass,2010,0
+21,chp_elec,biomass,2011,0
+21,chp_elec,biomass,2012,0
+21,chp_elec,biomass,2013,0
+21,chp_elec,biomass,2014,0
+21,chp_elec,biomass,2015,0
+21,chp_elec,coal,1971,0
+21,chp_elec,coal,1972,0
+21,chp_elec,coal,1973,0
+21,chp_elec,coal,1974,0
+21,chp_elec,coal,1975,0
+21,chp_elec,coal,1976,0
+21,chp_elec,coal,1977,0
+21,chp_elec,coal,1978,0
+21,chp_elec,coal,1979,0
+21,chp_elec,coal,1980,0
+21,chp_elec,coal,1981,0
+21,chp_elec,coal,1982,0
+21,chp_elec,coal,1983,0
+21,chp_elec,coal,1984,0
+21,chp_elec,coal,1985,0
+21,chp_elec,coal,1986,0
+21,chp_elec,coal,1987,0
+21,chp_elec,coal,1988,0
+21,chp_elec,coal,1989,0
+21,chp_elec,coal,1990,0
+21,chp_elec,coal,1991,0
+21,chp_elec,coal,1992,0
+21,chp_elec,coal,1993,0
+21,chp_elec,coal,1994,0
+21,chp_elec,coal,1995,0
+21,chp_elec,coal,1996,0
+21,chp_elec,coal,1997,0
+21,chp_elec,coal,1998,0
+21,chp_elec,coal,1999,0
+21,chp_elec,coal,2000,0
+21,chp_elec,coal,2001,0
+21,chp_elec,coal,2002,0
+21,chp_elec,coal,2003,0
+21,chp_elec,coal,2004,0
+21,chp_elec,coal,2005,0
+21,chp_elec,coal,2006,0
+21,chp_elec,coal,2007,0
+21,chp_elec,coal,2008,0
+21,chp_elec,coal,2009,0
+21,chp_elec,coal,2010,0
+21,chp_elec,coal,2011,0
+21,chp_elec,coal,2012,0
+21,chp_elec,coal,2013,0
+21,chp_elec,coal,2014,0
+21,chp_elec,coal,2015,0
+21,chp_elec,gas,1971,0
+21,chp_elec,gas,1972,0
+21,chp_elec,gas,1973,0
+21,chp_elec,gas,1974,0
+21,chp_elec,gas,1975,0
+21,chp_elec,gas,1976,0
+21,chp_elec,gas,1977,0
+21,chp_elec,gas,1978,0
+21,chp_elec,gas,1979,0
+21,chp_elec,gas,1980,0
+21,chp_elec,gas,1981,0
+21,chp_elec,gas,1982,0
+21,chp_elec,gas,1983,0
+21,chp_elec,gas,1984,0
+21,chp_elec,gas,1985,0
+21,chp_elec,gas,1986,0
+21,chp_elec,gas,1987,0
+21,chp_elec,gas,1988,0
+21,chp_elec,gas,1989,0
+21,chp_elec,gas,1990,0
+21,chp_elec,gas,1991,0
+21,chp_elec,gas,1992,0
+21,chp_elec,gas,1993,0
+21,chp_elec,gas,1994,0
+21,chp_elec,gas,1995,0
+21,chp_elec,gas,1996,0
+21,chp_elec,gas,1997,0
+21,chp_elec,gas,1998,0
+21,chp_elec,gas,1999,0
+21,chp_elec,gas,2000,0
+21,chp_elec,gas,2001,0
+21,chp_elec,gas,2002,0
+21,chp_elec,gas,2003,0
+21,chp_elec,gas,2004,0
+21,chp_elec,gas,2005,0
+21,chp_elec,gas,2006,0
+21,chp_elec,gas,2007,0
+21,chp_elec,gas,2008,0
+21,chp_elec,gas,2009,0
+21,chp_elec,gas,2010,0
+21,chp_elec,gas,2011,0
+21,chp_elec,gas,2012,0
+21,chp_elec,gas,2013,0
+21,chp_elec,gas,2014,0
+21,chp_elec,gas,2015,0
+21,chp_elec,refined liquids,1971,0
+21,chp_elec,refined liquids,1972,0
+21,chp_elec,refined liquids,1973,0
+21,chp_elec,refined liquids,1974,0
+21,chp_elec,refined liquids,1975,0
+21,chp_elec,refined liquids,1976,0
+21,chp_elec,refined liquids,1977,0
+21,chp_elec,refined liquids,1978,0
+21,chp_elec,refined liquids,1979,0
+21,chp_elec,refined liquids,1980,0
+21,chp_elec,refined liquids,1981,0
+21,chp_elec,refined liquids,1982,0
+21,chp_elec,refined liquids,1983,0
+21,chp_elec,refined liquids,1984,0
+21,chp_elec,refined liquids,1985,0
+21,chp_elec,refined liquids,1986,0
+21,chp_elec,refined liquids,1987,0
+21,chp_elec,refined liquids,1988,0
+21,chp_elec,refined liquids,1989,0
+21,chp_elec,refined liquids,1990,0
+21,chp_elec,refined liquids,1991,0
+21,chp_elec,refined liquids,1992,0
+21,chp_elec,refined liquids,1993,0
+21,chp_elec,refined liquids,1994,0
+21,chp_elec,refined liquids,1995,0
+21,chp_elec,refined liquids,1996,0
+21,chp_elec,refined liquids,1997,0
+21,chp_elec,refined liquids,1998,0
+21,chp_elec,refined liquids,1999,0
+21,chp_elec,refined liquids,2000,0
+21,chp_elec,refined liquids,2001,0
+21,chp_elec,refined liquids,2002,0
+21,chp_elec,refined liquids,2003,0
+21,chp_elec,refined liquids,2004,0
+21,chp_elec,refined liquids,2005,0
+21,chp_elec,refined liquids,2006,0
+21,chp_elec,refined liquids,2007,0
+21,chp_elec,refined liquids,2008,0
+21,chp_elec,refined liquids,2009,0
+21,chp_elec,refined liquids,2010,0
+21,chp_elec,refined liquids,2011,0
+21,chp_elec,refined liquids,2012,0
+21,chp_elec,refined liquids,2013,0
+21,chp_elec,refined liquids,2014,0
+21,chp_elec,refined liquids,2015,0
+22,chp_elec,biomass,1971,0
+22,chp_elec,biomass,1972,0
+22,chp_elec,biomass,1973,0
+22,chp_elec,biomass,1974,0
+22,chp_elec,biomass,1975,0
+22,chp_elec,biomass,1976,0
+22,chp_elec,biomass,1977,0
+22,chp_elec,biomass,1978,0
+22,chp_elec,biomass,1979,0
+22,chp_elec,biomass,1980,0
+22,chp_elec,biomass,1981,0
+22,chp_elec,biomass,1982,0
+22,chp_elec,biomass,1983,0
+22,chp_elec,biomass,1984,0
+22,chp_elec,biomass,1985,0
+22,chp_elec,biomass,1986,0
+22,chp_elec,biomass,1987,0
+22,chp_elec,biomass,1988,0
+22,chp_elec,biomass,1989,0
+22,chp_elec,biomass,1990,0
+22,chp_elec,biomass,1991,0
+22,chp_elec,biomass,1992,0
+22,chp_elec,biomass,1993,0
+22,chp_elec,biomass,1994,0
+22,chp_elec,biomass,1995,0
+22,chp_elec,biomass,1996,0
+22,chp_elec,biomass,1997,0
+22,chp_elec,biomass,1998,0
+22,chp_elec,biomass,1999,0
+22,chp_elec,biomass,2000,0
+22,chp_elec,biomass,2001,0
+22,chp_elec,biomass,2002,0
+22,chp_elec,biomass,2003,0
+22,chp_elec,biomass,2004,0
+22,chp_elec,biomass,2005,0
+22,chp_elec,biomass,2006,0
+22,chp_elec,biomass,2007,0
+22,chp_elec,biomass,2008,0
+22,chp_elec,biomass,2009,0
+22,chp_elec,biomass,2010,0
+22,chp_elec,biomass,2011,0
+22,chp_elec,biomass,2012,0
+22,chp_elec,biomass,2013,0
+22,chp_elec,biomass,2014,0
+22,chp_elec,biomass,2015,0
+22,chp_elec,coal,1971,0
+22,chp_elec,coal,1972,0
+22,chp_elec,coal,1973,0
+22,chp_elec,coal,1974,0
+22,chp_elec,coal,1975,0
+22,chp_elec,coal,1976,0
+22,chp_elec,coal,1977,0
+22,chp_elec,coal,1978,0
+22,chp_elec,coal,1979,0
+22,chp_elec,coal,1980,0
+22,chp_elec,coal,1981,0
+22,chp_elec,coal,1982,0
+22,chp_elec,coal,1983,0
+22,chp_elec,coal,1984,0
+22,chp_elec,coal,1985,0
+22,chp_elec,coal,1986,0
+22,chp_elec,coal,1987,0
+22,chp_elec,coal,1988,0
+22,chp_elec,coal,1989,0
+22,chp_elec,coal,1990,0
+22,chp_elec,coal,1991,0
+22,chp_elec,coal,1992,0
+22,chp_elec,coal,1993,0
+22,chp_elec,coal,1994,0
+22,chp_elec,coal,1995,0
+22,chp_elec,coal,1996,0
+22,chp_elec,coal,1997,0
+22,chp_elec,coal,1998,0
+22,chp_elec,coal,1999,0
+22,chp_elec,coal,2000,0
+22,chp_elec,coal,2001,0
+22,chp_elec,coal,2002,0
+22,chp_elec,coal,2003,0
+22,chp_elec,coal,2004,0
+22,chp_elec,coal,2005,0
+22,chp_elec,coal,2006,0
+22,chp_elec,coal,2007,0
+22,chp_elec,coal,2008,0
+22,chp_elec,coal,2009,0
+22,chp_elec,coal,2010,0
+22,chp_elec,coal,2011,0
+22,chp_elec,coal,2012,0
+22,chp_elec,coal,2013,0
+22,chp_elec,coal,2014,0
+22,chp_elec,coal,2015,0
+22,chp_elec,gas,1971,0
+22,chp_elec,gas,1972,0
+22,chp_elec,gas,1973,0
+22,chp_elec,gas,1974,0
+22,chp_elec,gas,1975,0
+22,chp_elec,gas,1976,0
+22,chp_elec,gas,1977,0
+22,chp_elec,gas,1978,0
+22,chp_elec,gas,1979,0
+22,chp_elec,gas,1980,0
+22,chp_elec,gas,1981,0
+22,chp_elec,gas,1982,0
+22,chp_elec,gas,1983,0
+22,chp_elec,gas,1984,0
+22,chp_elec,gas,1985,0
+22,chp_elec,gas,1986,0
+22,chp_elec,gas,1987,0
+22,chp_elec,gas,1988,0
+22,chp_elec,gas,1989,0
+22,chp_elec,gas,1990,0
+22,chp_elec,gas,1991,0
+22,chp_elec,gas,1992,0
+22,chp_elec,gas,1993,0
+22,chp_elec,gas,1994,0
+22,chp_elec,gas,1995,0
+22,chp_elec,gas,1996,0
+22,chp_elec,gas,1997,0
+22,chp_elec,gas,1998,0
+22,chp_elec,gas,1999,0
+22,chp_elec,gas,2000,0
+22,chp_elec,gas,2001,0
+22,chp_elec,gas,2002,0
+22,chp_elec,gas,2003,0
+22,chp_elec,gas,2004,0
+22,chp_elec,gas,2005,0
+22,chp_elec,gas,2006,0
+22,chp_elec,gas,2007,0
+22,chp_elec,gas,2008,0
+22,chp_elec,gas,2009,0
+22,chp_elec,gas,2010,0
+22,chp_elec,gas,2011,0
+22,chp_elec,gas,2012,0
+22,chp_elec,gas,2013,0
+22,chp_elec,gas,2014,0
+22,chp_elec,gas,2015,0
+22,chp_elec,refined liquids,1971,0
+22,chp_elec,refined liquids,1972,0
+22,chp_elec,refined liquids,1973,0
+22,chp_elec,refined liquids,1974,0
+22,chp_elec,refined liquids,1975,0
+22,chp_elec,refined liquids,1976,0
+22,chp_elec,refined liquids,1977,0
+22,chp_elec,refined liquids,1978,0
+22,chp_elec,refined liquids,1979,0
+22,chp_elec,refined liquids,1980,0
+22,chp_elec,refined liquids,1981,0
+22,chp_elec,refined liquids,1982,0
+22,chp_elec,refined liquids,1983,0
+22,chp_elec,refined liquids,1984,0
+22,chp_elec,refined liquids,1985,0
+22,chp_elec,refined liquids,1986,0
+22,chp_elec,refined liquids,1987,0
+22,chp_elec,refined liquids,1988,0
+22,chp_elec,refined liquids,1989,0
+22,chp_elec,refined liquids,1990,0
+22,chp_elec,refined liquids,1991,0
+22,chp_elec,refined liquids,1992,0
+22,chp_elec,refined liquids,1993,0
+22,chp_elec,refined liquids,1994,0
+22,chp_elec,refined liquids,1995,0
+22,chp_elec,refined liquids,1996,0
+22,chp_elec,refined liquids,1997,0
+22,chp_elec,refined liquids,1998,0
+22,chp_elec,refined liquids,1999,0
+22,chp_elec,refined liquids,2000,0
+22,chp_elec,refined liquids,2001,0
+22,chp_elec,refined liquids,2002,0
+22,chp_elec,refined liquids,2003,0
+22,chp_elec,refined liquids,2004,0
+22,chp_elec,refined liquids,2005,0
+22,chp_elec,refined liquids,2006,0
+22,chp_elec,refined liquids,2007,0
+22,chp_elec,refined liquids,2008,0
+22,chp_elec,refined liquids,2009,0
+22,chp_elec,refined liquids,2010,0
+22,chp_elec,refined liquids,2011,0
+22,chp_elec,refined liquids,2012,0
+22,chp_elec,refined liquids,2013,0
+22,chp_elec,refined liquids,2014,0
+22,chp_elec,refined liquids,2015,0
+23,chp_elec,biomass,1971,0
+23,chp_elec,biomass,1972,0
+23,chp_elec,biomass,1973,0
+23,chp_elec,biomass,1974,0
+23,chp_elec,biomass,1975,0
+23,chp_elec,biomass,1976,0
+23,chp_elec,biomass,1977,0
+23,chp_elec,biomass,1978,0
+23,chp_elec,biomass,1979,0
+23,chp_elec,biomass,1980,0
+23,chp_elec,biomass,1981,0
+23,chp_elec,biomass,1982,0
+23,chp_elec,biomass,1983,0
+23,chp_elec,biomass,1984,0
+23,chp_elec,biomass,1985,0
+23,chp_elec,biomass,1986,0
+23,chp_elec,biomass,1987,0
+23,chp_elec,biomass,1988,0
+23,chp_elec,biomass,1989,0
+23,chp_elec,biomass,1990,6.66e-4
+23,chp_elec,biomass,1991,6.48e-4
+23,chp_elec,biomass,1992,0.033336000000000005
+23,chp_elec,biomass,1993,0.031608000000000004
+23,chp_elec,biomass,1994,0.028961999999999998
+23,chp_elec,biomass,1995,0.028422000000000003
+23,chp_elec,biomass,1996,0.028008
+23,chp_elec,biomass,1997,0.027576
+23,chp_elec,biomass,1998,0.027341999999999998
+23,chp_elec,biomass,1999,0.03735
+23,chp_elec,biomass,2000,0.045684
+23,chp_elec,biomass,2001,0.051623999999999996
+23,chp_elec,biomass,2002,0.050418000000000004
+23,chp_elec,biomass,2003,0.032544
+23,chp_elec,biomass,2004,0.032544
+23,chp_elec,biomass,2005,0.047484
+23,chp_elec,biomass,2006,0.049319999999999996
+23,chp_elec,biomass,2007,0.035946
+23,chp_elec,biomass,2008,0.045792
+23,chp_elec,biomass,2009,0.047574
+23,chp_elec,biomass,2010,0.049932000000000004
+23,chp_elec,biomass,2011,0.049985999999999996
+23,chp_elec,biomass,2012,0.054594000000000004
+23,chp_elec,biomass,2013,0.05265
+23,chp_elec,biomass,2014,0.055853999999999994
+23,chp_elec,biomass,2015,0.05074200000000001
+23,chp_elec,coal,1971,0
+23,chp_elec,coal,1972,0
+23,chp_elec,coal,1973,0
+23,chp_elec,coal,1974,0
+23,chp_elec,coal,1975,0
+23,chp_elec,coal,1976,0
+23,chp_elec,coal,1977,0
+23,chp_elec,coal,1978,0
+23,chp_elec,coal,1979,0
+23,chp_elec,coal,1980,0
+23,chp_elec,coal,1981,0
+23,chp_elec,coal,1982,0
+23,chp_elec,coal,1983,0
+23,chp_elec,coal,1984,0
+23,chp_elec,coal,1985,0
+23,chp_elec,coal,1986,0
+23,chp_elec,coal,1987,0
+23,chp_elec,coal,1988,0
+23,chp_elec,coal,1989,0
+23,chp_elec,coal,1990,0.076824
+23,chp_elec,coal,1991,0.0757584
+23,chp_elec,coal,1992,0.14613120000000002
+23,chp_elec,coal,1993,0.1288656
+23,chp_elec,coal,1994,0.11844000000000002
+23,chp_elec,coal,1995,0.12369600000000001
+23,chp_elec,coal,1996,0.156456
+23,chp_elec,coal,1997,0.1596384
+23,chp_elec,coal,1998,0.130104
+23,chp_elec,coal,1999,0.1614816
+23,chp_elec,coal,2000,0.15392160000000002
+23,chp_elec,coal,2001,0.19255680000000003
+23,chp_elec,coal,2002,0.1894896
+23,chp_elec,coal,2003,0.17802720000000002
+23,chp_elec,coal,2004,0.18872640000000002
+23,chp_elec,coal,2005,0.1772928
+23,chp_elec,coal,2006,0.21571200000000001
+23,chp_elec,coal,2007,0.19477440000000001
+23,chp_elec,coal,2008,0.16300800000000001
+23,chp_elec,coal,2009,0.1524384
+23,chp_elec,coal,2010,0.1660896
+23,chp_elec,coal,2011,0.1589616
+23,chp_elec,coal,2012,0.11376
+23,chp_elec,coal,2013,0.12587040000000002
+23,chp_elec,coal,2014,0.11188800000000002
+23,chp_elec,coal,2015,0.17926560000000002
+23,chp_elec,gas,1971,0
+23,chp_elec,gas,1972,0
+23,chp_elec,gas,1973,0
+23,chp_elec,gas,1974,0
+23,chp_elec,gas,1975,0
+23,chp_elec,gas,1976,0
+23,chp_elec,gas,1977,0
+23,chp_elec,gas,1978,0
+23,chp_elec,gas,1979,0
+23,chp_elec,gas,1980,0
+23,chp_elec,gas,1981,0
+23,chp_elec,gas,1982,0
+23,chp_elec,gas,1983,0
+23,chp_elec,gas,1984,0
+23,chp_elec,gas,1985,0
+23,chp_elec,gas,1986,0
+23,chp_elec,gas,1987,0
+23,chp_elec,gas,1988,0
+23,chp_elec,gas,1989,0
+23,chp_elec,gas,1990,0.6142176
+23,chp_elec,gas,1991,0.6564672
+23,chp_elec,gas,1992,0.6029136
+23,chp_elec,gas,1993,0.5584176000000001
+23,chp_elec,gas,1994,0.47342880000000004
+23,chp_elec,gas,1995,0.4596624
+23,chp_elec,gas,1996,0.51192
+23,chp_elec,gas,1997,0.4474656
+23,chp_elec,gas,1998,0.35046720000000003
+23,chp_elec,gas,1999,0.36200160000000003
+23,chp_elec,gas,2000,0.39077280000000003
+23,chp_elec,gas,2001,0.3832128
+23,chp_elec,gas,2002,0.42059520000000006
+23,chp_elec,gas,2003,0.3608928
+23,chp_elec,gas,2004,0.335376
+23,chp_elec,gas,2005,0.34636320000000004
+23,chp_elec,gas,2006,0.32270400000000005
+23,chp_elec,gas,2007,0.3787632
+23,chp_elec,gas,2008,0.4464
+23,chp_elec,gas,2009,0.41772960000000003
+23,chp_elec,gas,2010,0.538848
+23,chp_elec,gas,2011,0.5727456000000001
+23,chp_elec,gas,2012,0.6528096000000001
+23,chp_elec,gas,2013,0.6118992000000001
+23,chp_elec,gas,2014,0.6330096000000001
+23,chp_elec,gas,2015,0.5977584
+23,chp_elec,refined liquids,1971,0
+23,chp_elec,refined liquids,1972,0
+23,chp_elec,refined liquids,1973,0
+23,chp_elec,refined liquids,1974,0
+23,chp_elec,refined liquids,1975,0
+23,chp_elec,refined liquids,1976,0
+23,chp_elec,refined liquids,1977,0
+23,chp_elec,refined liquids,1978,0
+23,chp_elec,refined liquids,1979,0
+23,chp_elec,refined liquids,1980,0
+23,chp_elec,refined liquids,1981,0
+23,chp_elec,refined liquids,1982,0
+23,chp_elec,refined liquids,1983,0
+23,chp_elec,refined liquids,1984,0
+23,chp_elec,refined liquids,1985,0
+23,chp_elec,refined liquids,1986,0
+23,chp_elec,refined liquids,1987,0
+23,chp_elec,refined liquids,1988,0
+23,chp_elec,refined liquids,1989,0
+23,chp_elec,refined liquids,1990,0
+23,chp_elec,refined liquids,1991,0
+23,chp_elec,refined liquids,1992,0
+23,chp_elec,refined liquids,1993,0
+23,chp_elec,refined liquids,1994,0
+23,chp_elec,refined liquids,1995,0
+23,chp_elec,refined liquids,1996,0.0889632
+23,chp_elec,refined liquids,1997,0.09165600000000002
+23,chp_elec,refined liquids,1998,0.07915680000000001
+23,chp_elec,refined liquids,1999,0.0512208
+23,chp_elec,refined liquids,2000,0.043416
+23,chp_elec,refined liquids,2001,0.0436032
+23,chp_elec,refined liquids,2002,0.0430704
+23,chp_elec,refined liquids,2003,0.0405648
+23,chp_elec,refined liquids,2004,0.0508464
+23,chp_elec,refined liquids,2005,0.047894400000000004
+23,chp_elec,refined liquids,2006,0.052315200000000006
+23,chp_elec,refined liquids,2007,0.0510912
+23,chp_elec,refined liquids,2008,0.0379584
+23,chp_elec,refined liquids,2009,0.030888000000000002
+23,chp_elec,refined liquids,2010,0.031219200000000003
+23,chp_elec,refined liquids,2011,0.0313632
+23,chp_elec,refined liquids,2012,0.030153600000000003
+23,chp_elec,refined liquids,2013,0.026020800000000004
+23,chp_elec,refined liquids,2014,0.0434016
+23,chp_elec,refined liquids,2015,0.043272000000000005
+24,chp_elec,biomass,1971,0
+24,chp_elec,biomass,1972,0
+24,chp_elec,biomass,1973,0
+24,chp_elec,biomass,1974,0
+24,chp_elec,biomass,1975,0
+24,chp_elec,biomass,1976,0
+24,chp_elec,biomass,1977,0
+24,chp_elec,biomass,1978,0
+24,chp_elec,biomass,1979,0
+24,chp_elec,biomass,1980,0
+24,chp_elec,biomass,1981,0
+24,chp_elec,biomass,1982,0
+24,chp_elec,biomass,1983,0
+24,chp_elec,biomass,1984,0
+24,chp_elec,biomass,1985,0
+24,chp_elec,biomass,1986,0
+24,chp_elec,biomass,1987,0
+24,chp_elec,biomass,1988,0
+24,chp_elec,biomass,1989,0
+24,chp_elec,biomass,1990,0
+24,chp_elec,biomass,1991,0
+24,chp_elec,biomass,1992,0
+24,chp_elec,biomass,1993,0
+24,chp_elec,biomass,1994,0
+24,chp_elec,biomass,1995,0
+24,chp_elec,biomass,1996,0
+24,chp_elec,biomass,1997,0
+24,chp_elec,biomass,1998,0
+24,chp_elec,biomass,1999,0
+24,chp_elec,biomass,2000,0
+24,chp_elec,biomass,2001,0
+24,chp_elec,biomass,2002,0
+24,chp_elec,biomass,2003,0
+24,chp_elec,biomass,2004,0
+24,chp_elec,biomass,2005,0
+24,chp_elec,biomass,2006,0
+24,chp_elec,biomass,2007,0
+24,chp_elec,biomass,2008,0
+24,chp_elec,biomass,2009,0
+24,chp_elec,biomass,2010,0
+24,chp_elec,biomass,2011,0
+24,chp_elec,biomass,2012,0
+24,chp_elec,biomass,2013,0
+24,chp_elec,biomass,2014,0
+24,chp_elec,biomass,2015,0
+24,chp_elec,coal,1971,0
+24,chp_elec,coal,1972,0
+24,chp_elec,coal,1973,0
+24,chp_elec,coal,1974,0
+24,chp_elec,coal,1975,0
+24,chp_elec,coal,1976,0
+24,chp_elec,coal,1977,0
+24,chp_elec,coal,1978,0
+24,chp_elec,coal,1979,0
+24,chp_elec,coal,1980,0
+24,chp_elec,coal,1981,0
+24,chp_elec,coal,1982,0
+24,chp_elec,coal,1983,0
+24,chp_elec,coal,1984,0
+24,chp_elec,coal,1985,0
+24,chp_elec,coal,1986,0
+24,chp_elec,coal,1987,0
+24,chp_elec,coal,1988,0
+24,chp_elec,coal,1989,0
+24,chp_elec,coal,1990,0
+24,chp_elec,coal,1991,0
+24,chp_elec,coal,1992,0
+24,chp_elec,coal,1993,0
+24,chp_elec,coal,1994,0
+24,chp_elec,coal,1995,0
+24,chp_elec,coal,1996,0
+24,chp_elec,coal,1997,0
+24,chp_elec,coal,1998,0
+24,chp_elec,coal,1999,0
+24,chp_elec,coal,2000,0
+24,chp_elec,coal,2001,0
+24,chp_elec,coal,2002,0
+24,chp_elec,coal,2003,0
+24,chp_elec,coal,2004,0
+24,chp_elec,coal,2005,0
+24,chp_elec,coal,2006,0
+24,chp_elec,coal,2007,0
+24,chp_elec,coal,2008,0
+24,chp_elec,coal,2009,0
+24,chp_elec,coal,2010,0
+24,chp_elec,coal,2011,0
+24,chp_elec,coal,2012,0
+24,chp_elec,coal,2013,0
+24,chp_elec,coal,2014,0
+24,chp_elec,coal,2015,0
+24,chp_elec,gas,1971,0
+24,chp_elec,gas,1972,0
+24,chp_elec,gas,1973,0
+24,chp_elec,gas,1974,0
+24,chp_elec,gas,1975,0
+24,chp_elec,gas,1976,0
+24,chp_elec,gas,1977,0
+24,chp_elec,gas,1978,0
+24,chp_elec,gas,1979,0
+24,chp_elec,gas,1980,0
+24,chp_elec,gas,1981,0
+24,chp_elec,gas,1982,0
+24,chp_elec,gas,1983,0
+24,chp_elec,gas,1984,0
+24,chp_elec,gas,1985,0
+24,chp_elec,gas,1986,0
+24,chp_elec,gas,1987,0
+24,chp_elec,gas,1988,0
+24,chp_elec,gas,1989,0
+24,chp_elec,gas,1990,0
+24,chp_elec,gas,1991,0
+24,chp_elec,gas,1992,0
+24,chp_elec,gas,1993,0
+24,chp_elec,gas,1994,0
+24,chp_elec,gas,1995,0
+24,chp_elec,gas,1996,0
+24,chp_elec,gas,1997,0
+24,chp_elec,gas,1998,0
+24,chp_elec,gas,1999,0
+24,chp_elec,gas,2000,0
+24,chp_elec,gas,2001,0
+24,chp_elec,gas,2002,0
+24,chp_elec,gas,2003,0
+24,chp_elec,gas,2004,0
+24,chp_elec,gas,2005,0
+24,chp_elec,gas,2006,0
+24,chp_elec,gas,2007,0
+24,chp_elec,gas,2008,0
+24,chp_elec,gas,2009,0
+24,chp_elec,gas,2010,0
+24,chp_elec,gas,2011,0
+24,chp_elec,gas,2012,0
+24,chp_elec,gas,2013,0
+24,chp_elec,gas,2014,0
+24,chp_elec,gas,2015,0
+24,chp_elec,refined liquids,1971,0
+24,chp_elec,refined liquids,1972,0
+24,chp_elec,refined liquids,1973,0
+24,chp_elec,refined liquids,1974,0
+24,chp_elec,refined liquids,1975,0
+24,chp_elec,refined liquids,1976,0
+24,chp_elec,refined liquids,1977,0
+24,chp_elec,refined liquids,1978,0
+24,chp_elec,refined liquids,1979,0
+24,chp_elec,refined liquids,1980,0
+24,chp_elec,refined liquids,1981,0
+24,chp_elec,refined liquids,1982,0
+24,chp_elec,refined liquids,1983,0
+24,chp_elec,refined liquids,1984,0
+24,chp_elec,refined liquids,1985,0
+24,chp_elec,refined liquids,1986,0
+24,chp_elec,refined liquids,1987,0
+24,chp_elec,refined liquids,1988,0
+24,chp_elec,refined liquids,1989,0
+24,chp_elec,refined liquids,1990,0
+24,chp_elec,refined liquids,1991,0
+24,chp_elec,refined liquids,1992,0
+24,chp_elec,refined liquids,1993,0
+24,chp_elec,refined liquids,1994,0
+24,chp_elec,refined liquids,1995,0
+24,chp_elec,refined liquids,1996,0
+24,chp_elec,refined liquids,1997,0
+24,chp_elec,refined liquids,1998,0
+24,chp_elec,refined liquids,1999,0
+24,chp_elec,refined liquids,2000,0
+24,chp_elec,refined liquids,2001,0
+24,chp_elec,refined liquids,2002,0
+24,chp_elec,refined liquids,2003,0
+24,chp_elec,refined liquids,2004,0
+24,chp_elec,refined liquids,2005,0
+24,chp_elec,refined liquids,2006,0
+24,chp_elec,refined liquids,2007,0
+24,chp_elec,refined liquids,2008,0
+24,chp_elec,refined liquids,2009,0
+24,chp_elec,refined liquids,2010,0
+24,chp_elec,refined liquids,2011,0
+24,chp_elec,refined liquids,2012,0
+24,chp_elec,refined liquids,2013,0
+24,chp_elec,refined liquids,2014,0
+24,chp_elec,refined liquids,2015,0
+25,chp_elec,biomass,1971,0
+25,chp_elec,biomass,1972,0
+25,chp_elec,biomass,1973,0
+25,chp_elec,biomass,1974,0
+25,chp_elec,biomass,1975,0
+25,chp_elec,biomass,1976,0
+25,chp_elec,biomass,1977,0
+25,chp_elec,biomass,1978,0
+25,chp_elec,biomass,1979,0
+25,chp_elec,biomass,1980,0
+25,chp_elec,biomass,1981,0
+25,chp_elec,biomass,1982,0
+25,chp_elec,biomass,1983,0
+25,chp_elec,biomass,1984,0
+25,chp_elec,biomass,1985,0
+25,chp_elec,biomass,1986,0
+25,chp_elec,biomass,1987,0
+25,chp_elec,biomass,1988,0
+25,chp_elec,biomass,1989,0
+25,chp_elec,biomass,1990,0
+25,chp_elec,biomass,1991,0
+25,chp_elec,biomass,1992,0
+25,chp_elec,biomass,1993,0
+25,chp_elec,biomass,1994,0
+25,chp_elec,biomass,1995,0
+25,chp_elec,biomass,1996,0
+25,chp_elec,biomass,1997,0
+25,chp_elec,biomass,1998,0
+25,chp_elec,biomass,1999,0
+25,chp_elec,biomass,2000,0
+25,chp_elec,biomass,2001,0
+25,chp_elec,biomass,2002,0
+25,chp_elec,biomass,2003,0
+25,chp_elec,biomass,2004,0
+25,chp_elec,biomass,2005,0
+25,chp_elec,biomass,2006,0
+25,chp_elec,biomass,2007,0
+25,chp_elec,biomass,2008,0
+25,chp_elec,biomass,2009,0
+25,chp_elec,biomass,2010,0
+25,chp_elec,biomass,2011,0
+25,chp_elec,biomass,2012,0
+25,chp_elec,biomass,2013,0
+25,chp_elec,biomass,2014,0
+25,chp_elec,biomass,2015,0
+25,chp_elec,coal,1971,0
+25,chp_elec,coal,1972,0
+25,chp_elec,coal,1973,0
+25,chp_elec,coal,1974,0
+25,chp_elec,coal,1975,0
+25,chp_elec,coal,1976,0
+25,chp_elec,coal,1977,0
+25,chp_elec,coal,1978,0
+25,chp_elec,coal,1979,0
+25,chp_elec,coal,1980,0
+25,chp_elec,coal,1981,0
+25,chp_elec,coal,1982,0
+25,chp_elec,coal,1983,0
+25,chp_elec,coal,1984,0
+25,chp_elec,coal,1985,0
+25,chp_elec,coal,1986,0
+25,chp_elec,coal,1987,0
+25,chp_elec,coal,1988,0
+25,chp_elec,coal,1989,0
+25,chp_elec,coal,1990,0
+25,chp_elec,coal,1991,0
+25,chp_elec,coal,1992,0
+25,chp_elec,coal,1993,0
+25,chp_elec,coal,1994,0
+25,chp_elec,coal,1995,0
+25,chp_elec,coal,1996,0
+25,chp_elec,coal,1997,0
+25,chp_elec,coal,1998,0
+25,chp_elec,coal,1999,0
+25,chp_elec,coal,2000,0
+25,chp_elec,coal,2001,0
+25,chp_elec,coal,2002,0
+25,chp_elec,coal,2003,0
+25,chp_elec,coal,2004,0
+25,chp_elec,coal,2005,0
+25,chp_elec,coal,2006,0
+25,chp_elec,coal,2007,0
+25,chp_elec,coal,2008,0
+25,chp_elec,coal,2009,0
+25,chp_elec,coal,2010,0
+25,chp_elec,coal,2011,0
+25,chp_elec,coal,2012,0
+25,chp_elec,coal,2013,0
+25,chp_elec,coal,2014,0
+25,chp_elec,coal,2015,0
+25,chp_elec,gas,1971,0
+25,chp_elec,gas,1972,0
+25,chp_elec,gas,1973,0
+25,chp_elec,gas,1974,0
+25,chp_elec,gas,1975,0
+25,chp_elec,gas,1976,0
+25,chp_elec,gas,1977,0
+25,chp_elec,gas,1978,0
+25,chp_elec,gas,1979,0
+25,chp_elec,gas,1980,0
+25,chp_elec,gas,1981,0
+25,chp_elec,gas,1982,0
+25,chp_elec,gas,1983,0
+25,chp_elec,gas,1984,0
+25,chp_elec,gas,1985,0
+25,chp_elec,gas,1986,0
+25,chp_elec,gas,1987,0
+25,chp_elec,gas,1988,0
+25,chp_elec,gas,1989,0
+25,chp_elec,gas,1990,0
+25,chp_elec,gas,1991,0
+25,chp_elec,gas,1992,0
+25,chp_elec,gas,1993,0
+25,chp_elec,gas,1994,0
+25,chp_elec,gas,1995,0
+25,chp_elec,gas,1996,0
+25,chp_elec,gas,1997,0
+25,chp_elec,gas,1998,0
+25,chp_elec,gas,1999,0
+25,chp_elec,gas,2000,0
+25,chp_elec,gas,2001,0
+25,chp_elec,gas,2002,0
+25,chp_elec,gas,2003,0
+25,chp_elec,gas,2004,0
+25,chp_elec,gas,2005,0
+25,chp_elec,gas,2006,0
+25,chp_elec,gas,2007,0
+25,chp_elec,gas,2008,0
+25,chp_elec,gas,2009,0
+25,chp_elec,gas,2010,0
+25,chp_elec,gas,2011,0
+25,chp_elec,gas,2012,0
+25,chp_elec,gas,2013,0
+25,chp_elec,gas,2014,0
+25,chp_elec,gas,2015,0
+25,chp_elec,refined liquids,1971,0
+25,chp_elec,refined liquids,1972,0
+25,chp_elec,refined liquids,1973,0
+25,chp_elec,refined liquids,1974,0
+25,chp_elec,refined liquids,1975,0
+25,chp_elec,refined liquids,1976,0
+25,chp_elec,refined liquids,1977,0
+25,chp_elec,refined liquids,1978,0
+25,chp_elec,refined liquids,1979,0
+25,chp_elec,refined liquids,1980,0
+25,chp_elec,refined liquids,1981,0
+25,chp_elec,refined liquids,1982,0
+25,chp_elec,refined liquids,1983,0
+25,chp_elec,refined liquids,1984,0
+25,chp_elec,refined liquids,1985,0
+25,chp_elec,refined liquids,1986,0
+25,chp_elec,refined liquids,1987,0
+25,chp_elec,refined liquids,1988,0
+25,chp_elec,refined liquids,1989,0
+25,chp_elec,refined liquids,1990,0
+25,chp_elec,refined liquids,1991,0
+25,chp_elec,refined liquids,1992,0
+25,chp_elec,refined liquids,1993,0
+25,chp_elec,refined liquids,1994,0
+25,chp_elec,refined liquids,1995,0
+25,chp_elec,refined liquids,1996,0
+25,chp_elec,refined liquids,1997,0
+25,chp_elec,refined liquids,1998,0
+25,chp_elec,refined liquids,1999,0
+25,chp_elec,refined liquids,2000,0
+25,chp_elec,refined liquids,2001,0
+25,chp_elec,refined liquids,2002,0
+25,chp_elec,refined liquids,2003,0
+25,chp_elec,refined liquids,2004,0
+25,chp_elec,refined liquids,2005,0
+25,chp_elec,refined liquids,2006,0
+25,chp_elec,refined liquids,2007,0
+25,chp_elec,refined liquids,2008,0
+25,chp_elec,refined liquids,2009,0
+25,chp_elec,refined liquids,2010,0
+25,chp_elec,refined liquids,2011,0
+25,chp_elec,refined liquids,2012,0
+25,chp_elec,refined liquids,2013,0
+25,chp_elec,refined liquids,2014,0
+25,chp_elec,refined liquids,2015,0
+26,chp_elec,biomass,1971,1.62e-4
+26,chp_elec,biomass,1972,1.7999999999999998e-4
+26,chp_elec,biomass,1973,1.62e-4
+26,chp_elec,biomass,1974,1.98e-4
+26,chp_elec,biomass,1975,1.62e-4
+26,chp_elec,biomass,1976,1.7999999999999998e-4
+26,chp_elec,biomass,1977,1.98e-4
+26,chp_elec,biomass,1978,1.7999999999999998e-4
+26,chp_elec,biomass,1979,1.62e-4
+26,chp_elec,biomass,1980,1.62e-4
+26,chp_elec,biomass,1981,1.98e-4
+26,chp_elec,biomass,1982,1.0800000000000001e-4
+26,chp_elec,biomass,1983,1.98e-4
+26,chp_elec,biomass,1984,1.7999999999999998e-4
+26,chp_elec,biomass,1985,2.3400000000000002e-4
+26,chp_elec,biomass,1986,2.52e-4
+26,chp_elec,biomass,1987,2.3400000000000002e-4
+26,chp_elec,biomass,1988,1.7999999999999998e-4
+26,chp_elec,biomass,1989,1.7999999999999998e-4
+26,chp_elec,biomass,1990,0.018072
+26,chp_elec,biomass,1991,0.01926
+26,chp_elec,biomass,1992,0.032202
+26,chp_elec,biomass,1993,0.032201999999999995
+26,chp_elec,biomass,1994,0.03285
+26,chp_elec,biomass,1995,0.034344
+26,chp_elec,biomass,1996,0.03195
+26,chp_elec,biomass,1997,0.027774000000000004
+26,chp_elec,biomass,1998,0.020088
+26,chp_elec,biomass,1999,0.017622
+26,chp_elec,biomass,2000,0.016146
+26,chp_elec,biomass,2001,0.035928
+26,chp_elec,biomass,2002,0.034416
+26,chp_elec,biomass,2003,0.03195
+26,chp_elec,biomass,2004,0.035784
+26,chp_elec,biomass,2005,0.03195
+26,chp_elec,biomass,2006,0.025146000000000005
+26,chp_elec,biomass,2007,0.049464
+26,chp_elec,biomass,2008,0.066456
+26,chp_elec,biomass,2009,0.086022
+26,chp_elec,biomass,2010,0.051894
+26,chp_elec,biomass,2011,0.09525600000000002
+26,chp_elec,biomass,2012,0.09961199999999999
+26,chp_elec,biomass,2013,0.112158
+26,chp_elec,biomass,2014,0.11619
+26,chp_elec,biomass,2015,0.126414
+26,chp_elec,coal,1971,0
+26,chp_elec,coal,1972,0
+26,chp_elec,coal,1973,0
+26,chp_elec,coal,1974,0
+26,chp_elec,coal,1975,0
+26,chp_elec,coal,1976,0
+26,chp_elec,coal,1977,0
+26,chp_elec,coal,1978,0
+26,chp_elec,coal,1979,0
+26,chp_elec,coal,1980,0
+26,chp_elec,coal,1981,0
+26,chp_elec,coal,1982,0
+26,chp_elec,coal,1983,0
+26,chp_elec,coal,1984,0
+26,chp_elec,coal,1985,0
+26,chp_elec,coal,1986,0
+26,chp_elec,coal,1987,0
+26,chp_elec,coal,1988,0
+26,chp_elec,coal,1989,0
+26,chp_elec,coal,1990,0
+26,chp_elec,coal,1991,0
+26,chp_elec,coal,1992,0
+26,chp_elec,coal,1993,0
+26,chp_elec,coal,1994,0
+26,chp_elec,coal,1995,0
+26,chp_elec,coal,1996,0
+26,chp_elec,coal,1997,0
+26,chp_elec,coal,1998,0
+26,chp_elec,coal,1999,0
+26,chp_elec,coal,2000,0
+26,chp_elec,coal,2001,0
+26,chp_elec,coal,2002,0
+26,chp_elec,coal,2003,0
+26,chp_elec,coal,2004,0
+26,chp_elec,coal,2005,0
+26,chp_elec,coal,2006,0
+26,chp_elec,coal,2007,0
+26,chp_elec,coal,2008,0
+26,chp_elec,coal,2009,0
+26,chp_elec,coal,2010,0
+26,chp_elec,coal,2011,0
+26,chp_elec,coal,2012,0
+26,chp_elec,coal,2013,0
+26,chp_elec,coal,2014,0
+26,chp_elec,coal,2015,0
+26,chp_elec,gas,1971,0
+26,chp_elec,gas,1972,0
+26,chp_elec,gas,1973,0
+26,chp_elec,gas,1974,0
+26,chp_elec,gas,1975,0
+26,chp_elec,gas,1976,0
+26,chp_elec,gas,1977,0
+26,chp_elec,gas,1978,0
+26,chp_elec,gas,1979,0
+26,chp_elec,gas,1980,0
+26,chp_elec,gas,1981,0
+26,chp_elec,gas,1982,0
+26,chp_elec,gas,1983,0
+26,chp_elec,gas,1984,0
+26,chp_elec,gas,1985,0
+26,chp_elec,gas,1986,0
+26,chp_elec,gas,1987,0
+26,chp_elec,gas,1988,0
+26,chp_elec,gas,1989,0
+26,chp_elec,gas,1990,0
+26,chp_elec,gas,1991,0
+26,chp_elec,gas,1992,0
+26,chp_elec,gas,1993,0
+26,chp_elec,gas,1994,0
+26,chp_elec,gas,1995,0
+26,chp_elec,gas,1996,0
+26,chp_elec,gas,1997,0
+26,chp_elec,gas,1998,0
+26,chp_elec,gas,1999,0
+26,chp_elec,gas,2000,0
+26,chp_elec,gas,2001,0
+26,chp_elec,gas,2002,0
+26,chp_elec,gas,2003,0
+26,chp_elec,gas,2004,0
+26,chp_elec,gas,2005,0
+26,chp_elec,gas,2006,0
+26,chp_elec,gas,2007,0
+26,chp_elec,gas,2008,0
+26,chp_elec,gas,2009,4.0320000000000004e-4
+26,chp_elec,gas,2010,0.0010224000000000001
+26,chp_elec,gas,2011,0
+26,chp_elec,gas,2012,0
+26,chp_elec,gas,2013,0
+26,chp_elec,gas,2014,0
+26,chp_elec,gas,2015,0
+26,chp_elec,refined liquids,1971,0
+26,chp_elec,refined liquids,1972,0
+26,chp_elec,refined liquids,1973,0
+26,chp_elec,refined liquids,1974,0
+26,chp_elec,refined liquids,1975,0
+26,chp_elec,refined liquids,1976,0
+26,chp_elec,refined liquids,1977,0
+26,chp_elec,refined liquids,1978,0
+26,chp_elec,refined liquids,1979,0
+26,chp_elec,refined liquids,1980,0
+26,chp_elec,refined liquids,1981,0
+26,chp_elec,refined liquids,1982,0
+26,chp_elec,refined liquids,1983,0
+26,chp_elec,refined liquids,1984,0
+26,chp_elec,refined liquids,1985,0
+26,chp_elec,refined liquids,1986,0
+26,chp_elec,refined liquids,1987,0
+26,chp_elec,refined liquids,1988,0
+26,chp_elec,refined liquids,1989,0
+26,chp_elec,refined liquids,1990,0
+26,chp_elec,refined liquids,1991,0
+26,chp_elec,refined liquids,1992,0
+26,chp_elec,refined liquids,1993,0
+26,chp_elec,refined liquids,1994,0
+26,chp_elec,refined liquids,1995,0
+26,chp_elec,refined liquids,1996,0
+26,chp_elec,refined liquids,1997,0
+26,chp_elec,refined liquids,1998,0
+26,chp_elec,refined liquids,1999,0
+26,chp_elec,refined liquids,2000,0
+26,chp_elec,refined liquids,2001,0
+26,chp_elec,refined liquids,2002,0
+26,chp_elec,refined liquids,2003,0
+26,chp_elec,refined liquids,2004,0
+26,chp_elec,refined liquids,2005,0
+26,chp_elec,refined liquids,2006,0
+26,chp_elec,refined liquids,2007,0
+26,chp_elec,refined liquids,2008,0
+26,chp_elec,refined liquids,2009,0.0088704
+26,chp_elec,refined liquids,2010,0.012283200000000001
+26,chp_elec,refined liquids,2011,0
+26,chp_elec,refined liquids,2012,0
+26,chp_elec,refined liquids,2013,0
+26,chp_elec,refined liquids,2014,0
+26,chp_elec,refined liquids,2015,0
+27,chp_elec,biomass,1971,0
+27,chp_elec,biomass,1972,0
+27,chp_elec,biomass,1973,0
+27,chp_elec,biomass,1974,0
+27,chp_elec,biomass,1975,0
+27,chp_elec,biomass,1976,0
+27,chp_elec,biomass,1977,0
+27,chp_elec,biomass,1978,0
+27,chp_elec,biomass,1979,0
+27,chp_elec,biomass,1980,0
+27,chp_elec,biomass,1981,0
+27,chp_elec,biomass,1982,0
+27,chp_elec,biomass,1983,0
+27,chp_elec,biomass,1984,0
+27,chp_elec,biomass,1985,0
+27,chp_elec,biomass,1986,0
+27,chp_elec,biomass,1987,0
+27,chp_elec,biomass,1988,0
+27,chp_elec,biomass,1989,0
+27,chp_elec,biomass,1990,0
+27,chp_elec,biomass,1991,0
+27,chp_elec,biomass,1992,0
+27,chp_elec,biomass,1993,0
+27,chp_elec,biomass,1994,0
+27,chp_elec,biomass,1995,0
+27,chp_elec,biomass,1996,0
+27,chp_elec,biomass,1997,0
+27,chp_elec,biomass,1998,0
+27,chp_elec,biomass,1999,0
+27,chp_elec,biomass,2000,0
+27,chp_elec,biomass,2001,0
+27,chp_elec,biomass,2002,0
+27,chp_elec,biomass,2003,0
+27,chp_elec,biomass,2004,0
+27,chp_elec,biomass,2005,0
+27,chp_elec,biomass,2006,0
+27,chp_elec,biomass,2007,0
+27,chp_elec,biomass,2008,0
+27,chp_elec,biomass,2009,0
+27,chp_elec,biomass,2010,0
+27,chp_elec,biomass,2011,0
+27,chp_elec,biomass,2012,0
+27,chp_elec,biomass,2013,0
+27,chp_elec,biomass,2014,0
+27,chp_elec,biomass,2015,0
+27,chp_elec,coal,1971,0
+27,chp_elec,coal,1972,0
+27,chp_elec,coal,1973,0
+27,chp_elec,coal,1974,0
+27,chp_elec,coal,1975,0
+27,chp_elec,coal,1976,0
+27,chp_elec,coal,1977,0
+27,chp_elec,coal,1978,0
+27,chp_elec,coal,1979,0
+27,chp_elec,coal,1980,0
+27,chp_elec,coal,1981,0
+27,chp_elec,coal,1982,0
+27,chp_elec,coal,1983,0
+27,chp_elec,coal,1984,0
+27,chp_elec,coal,1985,0
+27,chp_elec,coal,1986,0
+27,chp_elec,coal,1987,0
+27,chp_elec,coal,1988,0
+27,chp_elec,coal,1989,0
+27,chp_elec,coal,1990,0
+27,chp_elec,coal,1991,0
+27,chp_elec,coal,1992,0
+27,chp_elec,coal,1993,0
+27,chp_elec,coal,1994,0
+27,chp_elec,coal,1995,0
+27,chp_elec,coal,1996,0
+27,chp_elec,coal,1997,0
+27,chp_elec,coal,1998,0
+27,chp_elec,coal,1999,0
+27,chp_elec,coal,2000,0
+27,chp_elec,coal,2001,0
+27,chp_elec,coal,2002,0
+27,chp_elec,coal,2003,0
+27,chp_elec,coal,2004,0
+27,chp_elec,coal,2005,0
+27,chp_elec,coal,2006,0
+27,chp_elec,coal,2007,0
+27,chp_elec,coal,2008,0
+27,chp_elec,coal,2009,0
+27,chp_elec,coal,2010,0
+27,chp_elec,coal,2011,0
+27,chp_elec,coal,2012,0
+27,chp_elec,coal,2013,0
+27,chp_elec,coal,2014,0
+27,chp_elec,coal,2015,0
+27,chp_elec,gas,1971,0
+27,chp_elec,gas,1972,0
+27,chp_elec,gas,1973,0
+27,chp_elec,gas,1974,0
+27,chp_elec,gas,1975,0
+27,chp_elec,gas,1976,0
+27,chp_elec,gas,1977,0
+27,chp_elec,gas,1978,0
+27,chp_elec,gas,1979,0
+27,chp_elec,gas,1980,0
+27,chp_elec,gas,1981,0
+27,chp_elec,gas,1982,0
+27,chp_elec,gas,1983,0
+27,chp_elec,gas,1984,0
+27,chp_elec,gas,1985,0
+27,chp_elec,gas,1986,0
+27,chp_elec,gas,1987,0
+27,chp_elec,gas,1988,0
+27,chp_elec,gas,1989,0
+27,chp_elec,gas,1990,0
+27,chp_elec,gas,1991,0
+27,chp_elec,gas,1992,0
+27,chp_elec,gas,1993,0
+27,chp_elec,gas,1994,0
+27,chp_elec,gas,1995,0
+27,chp_elec,gas,1996,0
+27,chp_elec,gas,1997,0
+27,chp_elec,gas,1998,0
+27,chp_elec,gas,1999,0
+27,chp_elec,gas,2000,0
+27,chp_elec,gas,2001,0
+27,chp_elec,gas,2002,0
+27,chp_elec,gas,2003,0
+27,chp_elec,gas,2004,0
+27,chp_elec,gas,2005,0
+27,chp_elec,gas,2006,0
+27,chp_elec,gas,2007,0
+27,chp_elec,gas,2008,0
+27,chp_elec,gas,2009,0
+27,chp_elec,gas,2010,0
+27,chp_elec,gas,2011,0
+27,chp_elec,gas,2012,0
+27,chp_elec,gas,2013,0
+27,chp_elec,gas,2014,0
+27,chp_elec,gas,2015,0
+27,chp_elec,refined liquids,1971,0
+27,chp_elec,refined liquids,1972,0
+27,chp_elec,refined liquids,1973,0
+27,chp_elec,refined liquids,1974,0
+27,chp_elec,refined liquids,1975,0
+27,chp_elec,refined liquids,1976,0
+27,chp_elec,refined liquids,1977,0
+27,chp_elec,refined liquids,1978,0
+27,chp_elec,refined liquids,1979,0
+27,chp_elec,refined liquids,1980,0
+27,chp_elec,refined liquids,1981,0
+27,chp_elec,refined liquids,1982,0
+27,chp_elec,refined liquids,1983,0
+27,chp_elec,refined liquids,1984,0
+27,chp_elec,refined liquids,1985,0
+27,chp_elec,refined liquids,1986,0
+27,chp_elec,refined liquids,1987,0
+27,chp_elec,refined liquids,1988,0
+27,chp_elec,refined liquids,1989,0
+27,chp_elec,refined liquids,1990,0
+27,chp_elec,refined liquids,1991,0
+27,chp_elec,refined liquids,1992,0
+27,chp_elec,refined liquids,1993,0
+27,chp_elec,refined liquids,1994,0
+27,chp_elec,refined liquids,1995,0
+27,chp_elec,refined liquids,1996,0
+27,chp_elec,refined liquids,1997,0
+27,chp_elec,refined liquids,1998,0
+27,chp_elec,refined liquids,1999,0
+27,chp_elec,refined liquids,2000,0
+27,chp_elec,refined liquids,2001,0
+27,chp_elec,refined liquids,2002,0
+27,chp_elec,refined liquids,2003,0
+27,chp_elec,refined liquids,2004,0
+27,chp_elec,refined liquids,2005,0
+27,chp_elec,refined liquids,2006,0
+27,chp_elec,refined liquids,2007,0
+27,chp_elec,refined liquids,2008,0
+27,chp_elec,refined liquids,2009,0
+27,chp_elec,refined liquids,2010,0
+27,chp_elec,refined liquids,2011,0
+27,chp_elec,refined liquids,2012,0
+27,chp_elec,refined liquids,2013,0
+27,chp_elec,refined liquids,2014,0
+27,chp_elec,refined liquids,2015,0
+28,chp_elec,biomass,1971,0
+28,chp_elec,biomass,1972,0
+28,chp_elec,biomass,1973,0
+28,chp_elec,biomass,1974,0
+28,chp_elec,biomass,1975,0
+28,chp_elec,biomass,1976,0
+28,chp_elec,biomass,1977,0
+28,chp_elec,biomass,1978,0
+28,chp_elec,biomass,1979,0
+28,chp_elec,biomass,1980,0
+28,chp_elec,biomass,1981,0
+28,chp_elec,biomass,1982,0
+28,chp_elec,biomass,1983,0
+28,chp_elec,biomass,1984,0
+28,chp_elec,biomass,1985,0
+28,chp_elec,biomass,1986,0
+28,chp_elec,biomass,1987,0
+28,chp_elec,biomass,1988,0
+28,chp_elec,biomass,1989,0
+28,chp_elec,biomass,1990,0
+28,chp_elec,biomass,1991,0
+28,chp_elec,biomass,1992,0
+28,chp_elec,biomass,1993,0
+28,chp_elec,biomass,1994,0
+28,chp_elec,biomass,1995,0
+28,chp_elec,biomass,1996,0
+28,chp_elec,biomass,1997,3.6e-5
+28,chp_elec,biomass,1998,5.4000000000000005e-5
+28,chp_elec,biomass,1999,4.68e-4
+28,chp_elec,biomass,2000,6.48e-4
+28,chp_elec,biomass,2001,9.540000000000001e-4
+28,chp_elec,biomass,2002,0.0017280000000000002
+28,chp_elec,biomass,2003,0.001782
+28,chp_elec,biomass,2004,0.0020700000000000002
+28,chp_elec,biomass,2005,0.0021420000000000002
+28,chp_elec,biomass,2006,0.0024660000000000003
+28,chp_elec,biomass,2007,0.00351
+28,chp_elec,biomass,2008,0.002862
+28,chp_elec,biomass,2009,0.0038520000000000004
+28,chp_elec,biomass,2010,0.004122
+28,chp_elec,biomass,2011,0.007308
+28,chp_elec,biomass,2012,0.007272
+28,chp_elec,biomass,2013,0.007722
+28,chp_elec,biomass,2014,0.0066240000000000005
+28,chp_elec,biomass,2015,0.004248
+28,chp_elec,coal,1971,0
+28,chp_elec,coal,1972,0
+28,chp_elec,coal,1973,0
+28,chp_elec,coal,1974,0
+28,chp_elec,coal,1975,0
+28,chp_elec,coal,1976,0
+28,chp_elec,coal,1977,0
+28,chp_elec,coal,1978,0
+28,chp_elec,coal,1979,0
+28,chp_elec,coal,1980,0
+28,chp_elec,coal,1981,0
+28,chp_elec,coal,1982,0
+28,chp_elec,coal,1983,0
+28,chp_elec,coal,1984,0
+28,chp_elec,coal,1985,0
+28,chp_elec,coal,1986,0
+28,chp_elec,coal,1987,0
+28,chp_elec,coal,1988,0
+28,chp_elec,coal,1989,0
+28,chp_elec,coal,1990,0.0848304
+28,chp_elec,coal,1991,0.07954560000000001
+28,chp_elec,coal,1992,0.060192
+28,chp_elec,coal,1993,0.143928
+28,chp_elec,coal,1994,0.1411056
+28,chp_elec,coal,1995,0.1426032
+28,chp_elec,coal,1996,0.14561280000000001
+28,chp_elec,coal,1997,0.1471104
+28,chp_elec,coal,1998,0.14785920000000002
+28,chp_elec,coal,1999,0.14860800000000002
+28,chp_elec,coal,2000,0.1917648
+28,chp_elec,coal,2001,0.180864
+28,chp_elec,coal,2002,0.22775040000000002
+28,chp_elec,coal,2003,0.2008224
+28,chp_elec,coal,2004,0.2127456
+28,chp_elec,coal,2005,0.21195360000000002
+28,chp_elec,coal,2006,0.1908
+28,chp_elec,coal,2007,0.2237184
+28,chp_elec,coal,2008,0.25629120000000005
+28,chp_elec,coal,2009,0.21939840000000002
+28,chp_elec,coal,2010,0.270504
+28,chp_elec,coal,2011,0.2878272
+28,chp_elec,coal,2012,0.29849760000000003
+28,chp_elec,coal,2013,0.26282880000000003
+28,chp_elec,coal,2014,0.2790144
+28,chp_elec,coal,2015,0.2966976
+28,chp_elec,gas,1971,0
+28,chp_elec,gas,1972,0
+28,chp_elec,gas,1973,0
+28,chp_elec,gas,1974,0
+28,chp_elec,gas,1975,0
+28,chp_elec,gas,1976,0
+28,chp_elec,gas,1977,0
+28,chp_elec,gas,1978,0
+28,chp_elec,gas,1979,0
+28,chp_elec,gas,1980,0
+28,chp_elec,gas,1981,0
+28,chp_elec,gas,1982,0
+28,chp_elec,gas,1983,0
+28,chp_elec,gas,1984,0
+28,chp_elec,gas,1985,0
+28,chp_elec,gas,1986,0
+28,chp_elec,gas,1987,0
+28,chp_elec,gas,1988,0
+28,chp_elec,gas,1989,0
+28,chp_elec,gas,1990,0
+28,chp_elec,gas,1991,0
+28,chp_elec,gas,1992,0
+28,chp_elec,gas,1993,0
+28,chp_elec,gas,1994,0
+28,chp_elec,gas,1995,0
+28,chp_elec,gas,1996,0
+28,chp_elec,gas,1997,0
+28,chp_elec,gas,1998,0
+28,chp_elec,gas,1999,0
+28,chp_elec,gas,2000,0.012657600000000001
+28,chp_elec,gas,2001,0.0381888
+28,chp_elec,gas,2002,0.0351216
+28,chp_elec,gas,2003,0.0321984
+28,chp_elec,gas,2004,0.048153600000000005
+28,chp_elec,gas,2005,0.044654400000000004
+28,chp_elec,gas,2006,0.051393600000000005
+28,chp_elec,gas,2007,0.038577600000000004
+28,chp_elec,gas,2008,0.027950400000000004
+28,chp_elec,gas,2009,0.0289872
+28,chp_elec,gas,2010,0.031608000000000004
+28,chp_elec,gas,2011,0.0356544
+28,chp_elec,gas,2012,0.0399168
+28,chp_elec,gas,2013,0.0358992
+28,chp_elec,gas,2014,0.0421632
+28,chp_elec,gas,2015,0.0432576
+28,chp_elec,refined liquids,1971,0
+28,chp_elec,refined liquids,1972,0
+28,chp_elec,refined liquids,1973,0
+28,chp_elec,refined liquids,1974,0
+28,chp_elec,refined liquids,1975,0
+28,chp_elec,refined liquids,1976,0
+28,chp_elec,refined liquids,1977,0
+28,chp_elec,refined liquids,1978,0
+28,chp_elec,refined liquids,1979,0
+28,chp_elec,refined liquids,1980,0
+28,chp_elec,refined liquids,1981,0
+28,chp_elec,refined liquids,1982,0
+28,chp_elec,refined liquids,1983,0
+28,chp_elec,refined liquids,1984,0
+28,chp_elec,refined liquids,1985,0
+28,chp_elec,refined liquids,1986,0
+28,chp_elec,refined liquids,1987,0
+28,chp_elec,refined liquids,1988,0
+28,chp_elec,refined liquids,1989,0
+28,chp_elec,refined liquids,1990,0
+28,chp_elec,refined liquids,1991,0
+28,chp_elec,refined liquids,1992,0
+28,chp_elec,refined liquids,1993,0
+28,chp_elec,refined liquids,1994,0
+28,chp_elec,refined liquids,1995,0
+28,chp_elec,refined liquids,1996,0
+28,chp_elec,refined liquids,1997,0
+28,chp_elec,refined liquids,1998,0
+28,chp_elec,refined liquids,1999,0
+28,chp_elec,refined liquids,2000,0.11090880000000002
+28,chp_elec,refined liquids,2001,0.1032768
+28,chp_elec,refined liquids,2002,0.1444464
+28,chp_elec,refined liquids,2003,0.1091232
+28,chp_elec,refined liquids,2004,0.0921744
+28,chp_elec,refined liquids,2005,0.07129440000000001
+28,chp_elec,refined liquids,2006,0.06392160000000001
+28,chp_elec,refined liquids,2007,0.0654768
+28,chp_elec,refined liquids,2008,0.042163200000000005
+28,chp_elec,refined liquids,2009,0.0546624
+28,chp_elec,refined liquids,2010,0.057196800000000006
+28,chp_elec,refined liquids,2011,0.043084800000000006
+28,chp_elec,refined liquids,2012,0.0495504
+28,chp_elec,refined liquids,2013,0.0463968
+28,chp_elec,refined liquids,2014,0.0949968
+28,chp_elec,refined liquids,2015,0.027835200000000004
+29,chp_elec,biomass,1971,0
+29,chp_elec,biomass,1972,0
+29,chp_elec,biomass,1973,0
+29,chp_elec,biomass,1974,0
+29,chp_elec,biomass,1975,0
+29,chp_elec,biomass,1976,0
+29,chp_elec,biomass,1977,0
+29,chp_elec,biomass,1978,0
+29,chp_elec,biomass,1979,0
+29,chp_elec,biomass,1980,0
+29,chp_elec,biomass,1981,0
+29,chp_elec,biomass,1982,0
+29,chp_elec,biomass,1983,0
+29,chp_elec,biomass,1984,0
+29,chp_elec,biomass,1985,0
+29,chp_elec,biomass,1986,0
+29,chp_elec,biomass,1987,0
+29,chp_elec,biomass,1988,0
+29,chp_elec,biomass,1989,0
+29,chp_elec,biomass,1990,0
+29,chp_elec,biomass,1991,0
+29,chp_elec,biomass,1992,0
+29,chp_elec,biomass,1993,0
+29,chp_elec,biomass,1994,0
+29,chp_elec,biomass,1995,0
+29,chp_elec,biomass,1996,0
+29,chp_elec,biomass,1997,0
+29,chp_elec,biomass,1998,0
+29,chp_elec,biomass,1999,0
+29,chp_elec,biomass,2000,0
+29,chp_elec,biomass,2001,0
+29,chp_elec,biomass,2002,0
+29,chp_elec,biomass,2003,0
+29,chp_elec,biomass,2004,0
+29,chp_elec,biomass,2005,0
+29,chp_elec,biomass,2006,0
+29,chp_elec,biomass,2007,0
+29,chp_elec,biomass,2008,0
+29,chp_elec,biomass,2009,0
+29,chp_elec,biomass,2010,0
+29,chp_elec,biomass,2011,3.5137917919355124e-6
+29,chp_elec,biomass,2012,3.2963020526476002e-6
+29,chp_elec,biomass,2013,3.2338023713701272e-6
+29,chp_elec,biomass,2014,3.180840206276561e-6
+29,chp_elec,biomass,2015,3.1582863386283025e-6
+29,chp_elec,coal,1971,0
+29,chp_elec,coal,1972,0
+29,chp_elec,coal,1973,0
+29,chp_elec,coal,1974,0
+29,chp_elec,coal,1975,0
+29,chp_elec,coal,1976,0
+29,chp_elec,coal,1977,0
+29,chp_elec,coal,1978,0
+29,chp_elec,coal,1979,0
+29,chp_elec,coal,1980,0
+29,chp_elec,coal,1981,0
+29,chp_elec,coal,1982,0
+29,chp_elec,coal,1983,0
+29,chp_elec,coal,1984,0
+29,chp_elec,coal,1985,0
+29,chp_elec,coal,1986,0
+29,chp_elec,coal,1987,0
+29,chp_elec,coal,1988,0
+29,chp_elec,coal,1989,0
+29,chp_elec,coal,1990,0
+29,chp_elec,coal,1991,0
+29,chp_elec,coal,1992,0
+29,chp_elec,coal,1993,0
+29,chp_elec,coal,1994,0
+29,chp_elec,coal,1995,0
+29,chp_elec,coal,1996,0
+29,chp_elec,coal,1997,0
+29,chp_elec,coal,1998,0
+29,chp_elec,coal,1999,0
+29,chp_elec,coal,2000,0
+29,chp_elec,coal,2001,0
+29,chp_elec,coal,2002,0
+29,chp_elec,coal,2003,0
+29,chp_elec,coal,2004,0
+29,chp_elec,coal,2005,0
+29,chp_elec,coal,2006,0
+29,chp_elec,coal,2007,0
+29,chp_elec,coal,2008,0
+29,chp_elec,coal,2009,0
+29,chp_elec,coal,2010,0
+29,chp_elec,coal,2011,0
+29,chp_elec,coal,2012,0
+29,chp_elec,coal,2013,0
+29,chp_elec,coal,2014,0
+29,chp_elec,coal,2015,0
+29,chp_elec,gas,1971,0
+29,chp_elec,gas,1972,0
+29,chp_elec,gas,1973,0
+29,chp_elec,gas,1974,0
+29,chp_elec,gas,1975,0
+29,chp_elec,gas,1976,0
+29,chp_elec,gas,1977,0
+29,chp_elec,gas,1978,0
+29,chp_elec,gas,1979,0
+29,chp_elec,gas,1980,0
+29,chp_elec,gas,1981,0
+29,chp_elec,gas,1982,0
+29,chp_elec,gas,1983,0
+29,chp_elec,gas,1984,0
+29,chp_elec,gas,1985,0
+29,chp_elec,gas,1986,0
+29,chp_elec,gas,1987,0
+29,chp_elec,gas,1988,0
+29,chp_elec,gas,1989,0
+29,chp_elec,gas,1990,0
+29,chp_elec,gas,1991,0
+29,chp_elec,gas,1992,0
+29,chp_elec,gas,1993,0
+29,chp_elec,gas,1994,0
+29,chp_elec,gas,1995,0
+29,chp_elec,gas,1996,0
+29,chp_elec,gas,1997,0
+29,chp_elec,gas,1998,0
+29,chp_elec,gas,1999,0
+29,chp_elec,gas,2000,0
+29,chp_elec,gas,2001,0
+29,chp_elec,gas,2002,0
+29,chp_elec,gas,2003,0.0054288
+29,chp_elec,gas,2004,0.0051552
+29,chp_elec,gas,2005,0.0050544000000000006
+29,chp_elec,gas,2006,0.00504
+29,chp_elec,gas,2007,0.00504
+29,chp_elec,gas,2008,0.0050688
+29,chp_elec,gas,2009,0.0049392
+29,chp_elec,gas,2010,0.0050688
+29,chp_elec,gas,2011,0.004752
+29,chp_elec,gas,2012,0.005846400000000001
+29,chp_elec,gas,2013,0.0066240000000000005
+29,chp_elec,gas,2014,0.0071424
+29,chp_elec,gas,2015,0.0066528
+29,chp_elec,refined liquids,1971,0
+29,chp_elec,refined liquids,1972,0
+29,chp_elec,refined liquids,1973,0
+29,chp_elec,refined liquids,1974,0
+29,chp_elec,refined liquids,1975,0
+29,chp_elec,refined liquids,1976,0
+29,chp_elec,refined liquids,1977,0
+29,chp_elec,refined liquids,1978,0
+29,chp_elec,refined liquids,1979,0
+29,chp_elec,refined liquids,1980,0
+29,chp_elec,refined liquids,1981,0
+29,chp_elec,refined liquids,1982,0
+29,chp_elec,refined liquids,1983,0
+29,chp_elec,refined liquids,1984,0
+29,chp_elec,refined liquids,1985,0
+29,chp_elec,refined liquids,1986,0
+29,chp_elec,refined liquids,1987,0
+29,chp_elec,refined liquids,1988,0
+29,chp_elec,refined liquids,1989,0
+29,chp_elec,refined liquids,1990,0
+29,chp_elec,refined liquids,1991,0
+29,chp_elec,refined liquids,1992,0
+29,chp_elec,refined liquids,1993,0
+29,chp_elec,refined liquids,1994,0
+29,chp_elec,refined liquids,1995,0
+29,chp_elec,refined liquids,1996,0
+29,chp_elec,refined liquids,1997,0
+29,chp_elec,refined liquids,1998,0
+29,chp_elec,refined liquids,1999,0
+29,chp_elec,refined liquids,2000,0
+29,chp_elec,refined liquids,2001,0
+29,chp_elec,refined liquids,2002,0
+29,chp_elec,refined liquids,2003,0
+29,chp_elec,refined liquids,2004,0
+29,chp_elec,refined liquids,2005,0
+29,chp_elec,refined liquids,2006,0
+29,chp_elec,refined liquids,2007,0
+29,chp_elec,refined liquids,2008,0
+29,chp_elec,refined liquids,2009,0
+29,chp_elec,refined liquids,2010,0
+29,chp_elec,refined liquids,2011,0
+29,chp_elec,refined liquids,2012,0
+29,chp_elec,refined liquids,2013,0
+29,chp_elec,refined liquids,2014,0
+29,chp_elec,refined liquids,2015,0
+30,chp_elec,biomass,1971,0
+30,chp_elec,biomass,1972,0
+30,chp_elec,biomass,1973,0
+30,chp_elec,biomass,1974,0
+30,chp_elec,biomass,1975,0
+30,chp_elec,biomass,1976,0
+30,chp_elec,biomass,1977,0
+30,chp_elec,biomass,1978,0
+30,chp_elec,biomass,1979,0
+30,chp_elec,biomass,1980,0
+30,chp_elec,biomass,1981,0
+30,chp_elec,biomass,1982,0
+30,chp_elec,biomass,1983,0
+30,chp_elec,biomass,1984,0
+30,chp_elec,biomass,1985,0
+30,chp_elec,biomass,1986,0
+30,chp_elec,biomass,1987,0
+30,chp_elec,biomass,1988,0
+30,chp_elec,biomass,1989,0
+30,chp_elec,biomass,1990,0
+30,chp_elec,biomass,1991,0
+30,chp_elec,biomass,1992,0
+30,chp_elec,biomass,1993,0
+30,chp_elec,biomass,1994,0
+30,chp_elec,biomass,1995,0
+30,chp_elec,biomass,1996,0
+30,chp_elec,biomass,1997,0
+30,chp_elec,biomass,1998,0
+30,chp_elec,biomass,1999,0
+30,chp_elec,biomass,2000,0
+30,chp_elec,biomass,2001,0
+30,chp_elec,biomass,2002,0
+30,chp_elec,biomass,2003,0
+30,chp_elec,biomass,2004,0
+30,chp_elec,biomass,2005,0
+30,chp_elec,biomass,2006,0
+30,chp_elec,biomass,2007,0
+30,chp_elec,biomass,2008,0
+30,chp_elec,biomass,2009,0
+30,chp_elec,biomass,2010,0
+30,chp_elec,biomass,2011,0
+30,chp_elec,biomass,2012,0
+30,chp_elec,biomass,2013,0
+30,chp_elec,biomass,2014,0
+30,chp_elec,biomass,2015,0
+30,chp_elec,coal,1971,0
+30,chp_elec,coal,1972,0
+30,chp_elec,coal,1973,0
+30,chp_elec,coal,1974,0
+30,chp_elec,coal,1975,0
+30,chp_elec,coal,1976,0
+30,chp_elec,coal,1977,0
+30,chp_elec,coal,1978,0
+30,chp_elec,coal,1979,0
+30,chp_elec,coal,1980,0
+30,chp_elec,coal,1981,0
+30,chp_elec,coal,1982,0
+30,chp_elec,coal,1983,0.0118224
+30,chp_elec,coal,1984,0.0106128
+30,chp_elec,coal,1985,0.010814400000000002
+30,chp_elec,coal,1986,0.010641600000000001
+30,chp_elec,coal,1987,0.011448000000000002
+30,chp_elec,coal,1988,0.021240000000000002
+30,chp_elec,coal,1989,0.0291456
+30,chp_elec,coal,1990,0.040348800000000004
+30,chp_elec,coal,1991,0.0606384
+30,chp_elec,coal,1992,0.09512640000000001
+30,chp_elec,coal,1993,0.11898720000000002
+30,chp_elec,coal,1994,0.12502080000000002
+30,chp_elec,coal,1995,0.141624
+30,chp_elec,coal,1996,0.16536960000000003
+30,chp_elec,coal,1997,0.1754928
+30,chp_elec,coal,1998,0.17966880000000002
+30,chp_elec,coal,1999,0.21561120000000003
+30,chp_elec,coal,2000,0.333
+30,chp_elec,coal,2001,0.35671680000000006
+30,chp_elec,coal,2002,0.38315520000000003
+30,chp_elec,coal,2003,0.43316640000000006
+30,chp_elec,coal,2004,0.47448000000000007
+30,chp_elec,coal,2005,0.4657104
+30,chp_elec,coal,2006,0.468
+30,chp_elec,coal,2007,0.49412160000000005
+30,chp_elec,coal,2008,0.43755840000000007
+30,chp_elec,coal,2009,0.4444128
+30,chp_elec,coal,2010,0.45109440000000006
+30,chp_elec,coal,2011,0.44526240000000006
+30,chp_elec,coal,2012,0.4188096
+30,chp_elec,coal,2013,0.4602816
+30,chp_elec,coal,2014,0.4751712
+30,chp_elec,coal,2015,0.45020160000000004
+30,chp_elec,gas,1971,0
+30,chp_elec,gas,1972,0
+30,chp_elec,gas,1973,0
+30,chp_elec,gas,1974,0
+30,chp_elec,gas,1975,0
+30,chp_elec,gas,1976,0
+30,chp_elec,gas,1977,0
+30,chp_elec,gas,1978,0
+30,chp_elec,gas,1979,0
+30,chp_elec,gas,1980,0
+30,chp_elec,gas,1981,0
+30,chp_elec,gas,1982,0
+30,chp_elec,gas,1983,0
+30,chp_elec,gas,1984,0
+30,chp_elec,gas,1985,0
+30,chp_elec,gas,1986,0
+30,chp_elec,gas,1987,0
+30,chp_elec,gas,1988,0
+30,chp_elec,gas,1989,8.496e-4
+30,chp_elec,gas,1990,0.0030096000000000003
+30,chp_elec,gas,1991,0.004392
+30,chp_elec,gas,1992,0.0038016000000000005
+30,chp_elec,gas,1993,0.004104
+30,chp_elec,gas,1994,0.004824
+30,chp_elec,gas,1995,0.0046944000000000005
+30,chp_elec,gas,1996,0.0043632
+30,chp_elec,gas,1997,0.0045792
+30,chp_elec,gas,1998,0.005904
+30,chp_elec,gas,1999,0.010497600000000001
+30,chp_elec,gas,2000,0.014313600000000001
+30,chp_elec,gas,2001,0.016070400000000002
+30,chp_elec,gas,2002,0.016704
+30,chp_elec,gas,2003,0.016632
+30,chp_elec,gas,2004,0.016776000000000003
+30,chp_elec,gas,2005,0.0113904
+30,chp_elec,gas,2006,0.0101664
+30,chp_elec,gas,2007,0.010209600000000001
+30,chp_elec,gas,2008,0.008712000000000001
+30,chp_elec,gas,2009,0.0074016
+30,chp_elec,gas,2010,0.007200000000000001
+30,chp_elec,gas,2011,0.0062496
+30,chp_elec,gas,2012,0.005486400000000001
+30,chp_elec,gas,2013,0.0048384000000000005
+30,chp_elec,gas,2014,0.0048672
+30,chp_elec,gas,2015,0.0045792
+30,chp_elec,refined liquids,1971,0
+30,chp_elec,refined liquids,1972,0
+30,chp_elec,refined liquids,1973,0
+30,chp_elec,refined liquids,1974,0
+30,chp_elec,refined liquids,1975,0
+30,chp_elec,refined liquids,1976,0
+30,chp_elec,refined liquids,1977,0
+30,chp_elec,refined liquids,1978,0
+30,chp_elec,refined liquids,1979,0
+30,chp_elec,refined liquids,1980,0
+30,chp_elec,refined liquids,1981,0
+30,chp_elec,refined liquids,1982,0
+30,chp_elec,refined liquids,1983,0
+30,chp_elec,refined liquids,1984,0
+30,chp_elec,refined liquids,1985,0
+30,chp_elec,refined liquids,1986,0
+30,chp_elec,refined liquids,1987,0
+30,chp_elec,refined liquids,1988,0
+30,chp_elec,refined liquids,1989,0.025776000000000004
+30,chp_elec,refined liquids,1990,0.024940800000000003
+30,chp_elec,refined liquids,1991,0.026049600000000003
+30,chp_elec,refined liquids,1992,0.027777600000000003
+30,chp_elec,refined liquids,1993,0.0290592
+30,chp_elec,refined liquids,1994,0.0341136
+30,chp_elec,refined liquids,1995,0.03886560000000001
+30,chp_elec,refined liquids,1996,0.0422208
+30,chp_elec,refined liquids,1997,0.0468144
+30,chp_elec,refined liquids,1998,0.054648
+30,chp_elec,refined liquids,1999,0.0627264
+30,chp_elec,refined liquids,2000,0.06517440000000001
+30,chp_elec,refined liquids,2001,0.0626256
+30,chp_elec,refined liquids,2002,0.0678816
+30,chp_elec,refined liquids,2003,0.06294240000000001
+30,chp_elec,refined liquids,2004,0.06455520000000001
+30,chp_elec,refined liquids,2005,0.0619632
+30,chp_elec,refined liquids,2006,0.056059199999999997
+30,chp_elec,refined liquids,2007,0.0476496
+30,chp_elec,refined liquids,2008,0.0397008
+30,chp_elec,refined liquids,2009,0.036489600000000004
+30,chp_elec,refined liquids,2010,0.036936000000000004
+30,chp_elec,refined liquids,2011,0.0331056
+30,chp_elec,refined liquids,2012,0.030974400000000003
+30,chp_elec,refined liquids,2013,0.032040000000000006
+30,chp_elec,refined liquids,2014,0.0278208
+30,chp_elec,refined liquids,2015,0.016027200000000002
+31,chp_elec,biomass,1971,0
+31,chp_elec,biomass,1972,0
+31,chp_elec,biomass,1973,0
+31,chp_elec,biomass,1974,0
+31,chp_elec,biomass,1975,0
+31,chp_elec,biomass,1976,0
+31,chp_elec,biomass,1977,0
+31,chp_elec,biomass,1978,0
+31,chp_elec,biomass,1979,0
+31,chp_elec,biomass,1980,0
+31,chp_elec,biomass,1981,0
+31,chp_elec,biomass,1982,0
+31,chp_elec,biomass,1983,0
+31,chp_elec,biomass,1984,0
+31,chp_elec,biomass,1985,0
+31,chp_elec,biomass,1986,0
+31,chp_elec,biomass,1987,0
+31,chp_elec,biomass,1988,0
+31,chp_elec,biomass,1989,0
+31,chp_elec,biomass,1990,0
+31,chp_elec,biomass,1991,0
+31,chp_elec,biomass,1992,0
+31,chp_elec,biomass,1993,0
+31,chp_elec,biomass,1994,0
+31,chp_elec,biomass,1995,0
+31,chp_elec,biomass,1996,0
+31,chp_elec,biomass,1997,0
+31,chp_elec,biomass,1998,0
+31,chp_elec,biomass,1999,0
+31,chp_elec,biomass,2000,0
+31,chp_elec,biomass,2001,0
+31,chp_elec,biomass,2002,0
+31,chp_elec,biomass,2003,0
+31,chp_elec,biomass,2004,0
+31,chp_elec,biomass,2005,0
+31,chp_elec,biomass,2006,0
+31,chp_elec,biomass,2007,0
+31,chp_elec,biomass,2008,0
+31,chp_elec,biomass,2009,0
+31,chp_elec,biomass,2010,0
+31,chp_elec,biomass,2011,0
+31,chp_elec,biomass,2012,0
+31,chp_elec,biomass,2013,0
+31,chp_elec,biomass,2014,0
+31,chp_elec,biomass,2015,0
+31,chp_elec,coal,1971,0
+31,chp_elec,coal,1972,0
+31,chp_elec,coal,1973,0
+31,chp_elec,coal,1974,0
+31,chp_elec,coal,1975,0
+31,chp_elec,coal,1976,0
+31,chp_elec,coal,1977,0
+31,chp_elec,coal,1978,0
+31,chp_elec,coal,1979,0
+31,chp_elec,coal,1980,0
+31,chp_elec,coal,1981,0
+31,chp_elec,coal,1982,0
+31,chp_elec,coal,1983,0
+31,chp_elec,coal,1984,0
+31,chp_elec,coal,1985,0
+31,chp_elec,coal,1986,0
+31,chp_elec,coal,1987,0
+31,chp_elec,coal,1988,0
+31,chp_elec,coal,1989,0
+31,chp_elec,coal,1990,0
+31,chp_elec,coal,1991,0
+31,chp_elec,coal,1992,0
+31,chp_elec,coal,1993,0
+31,chp_elec,coal,1994,0
+31,chp_elec,coal,1995,0
+31,chp_elec,coal,1996,0
+31,chp_elec,coal,1997,0
+31,chp_elec,coal,1998,0
+31,chp_elec,coal,1999,0
+31,chp_elec,coal,2000,0
+31,chp_elec,coal,2001,0
+31,chp_elec,coal,2002,0
+31,chp_elec,coal,2003,0
+31,chp_elec,coal,2004,0
+31,chp_elec,coal,2005,0
+31,chp_elec,coal,2006,0
+31,chp_elec,coal,2007,0
+31,chp_elec,coal,2008,0
+31,chp_elec,coal,2009,0
+31,chp_elec,coal,2010,0
+31,chp_elec,coal,2011,0
+31,chp_elec,coal,2012,0
+31,chp_elec,coal,2013,0
+31,chp_elec,coal,2014,0
+31,chp_elec,coal,2015,0
+31,chp_elec,gas,1971,0
+31,chp_elec,gas,1972,0
+31,chp_elec,gas,1973,0
+31,chp_elec,gas,1974,0
+31,chp_elec,gas,1975,0
+31,chp_elec,gas,1976,0
+31,chp_elec,gas,1977,0
+31,chp_elec,gas,1978,0
+31,chp_elec,gas,1979,0
+31,chp_elec,gas,1980,0
+31,chp_elec,gas,1981,0
+31,chp_elec,gas,1982,0
+31,chp_elec,gas,1983,0
+31,chp_elec,gas,1984,0
+31,chp_elec,gas,1985,0
+31,chp_elec,gas,1986,0
+31,chp_elec,gas,1987,0
+31,chp_elec,gas,1988,0
+31,chp_elec,gas,1989,0
+31,chp_elec,gas,1990,0
+31,chp_elec,gas,1991,0
+31,chp_elec,gas,1992,0
+31,chp_elec,gas,1993,0
+31,chp_elec,gas,1994,0
+31,chp_elec,gas,1995,0
+31,chp_elec,gas,1996,0
+31,chp_elec,gas,1997,0
+31,chp_elec,gas,1998,0
+31,chp_elec,gas,1999,0
+31,chp_elec,gas,2000,0
+31,chp_elec,gas,2001,0
+31,chp_elec,gas,2002,0
+31,chp_elec,gas,2003,0
+31,chp_elec,gas,2004,0
+31,chp_elec,gas,2005,0
+31,chp_elec,gas,2006,0
+31,chp_elec,gas,2007,0
+31,chp_elec,gas,2008,0
+31,chp_elec,gas,2009,0
+31,chp_elec,gas,2010,0
+31,chp_elec,gas,2011,0
+31,chp_elec,gas,2012,0
+31,chp_elec,gas,2013,0
+31,chp_elec,gas,2014,0
+31,chp_elec,gas,2015,0
+31,chp_elec,refined liquids,1971,0
+31,chp_elec,refined liquids,1972,0
+31,chp_elec,refined liquids,1973,0
+31,chp_elec,refined liquids,1974,0
+31,chp_elec,refined liquids,1975,0
+31,chp_elec,refined liquids,1976,0
+31,chp_elec,refined liquids,1977,0
+31,chp_elec,refined liquids,1978,0
+31,chp_elec,refined liquids,1979,0
+31,chp_elec,refined liquids,1980,0
+31,chp_elec,refined liquids,1981,0
+31,chp_elec,refined liquids,1982,0
+31,chp_elec,refined liquids,1983,0
+31,chp_elec,refined liquids,1984,0
+31,chp_elec,refined liquids,1985,0
+31,chp_elec,refined liquids,1986,0
+31,chp_elec,refined liquids,1987,0
+31,chp_elec,refined liquids,1988,0
+31,chp_elec,refined liquids,1989,0
+31,chp_elec,refined liquids,1990,0
+31,chp_elec,refined liquids,1991,0
+31,chp_elec,refined liquids,1992,0
+31,chp_elec,refined liquids,1993,0
+31,chp_elec,refined liquids,1994,0
+31,chp_elec,refined liquids,1995,0
+31,chp_elec,refined liquids,1996,0
+31,chp_elec,refined liquids,1997,0
+31,chp_elec,refined liquids,1998,0
+31,chp_elec,refined liquids,1999,0
+31,chp_elec,refined liquids,2000,0
+31,chp_elec,refined liquids,2001,0
+31,chp_elec,refined liquids,2002,0
+31,chp_elec,refined liquids,2003,0
+31,chp_elec,refined liquids,2004,0
+31,chp_elec,refined liquids,2005,0
+31,chp_elec,refined liquids,2006,0
+31,chp_elec,refined liquids,2007,0
+31,chp_elec,refined liquids,2008,0
+31,chp_elec,refined liquids,2009,0
+31,chp_elec,refined liquids,2010,0
+31,chp_elec,refined liquids,2011,0
+31,chp_elec,refined liquids,2012,0
+31,chp_elec,refined liquids,2013,0
+31,chp_elec,refined liquids,2014,0
+31,chp_elec,refined liquids,2015,0
+32,chp_elec,biomass,1971,0
+32,chp_elec,biomass,1972,0
+32,chp_elec,biomass,1973,0
+32,chp_elec,biomass,1974,0
+32,chp_elec,biomass,1975,0
+32,chp_elec,biomass,1976,0
+32,chp_elec,biomass,1977,0
+32,chp_elec,biomass,1978,0
+32,chp_elec,biomass,1979,0
+32,chp_elec,biomass,1980,0
+32,chp_elec,biomass,1981,0
+32,chp_elec,biomass,1982,0
+32,chp_elec,biomass,1983,0
+32,chp_elec,biomass,1984,0
+32,chp_elec,biomass,1985,0
+32,chp_elec,biomass,1986,0
+32,chp_elec,biomass,1987,0
+32,chp_elec,biomass,1988,0
+32,chp_elec,biomass,1989,0
+32,chp_elec,biomass,1990,0
+32,chp_elec,biomass,1991,0
+32,chp_elec,biomass,1992,0
+32,chp_elec,biomass,1993,0
+32,chp_elec,biomass,1994,0
+32,chp_elec,biomass,1995,0
+32,chp_elec,biomass,1996,0
+32,chp_elec,biomass,1997,0
+32,chp_elec,biomass,1998,0
+32,chp_elec,biomass,1999,0
+32,chp_elec,biomass,2000,0
+32,chp_elec,biomass,2001,0
+32,chp_elec,biomass,2002,0
+32,chp_elec,biomass,2003,0
+32,chp_elec,biomass,2004,0
+32,chp_elec,biomass,2005,0
+32,chp_elec,biomass,2006,0
+32,chp_elec,biomass,2007,0
+32,chp_elec,biomass,2008,0
+32,chp_elec,biomass,2009,0
+32,chp_elec,biomass,2010,0
+32,chp_elec,biomass,2011,0
+32,chp_elec,biomass,2012,0
+32,chp_elec,biomass,2013,0
+32,chp_elec,biomass,2014,0
+32,chp_elec,biomass,2015,0
+32,chp_elec,coal,1971,0
+32,chp_elec,coal,1972,0
+32,chp_elec,coal,1973,0
+32,chp_elec,coal,1974,0
+32,chp_elec,coal,1975,0
+32,chp_elec,coal,1976,0
+32,chp_elec,coal,1977,0
+32,chp_elec,coal,1978,0
+32,chp_elec,coal,1979,0
+32,chp_elec,coal,1980,0
+32,chp_elec,coal,1981,0
+32,chp_elec,coal,1982,0
+32,chp_elec,coal,1983,0
+32,chp_elec,coal,1984,0
+32,chp_elec,coal,1985,0
+32,chp_elec,coal,1986,0
+32,chp_elec,coal,1987,0
+32,chp_elec,coal,1988,0
+32,chp_elec,coal,1989,0
+32,chp_elec,coal,1990,0
+32,chp_elec,coal,1991,0
+32,chp_elec,coal,1992,0
+32,chp_elec,coal,1993,0
+32,chp_elec,coal,1994,0
+32,chp_elec,coal,1995,0
+32,chp_elec,coal,1996,0
+32,chp_elec,coal,1997,0
+32,chp_elec,coal,1998,0
+32,chp_elec,coal,1999,0
+32,chp_elec,coal,2000,0
+32,chp_elec,coal,2001,0
+32,chp_elec,coal,2002,0
+32,chp_elec,coal,2003,0
+32,chp_elec,coal,2004,0
+32,chp_elec,coal,2005,0
+32,chp_elec,coal,2006,0
+32,chp_elec,coal,2007,0
+32,chp_elec,coal,2008,0
+32,chp_elec,coal,2009,0
+32,chp_elec,coal,2010,0
+32,chp_elec,coal,2011,0
+32,chp_elec,coal,2012,0
+32,chp_elec,coal,2013,0
+32,chp_elec,coal,2014,0
+32,chp_elec,coal,2015,0
+32,chp_elec,gas,1971,0
+32,chp_elec,gas,1972,0
+32,chp_elec,gas,1973,0
+32,chp_elec,gas,1974,0
+32,chp_elec,gas,1975,0
+32,chp_elec,gas,1976,0
+32,chp_elec,gas,1977,0
+32,chp_elec,gas,1978,0
+32,chp_elec,gas,1979,0
+32,chp_elec,gas,1980,0
+32,chp_elec,gas,1981,0
+32,chp_elec,gas,1982,0
+32,chp_elec,gas,1983,0
+32,chp_elec,gas,1984,0
+32,chp_elec,gas,1985,0
+32,chp_elec,gas,1986,0
+32,chp_elec,gas,1987,0
+32,chp_elec,gas,1988,0
+32,chp_elec,gas,1989,0
+32,chp_elec,gas,1990,0
+32,chp_elec,gas,1991,0
+32,chp_elec,gas,1992,0
+32,chp_elec,gas,1993,0
+32,chp_elec,gas,1994,0
+32,chp_elec,gas,1995,0
+32,chp_elec,gas,1996,0
+32,chp_elec,gas,1997,0
+32,chp_elec,gas,1998,0
+32,chp_elec,gas,1999,0
+32,chp_elec,gas,2000,0
+32,chp_elec,gas,2001,0
+32,chp_elec,gas,2002,0
+32,chp_elec,gas,2003,0
+32,chp_elec,gas,2004,0
+32,chp_elec,gas,2005,0
+32,chp_elec,gas,2006,0
+32,chp_elec,gas,2007,0
+32,chp_elec,gas,2008,0
+32,chp_elec,gas,2009,0
+32,chp_elec,gas,2010,0
+32,chp_elec,gas,2011,0
+32,chp_elec,gas,2012,0
+32,chp_elec,gas,2013,0
+32,chp_elec,gas,2014,0
+32,chp_elec,gas,2015,0
+32,chp_elec,refined liquids,1971,0
+32,chp_elec,refined liquids,1972,0
+32,chp_elec,refined liquids,1973,0
+32,chp_elec,refined liquids,1974,0
+32,chp_elec,refined liquids,1975,0
+32,chp_elec,refined liquids,1976,0
+32,chp_elec,refined liquids,1977,0
+32,chp_elec,refined liquids,1978,0
+32,chp_elec,refined liquids,1979,0
+32,chp_elec,refined liquids,1980,0
+32,chp_elec,refined liquids,1981,0
+32,chp_elec,refined liquids,1982,0
+32,chp_elec,refined liquids,1983,0
+32,chp_elec,refined liquids,1984,0
+32,chp_elec,refined liquids,1985,0
+32,chp_elec,refined liquids,1986,0
+32,chp_elec,refined liquids,1987,0
+32,chp_elec,refined liquids,1988,0
+32,chp_elec,refined liquids,1989,0
+32,chp_elec,refined liquids,1990,0
+32,chp_elec,refined liquids,1991,0
+32,chp_elec,refined liquids,1992,0
+32,chp_elec,refined liquids,1993,0
+32,chp_elec,refined liquids,1994,0
+32,chp_elec,refined liquids,1995,0
+32,chp_elec,refined liquids,1996,0
+32,chp_elec,refined liquids,1997,0
+32,chp_elec,refined liquids,1998,0
+32,chp_elec,refined liquids,1999,0
+32,chp_elec,refined liquids,2000,0
+32,chp_elec,refined liquids,2001,0
+32,chp_elec,refined liquids,2002,0
+32,chp_elec,refined liquids,2003,0
+32,chp_elec,refined liquids,2004,0
+32,chp_elec,refined liquids,2005,0
+32,chp_elec,refined liquids,2006,0
+32,chp_elec,refined liquids,2007,0
+32,chp_elec,refined liquids,2008,0
+32,chp_elec,refined liquids,2009,0
+32,chp_elec,refined liquids,2010,0
+32,chp_elec,refined liquids,2011,0
+32,chp_elec,refined liquids,2012,0
+32,chp_elec,refined liquids,2013,0
+32,chp_elec,refined liquids,2014,0
+32,chp_elec,refined liquids,2015,0

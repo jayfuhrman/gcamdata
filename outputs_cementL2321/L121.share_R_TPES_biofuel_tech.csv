@@ -1,0 +1,23 @@
+# Ethanol and biodiesel consumption assigned to feedstock shares
+# ** PRE-BUILT; RAW IEA DATA NOT AVAILABLE **
+# ** PRE-BUILT; RAW IEA DATA NOT AVAILABLE **
+# ** PRE-BUILT; RAW IEA DATA NOT AVAILABLE **
+# ** PRE-BUILT; RAW IEA DATA NOT AVAILABLE **
+GCAM_region_ID,Biofuel,technology,GCAM_commodity,share
+1,biodiesel,biodiesel,OilCrop,1
+1,ethanol,corn ethanol,Corn,1
+7,biodiesel,biodiesel,OilCrop,1
+7,ethanol,sugar cane ethanol,SugarCrop,1
+8,ethanol,corn ethanol,Corn,1
+11,ethanol,corn ethanol,Corn,1
+12,biodiesel,biodiesel,OilCrop,0.805006126378435
+12,biodiesel,biodiesel,PalmFruit,0.1949938736215648
+12,ethanol,corn ethanol,Corn,0.8466371027346637
+12,ethanol,sugar cane ethanol,SugarCrop,0.15336289726533628
+13,biodiesel,biodiesel,OilCrop,0.8050061263784352
+13,biodiesel,biodiesel,PalmFruit,0.19499387362156484
+13,ethanol,corn ethanol,Corn,0.8466371027346637
+13,ethanol,sugar cane ethanol,SugarCrop,0.15336289726533628
+15,biodiesel,biodiesel,OilCrop,0.805006126378435
+15,biodiesel,biodiesel,PalmFruit,0.19499387362156484
+31,biodiesel,biodiesel,OilCrop,1
