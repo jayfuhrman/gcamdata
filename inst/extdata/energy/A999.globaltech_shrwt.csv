@@ -6,5 +6,5 @@
 supplysector,subsector,technology,1971,2019,2020,2100
 ces,dac,dac,0,0,1,1
 ces,dac,nodac,1,1,1,1
-process heat cement,gas,gasCCS,1,1,1,1
+process heat dac,gas,gasCCS,1,1,1,1
 airCO2,airCO2,airCO2,1,1,1,1
