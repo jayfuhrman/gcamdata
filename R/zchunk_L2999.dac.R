@@ -79,7 +79,7 @@ module_energy_L2999.dac <- function(command, ...) {
       remove.fraction <- minicam.non.energy.input <- input.cost <- PrimaryFuelCO2Coef.name <-
       PrimaryFuelCO2Coef <- calibration <- calOutputValue <- subs.share.weight <- region <-
       calibrated.value <- . <- scenario <- temp_lag <- base.service <- energy.final.demand <-
-      value.x <- value.y <- parameter <- L2999.IncomeElasticity_dac_gcam3 <- NULL
+      value.x <- value.y <- parameter <- NULL
 
     # ===================================================
     # 1. Perform computations
@@ -151,7 +151,9 @@ module_energy_L2999.dac <- function(command, ...) {
       L2999.GlobalTechCoef_dac
 
     # Carbon capture rates for dac.
-    # L2999.GlobalTechCapture_dac: defines CO2 capture fractions for dac (by definition 1), as well as a separately-defined process heat sector
+    # L2999.GlobalTechCapture_dac: defines CO2 capture fractions for dac (by definition 1, as all inputs are defined per tonne C removed from the atmosphere),
+    # as well as a separately-defined process heat dac sector.
+    # This allows separate consideration of the capture fraction of any combustion emissions resulting from the process heat input
     # No need to consider historical periods here
     A999.globaltech_co2capture %>%
       gather_years %>%
